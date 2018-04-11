@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">விலை பின்னர்</string>
+<string name="annual_percent_rate">ஆண்டு சதவீதம் வீதம்</string>
+<string name="app_name">சதவீதம் கால்குலேட்டர்</string>
+<string name="app_name2">சதவீதம் மற்றும் தள்ளுபடிகளை</string>
+<string name="app_name3">தள்ளுபடிகளை கால்குலேட்டர்</string>
+<string name="app_name4">சதவீதம் மற்றும் தள்ளுபடிகளை கால்குலேட்டர்</string>
+<string name="before_price">விலை முன்</string>
+<string name="big_product">பெரிய தயாரிப்பு</string>
+<string name="bill_amount">ரசீது தொகை</string>
+<string name="bug">பிழை</string>
+<string name="cancel">ரத்து</string>
+<string name="choose_currency">நாணய தேர்வு</string>
+<string name="clear">அழி</string>
+<string name="commission">ஆணைக்குழு</string>
+<string name="compare_result">ஒப்பீடு முடிவுகள்</string>
+<string name="cost_percent">கடன் சதவீதம் என செலவு</string>
+<string name="del">நீக்கு</string>
+<string name="discount">தள்ளுபடி</string>
+<string name="discount_rate">தள்ளுபடி விகிதம்</string>
+<string name="feedback">எங்களுக்கு எழுதுங்கள்!</string>
+<string name="feedback_prompt">ஹாய், நீங்கள் நாம் உங்கள் அனுபவம் மேம்படுத்த முடியும் என்று, சில கருத்துக்களை கொடுக்க விரும்புகிறேன்?</string>
+<string name="fill_all_non_framed">நீங்கள் அனைத்து அல்லாத ஆன துறைகள் நிரப்ப வேண்டும்</string>
+<string name="fill_in">அனைத்து உள்ளீடு பூர்த்தி செய்யுங்கள்</string>
+<string name="fill_in_bill">நீங்கள் நிரப்ப வேண்டும்: ரசீது தொகை</string>
+<string name="fill_in_compulsory">தேவையான அனைத்து பூர்த்தி செய்யுங்கள்</string>
+<string name="fill_in_xor">காலியாக சரியாக ஒரு துறையில் விடவும்</string>
+<string name="help_translate">இந்த பயன்பாடு மொழிபெயர்க்க உதவும்</string>
+<string name="hint_after_price">தள்ளுபடி பிறகு விலை. வேறு வார்த்தைகளில் சொன்னால், இந்த குறைந்த விலை.</string>
+<string name="hint_amount">உங்கள் கடன் தொகை. நீங்கள் வாங்க வேண்டும், இது தயாரிப்பின் விலை பொதுவாக சம. இந்த துறையில் தேவைப்படுகிறது.</string>
+<string name="hint_apr">ஆண்டு சதவீதம் வீதம் (APR) - மொத்த செலவு உட்பட கடன் பயனுள்ள ஆண்டு வட்டி விகிதம்,.</string>
+<string name="hint_before_price">தள்ளுபடி முன் விலை. வேறு வார்த்தைகளில் கூறுவதானால், இந்த அதிக விலை ஆகும்.</string>
+<string name="hint_bill_amount">மொத்த அளவு உங்கள் ரசீதில் கொடுக்க.</string>
+<string name="hint_commission">ஆணையம் (அல்லது கடன் கட்டணம்) கடன் சதவீதம். தெரியவில்லை என்றால், காலியாக விட்டுவிடலாம்.</string>
+<string name="hint_cost_percent">மொத்த செலவு (மேலே) கடன் சதவீதம் என தெரிவித்தார்.</string>
+<string name="hint_discount_rate">இந்த சதவீதம் என தள்ளுபடி விகிதம் ஆகும்.</string>
+<string name="hint_initial_amount">விழுக்காடாக இருக்கும் (அல்லது இருந்தது) இது இருந்து ஆரம்ப தொகை கணக்கிடப்படுகிறது.</string>
+<string name="hint_install">மாதாந்த கொடுப்பனவுகள் எண்ணிக்கை பொதுவாக சம. இந்த துறையில் தேவைப்படுகிறது.</string>
+<string name="hint_interest">உங்கள் கடன் பெயரளவு (வருடாந்திர) வட்டி விகிதம் என்ன? இந்த துறையில் காலியாக உள்ளது என்றால், நீங்கள் "தவணை" நிரப்ப வேண்டும்</string>
+<string name="hint_other_fees">கடன் தொகை சார்ந்து இல்லை என்று அனைத்து மற்ற கட்டணங்கள். தெரியவில்லை என்றால், காலியாக விட்டுவிடலாம்.</string>
+<string name="hint_payment">உங்கள் (மாத இதழ்) தவணை ஒவ்வொரு அளவு. நீங்கள் "சதவீதம்" காலியாக விட்டு வரை நீங்கள், இந்த துறையில் நிரப்ப வேண்டும். வெற்று விட்டு, அது பொத்தானை அழுத்தி பின்னர் கணக்கிடப்படும்.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">இரண்டு பொருட்கள் ஒரு அலகு விலைகள் குறைந்துள்ளன. இது போன்ற 1G, 1ml, 1oz, 1 உருப்படியை இருக்க முடியும்</string>
+<string name="hint_result_amount">ஆரம்ப மதிப்பு சதவீதம் கணக்கிட்டு விளைவாக என்று அளவு.</string>
+<string name="hint_saved_amount">நீங்கள் தள்ளுபடி விலையில் வாங்கும் மூலம் சேமிப்பு பணத்தை அளவு.</string>
+<string name="hint_saved_bigger">நீங்கள் பெரிய தயாரிப்பு வாங்கும் மூலம் காப்பாற்ற வேண்டும் என்று பணத்தை அளவு. நேர்மறை மதிப்பானது தயாரிப்பு ஒரு நல்ல ஒப்பந்தம் என்று, குறிக்கிறது. எதிர்மறையான மதிப்பு சிறிய தயாரிப்பு ஒரு நல்ல ஒப்பந்தம் என்று, குறிக்கிறது.</string>
+<string name="hint_simple_percent">சதவீதம், நீங்கள் "ஆரம்ப மதிப்பு" வெளியே கணக்கிட வேண்டும் என்று</string>
+<string name="hint_small_price">கொடுக்கப்பட்ட தயாரிப்பு விலை.</string>
+<string name="hint_small_units">குறிப்பிட்ட தயாரிப்பு அலகுகள் எண்ணிக்கை, அதை தொகுதி, எடை அல்லது கொள்கலன் பொருட்களை எண்ணிக்கை ஒன்று இருக்க முடியும்.</string>
+<string name="hint_tip_amount">முனை அளவு மட்டுமே நீங்கள் செலுத்த தயாராக உள்ளன.</string>
+<string name="hint_tip_percentage">நீங்கள் செலுத்த வேண்டும் முனை சதவீதம் விகிதம்.</string>
+<string name="hint_total_cost">கூட்டு வட்டி மற்றும் அனைத்து கட்டணங்கள் உட்பட கடன் மொத்த செலவு.</string>
+<string name="hint_total_repay">வேண்டும் என்று மொத்த அளவு கடன் திருப்பிச் செலுத்தப்பட வேண்டும்.</string>
+<string name="hint_total_to_pay">மசோதா பிளஸ் முனை அளவு சமமாக நீங்கள் வேண்டும் (அல்லது விரும்பவில்லை) கொடுக்க மொத்த அளவு.</string>
+<string name="hint_would_cost">யூனிட் அதன் விலை அனுமானித்து பெரிய தயாரிப்பு அனுமான விலை சிறிய தயாரிப்பு என்று சமமாக இருந்தது.</string>
+<string name="information_1">ஷாப்பிங் போது நீங்கள் ஒரு சலுகை அல்லது தள்ளுபடி பார்க்கும் போதெல்லாம், நீங்கள் சேமிக்க முடியும் எவ்வளவு, பார்க்கலாம், அல்லது தயாரிப்பு அசல் விலை என்ன. உண்மையில், நீங்கள் காலியாக தங்கள் துறைகளில் விட்டு மதிப்புகள் எந்த கணக்கிட முடியும். நீங்கள் வெற்று, சரியாக இரண்டு துறைகள் விட்டு வேண்டும். நீங்கள் 25% தள்ளுபடி என்று, கற்பனை, மற்றும் அசல் விலை தற்போதைய விலை எவ்வளவு சேமிக்கும் கண்டுபிடிக்க மற்றும் "தள்ளுபடி" "முன்" நிரப்ப வேண்டும் 299. இருந்தது.</string>
+<string name="information_2">இந்த எளிதாக கருவி நன்றி, நீங்கள் ஒரு பெரிய தயாரிப்பு வாங்கும் நீங்கள் கொஞ்சம் பணம் மற்றும் எவ்வளவு சேமிக்க வேண்டும் என்பதை கண்டுபிடிக்க முடியும். நீங்கள் 2.79 செலவாகிறது, இது ஒரு சிறிய பாட்டில் (0.5 லிட்டர்) மற்றும் 7,49 செலவு, இதில் ஒரு பெரிய பாட்டில் (1.5 லிட்டர்) ஒரு பானம் என்று, கற்பனை. ஒரு நல்ல வாய்ப்பை எது? உங்களுக்கு தேவையான அனைத்து 4 உள்ளீடு துறைகள் நிரப்ப மற்றும் "கணக்கிடுதல்" அழுத்தவும் ஆகும்.</string>
+<string name="information_3">ஷாப்பிங் போது நீங்கள் ஒரு சலுகை அல்லது தள்ளுபடி பார்க்கும் போதெல்லாம், நீங்கள் சேமிக்க முடியும் எவ்வளவு, பார்க்கலாம், அல்லது தயாரிப்பு அசல் விலை என்ன. உண்மையில், நீங்கள் காலியாக தங்கள் துறைகளில் விட்டு மதிப்புகள் எந்த கணக்கிட முடியும். நீங்கள் வெற்று, சரியாக இரண்டு துறைகள் விட்டு வேண்டும். நீங்கள் 25% தள்ளுபடி என்று, கற்பனை, மற்றும் அசல் விலை தற்போதைய விலை எவ்வளவு சேமிக்கும் கண்டுபிடிக்க மற்றும் "தள்ளுபடி" "முன்" நிரப்ப வேண்டும் 299. இருந்தது.</string>
+<string name="information_4">இந்த எளிதாக கருவி நன்றி, நீங்கள் ஒரு பெரிய தயாரிப்பு வாங்கும் நீங்கள் கொஞ்சம் பணம் மற்றும் எவ்வளவு சேமிக்க வேண்டும் என்பதை கண்டுபிடிக்க முடியும். நீங்கள் 2.79 செலவாகிறது, இது ஒரு சிறிய பாட்டில் (0.5 லிட்டர்) மற்றும் 7,49 செலவு, இதில் ஒரு பெரிய பாட்டில் (1.5 லிட்டர்) ஒரு பானம் என்று, கற்பனை. ஒரு நல்ல வாய்ப்பை எது? உங்களுக்கு தேவையான அனைத்து 4 உள்ளீடு துறைகள் நிரப்ப மற்றும் "கணக்கிடுதல்" அழுத்தவும் ஆகும்.</string>
+<string name="information_5">நீங்கள் உங்கள் வாங்கிய கடன் எடுக்க திட்டமிட என்றால், நீங்கள் பயனுள்ள (உண்மையான) ஆண்டு சதவீதம் வீதம் அத்துடன் செலவுகளையும் கணக்கிட முடியும். இது இரண்டு முறைகளில் வேலை. முதல், நீங்கள் கடன் கொடுக்கும் மாத தவணை தொகை அதே மொத்த செலவுகள் கணக்கிட வேண்டும் விண்ணப்ப வழங்கிய பெயரளவு (வருடாந்திர) விழுக்காடு வீதம் இட வேண்டும். இரண்டாவது முறையில், நீங்கள் (சில நேரங்களில் ஒரு வணிகர் வழங்கப்பட்டது) மாதாந்திர தவணை அளவு நுழைய வேண்டும், மற்றும் பயன்பாடு வருடாந்திர விழுக்காடு அத்துடன் அனைத்து செலவுகள் கணக்கிட வேண்டும்.</string>
+<string name="initial_value">ஆரம்ப மதிப்பு</string>
+<string name="instructions">வழிமுறைகள்</string>
+<string name="leave_one_of_two">சதவீதம், தவனணப்பணம் காலியாக ஒரு விடவும். கீழே உள்ள வழிமுறைகளை பார்க்கவும்.</string>
+<string name="leave_two_empty">சரியாக இரண்டு துறைகள் காலியாக விடவும்</string>
+<string name="LoanCalc">கடன் செலவுகள்</string>
+<string name="loan_amt">கடன் தொகை</string>
+<string name="menu_title">நீங்கள் என்ன கணக்கிட வேண்டும்?</string>
+<string name="msg_from_dev">டெவலப்பர் இருந்து செய்தி</string>
+<string name="ok">சரி</string>
+<string name="opinion">கருத்து</string>
+<string name="other_fees">பிற கட்டணங்கள்</string>
+<string name="payments">தவணைக்கட்டணங்களின் எண்ணிக்கை</string>
+<string name="payment_amount">தவணை தொகை</string>
+<string name="percent">சதவீதம்</string>
+<!-- as in percentage rate -->
+<string name="percentage">சதவீதம்</string>
+<string name="price_unit">யூனிட் விலை</string>
+<string name="question">கேள்வி</string>
+<!-- imperative -->
+<string name="rate_app">இந்தப் பயன்பாட்டை மதிப்பிடு!</string>
+<string name="regular_percent">வழக்கமான சதவீதம்</string>
+<string name="results">முடிவுகள்</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">முடிவு மதிப்பு</string>
+<string name="saved_amount">சேமித்த தொகை</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">வழிமுறைகளை கீழே சுருள்</string>
+<string name="send">அனுப்பவும்</string>
+<string name="small_price">விலை</string>
+<string name="small_product">சிறிய தயாரிப்பு</string>
+<string name="small_units">அலகுகள் அல்லது அளவு</string>
+<string name="submit">கணக்கிடுங்கள்</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">இலக்கு அளவு</string>
+<string name="thanks">நன்றி!</string>
+<string name="tip">பணிக்கொடை தொகை</string>
+<string name="tip_amount">பணிக்கொடை தொகை</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">விழுக்காடு வீதம்</string>
+<string name="total_cost">மொத்த செலவு</string>
+<string name="total_pay">செலுத்த மொத்த</string>
+<string name="total_repay">திருப்பிச் செலுத்த மொத்த</string>
+<string name="would_cost">அனுமான செலவு</string>
+</resources>

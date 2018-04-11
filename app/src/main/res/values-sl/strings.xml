@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Cena po</string>
+<string name="annual_percent_rate">Efektivna obrestna mera</string>
+<string name="app_name">Kalkulator odstotka</string>
+<string name="app_name2">Odstotek in popusti</string>
+<string name="app_name3">Kalkulator popustov</string>
+<string name="app_name4">Kalkulator odstotka in popusti</string>
+<string name="before_price">Cena pred</string>
+<string name="big_product">Velik izdelek</string>
+<string name="bill_amount">Znesek prejema</string>
+<string name="bug">Napaka</string>
+<string name="cancel">Prekliči</string>
+<string name="choose_currency">Izberite valuto</string>
+<string name="clear">Počisti vse</string>
+<string name="commission">Komisija</string>
+<string name="compare_result">Rezultati primerjave</string>
+<string name="cost_percent">Stroški kot odstotek posojila</string>
+<string name="del">Izbriši</string>
+<string name="discount">Popust</string>
+<string name="discount_rate">Diskontne stopnje</string>
+<string name="feedback">Pišite nam!</string>
+<string name="feedback_prompt">Živjo, bi radi, da nam nekaj povratnih informacij, tako da bomo lahko izboljšali vaše izkušnje?</string>
+<string name="fill_all_non_framed">Ti morajo izpolniti vse, ki niso članice uokvirjena polja</string>
+<string name="fill_in">Prosimo, da izpolnite vsa vnosna polja</string>
+<string name="fill_in_bill">Morate izpolniti: Znesek prejemu</string>
+<string name="fill_in_compulsory">Prosimo, da izpolnite vsa zahtevana polja</string>
+<string name="fill_in_xor">Pustite natanko eno polje prazno</string>
+<string name="help_translate">Pomagal prevesti to aplikacijo</string>
+<string name="hint_after_price">Cena po popusta. Z drugimi besedami, to je nižja cena.</string>
+<string name="hint_amount">Znesek vaše posojilo. Ponavadi je enaka ceni izdelka, ki ga želite kupiti. To polje je obvezno.</string>
+<string name="hint_apr">Efektivna obrestna mera (APR) - Efektivna letna obrestna mera za posojilo, vključno celotnih stroškov.</string>
+<string name="hint_before_price">Cena pred popusta. Z drugimi besedami, to je višja cena.</string>
+<string name="hint_bill_amount">Skupni znesek za plačilo na računu.</string>
+<string name="hint_commission">Komisija (ali pristojbina posojilo) kot odstotek posojila. Če ta ni znana, pustite prazno.</string>
+<string name="hint_cost_percent">Skupni stroški (kot zgoraj), izraženi kot odstotek posojila.</string>
+<string name="hint_discount_rate">To je diskontno stopnjo kot odstotek.</string>
+<string name="hint_initial_amount">Začetni znesek, od katerega se bo odstotek je (ali je bil), izračunan.</string>
+<string name="hint_install">Ponavadi enako številu mesečnih plačil. To polje je obvezno.</string>
+<string name="hint_interest">Kaj je nominalno (letno) obrestno mero za vaše posojilo? Če to polje pustite prazno, boste morali izpolniti "obrok"</string>
+<string name="hint_other_fees">Vsi drugi stroški, ki niso odvisni od višine posojila. Če ta ni znana, pustite prazno.</string>
+<string name="hint_payment">Znesek vsakega od vaših (mesečnih) obrokih. Vam ni treba izpolniti na tem področju, razen če ste levi "Odstotek" prazno. Če je prazno, se izračuna po pritisku na gumb.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Cene za eno enoto za oba izdelka. To je lahko bodisi 1g, 1 ml, 1oz, 1 kos itd</string>
+<string name="hint_result_amount">Količina, ki je posledica izračun odstotka začetne vrednosti.</string>
+<string name="hint_saved_amount">Količina denarja, ki ste varčevanje z nakupom po znižani ceni.</string>
+<string name="hint_saved_bigger">Količina denarja, ki vam bodo prihranili z nakupom večje izdelek. Pozitivna vrednost pomeni, da je večji proizvod boljši posel. Negativna vrednost pomeni, da je manjša izdelek boljšo ponudbo.</string>
+<string name="hint_simple_percent">Odstotek, ki ga želite izračunati iz "Začetna vrednost"</string>
+<string name="hint_small_price">Cena določenega proizvoda.</string>
+<string name="hint_small_units">Število enot v nekem izdelku, je lahko bodisi količina, teža ali število predmetov v posodi.</string>
+<string name="hint_tip_amount">Višina konice ste pripravljeni plačati.</string>
+<string name="hint_tip_percentage">Odstotek, na konici, ki ga želite plačati.</string>
+<string name="hint_total_cost">Skupni stroški posojila, vključno s sestavljenim obresti in vseh stroškov.</string>
+<string name="hint_total_repay">Skupni znesek, ki ga bo treba odplačati posojilodajalcu.</string>
+<string name="hint_total_to_pay">Skupni znesek, ki ga morajo (ali želeli), da plača enaka zakona, povečani količini konico.</string>
+<string name="hint_would_cost">Hipotetična cena večjega proizvoda ob predpostavki, da je njena cena na enoto, je bila enaka kot pri manjšem izdelka.</string>
+<string name="information_1">Kadar koli vidite rabat ali popust pri nakupovanju, lahko preverite, koliko lahko prihranite, ali kaj je bila prvotna cena izdelka. V bistvu, lahko izračunamo koli od vrednosti, ki jih zapuščajo svoja polja prazna. Moraš oditi natanko dva polja prazna. Predstavljajte si, da imate 25% popust, in prvotna cena je bila 299. Boste morali izpolniti "pred" in "popust", da bi ugotovili, trenutne cene in koliko boste prihranili.</string>
+<string name="information_2">Hvala za to preprosto orodje, boste lahko izvedeli, ali o nakupu večjega izdelka boste prihranili nekaj denarja in koliko. Predstavljajte si, da imate pijačo v majhni steklenički (0,5 litra), ki stane 2,79 in veliko steklenico (1,5 litra), ki stane 7,49. Katera je boljša ponudba? Vse kar potrebujete je, da izpolnite 4 vnosna polja in pritisnite "izračun".</string>
+<string name="information_3">Kadar koli vidite rabat ali popust pri nakupovanju, lahko preverite, koliko lahko prihranite, ali kaj je bila prvotna cena izdelka. V bistvu, lahko izračunamo koli od vrednosti, ki jih zapuščajo svoja polja prazna. Moraš oditi natanko dva polja prazna. Predstavljajte si, da imate 25% popust, in prvotna cena je bila 299. Boste morali izpolniti "pred" in "popust", da bi ugotovili, trenutne cene in koliko boste prihranili.</string>
+<string name="information_4">Hvala za to preprosto orodje, boste lahko izvedeli, ali o nakupu večjega izdelka boste prihranili nekaj denarja in koliko. Predstavljajte si, da imate pijačo v majhni steklenički (0,5 litra), ki stane 2,79 in veliko steklenico (1,5 litra), ki stane 7,49. Katera je boljša ponudba? Vse kar potrebujete je, da izpolnite 4 vnosna polja in pritisnite "izračun".</string>
+<string name="information_5">Če nameravate vzeti posojilo za vaše nakupe, si lahko izračunate vse stroške, povezane, kakor tudi učinkovito (realno) letnega odstotka obresti. Deluje na dva načina. V prvi, morate vnesti nominalno (letno) odstotek obresti, ki jih posojilodajalec in uporabe bodo izračunali višino mesečnih obrokih, kakor tudi skupne stroške. V drugem načinu, morate vnesti znesek mesečnega obroka (ki ga trgovec včasih predstavljen), in bo aplikacija izračuna letnega odstotka, kot tudi vse stroške.</string>
+<string name="initial_value">Začetna vrednost</string>
+<string name="instructions">Navodila</string>
+<string name="leave_one_of_two">Pustite prazno eno: odstotek, obrok. Glejte navodila spodaj.</string>
+<string name="leave_two_empty">Pustite natanko dva polja prazna</string>
+<string name="LoanCalc">Stroški kredita</string>
+<string name="loan_amt">Znesek posojila</string>
+<string name="menu_title">Kaj želite izračunati?</string>
+<string name="msg_from_dev">Sporočilo iz razvijalca</string>
+<string name="ok">OK</string>
+<string name="opinion">Mnenje</string>
+<string name="other_fees">Drugi stroški</string>
+<string name="payments">Število obrokov</string>
+<string name="payment_amount">Znesek obroka</string>
+<string name="percent">Odstotkov</string>
+<!-- as in percentage rate -->
+<string name="percentage">Odstotek</string>
+<string name="price_unit">Cena na enoto</string>
+<string name="question">Vprašanje</string>
+<!-- imperative -->
+<string name="rate_app">Ocenite to aplikacijo!</string>
+<string name="regular_percent">Redna odstotkov</string>
+<string name="results">Rezultati</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Vrednost rezultat</string>
+<string name="saved_amount">Shrani količina</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Za navodila se pomaknite navzdol</string>
+<string name="send">Pošlji</string>
+<string name="small_price">Cena</string>
+<string name="small_product">Mala izdelek</string>
+<string name="small_units">Enot ali količina</string>
+<string name="submit">Izračunaj</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Ciljni znesek</string>
+<string name="thanks">Hvala za razumevanje!</string>
+<string name="tip">Znesek nagrado</string>
+<string name="tip_amount">Znesek nagrado</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Odstotek,</string>
+<string name="total_cost">Skupni stroški</string>
+<string name="total_pay">Skupaj za plačilo</string>
+<string name="total_repay">Skupaj za poplačilo</string>
+<string name="would_cost">Hipotetični stroški</string>
+</resources>

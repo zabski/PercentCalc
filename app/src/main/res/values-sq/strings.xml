@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Çmimi pas</string>
+<string name="annual_percent_rate">Norma vjetore Përqindja</string>
+<string name="app_name">Llogaritësi i përqindjes</string>
+<string name="app_name2">Përqindje dhe lirime</string>
+<string name="app_name3">Llogaritësi i zbritje</string>
+<string name="app_name4">Llogaritësi i përqindjes dhe zbritje</string>
+<string name="before_price">Çmimi më parë</string>
+<string name="big_product">Produkt i madh</string>
+<string name="bill_amount">Shuma e marrjes</string>
+<string name="bug">Gabim</string>
+<string name="cancel">Anuloj</string>
+<string name="choose_currency">Zgjidh monedhën</string>
+<string name="clear">Clear gjitha</string>
+<string name="commission">Komision</string>
+<string name="compare_result">Rezultatet e krahasimit</string>
+<string name="cost_percent">Kosto sa për qind të kredisë</string>
+<string name="del">Fshij</string>
+<string name="discount">Zbritje</string>
+<string name="discount_rate">Norma e skontimit</string>
+<string name="feedback">Na shkruani!</string>
+<string name="feedback_prompt">Hi, do të dëshironit të na jepni disa reagime në mënyrë që ne mund të përmirësojë përvojën tuaj?</string>
+<string name="fill_all_non_framed">Ju duhet të plotësoni të gjitha fushat jo-i përshtatur</string>
+<string name="fill_in">Ju lutem plotësoni të gjitha fushat e input</string>
+<string name="fill_in_bill">Ju duhet të plotësoni: Shuma e pranimit</string>
+<string name="fill_in_compulsory">Ju lutemi të plotësoni të gjitha fushat e kërkuara</string>
+<string name="fill_in_xor">Dërgo saktësisht një fushë bosh</string>
+<string name="help_translate">Ndihmë të përkthyer këtë kërkesë</string>
+<string name="hint_after_price">Çmimi pas zbritjes. Me fjalë të tjera, ky është çmimi më i ulët.</string>
+<string name="hint_amount">Shuma e kredisë tuaj. Zakonisht e barabartë me çmimin e produktit, të cilat ju dëshironi të blini. Kjo fushë është e nevojshme.</string>
+<string name="hint_apr">Norma vjetore Përqindja (prill) - norma efektive vjetore e interesit të kredisë, duke përfshirë koston totale.</string>
+<string name="hint_before_price">Çmimi para zbritjes. Me fjalë të tjera, ky është çmimi më i lartë.</string>
+<string name="hint_bill_amount">Shuma totale për të paguar me pranimin tuaj.</string>
+<string name="hint_commission">Komisioni (apo tarifë hua) si përqindje e kredisë. Nëse nuk dihet, të lënë bosh.</string>
+<string name="hint_cost_percent">Kostoja totale (si më lartë) e shprehur si përqindje e kredisë.</string>
+<string name="hint_discount_rate">Kjo është norma e skontimit si përqindje.</string>
+<string name="hint_initial_amount">Shuma fillestare nga e cila do të jetë në përqindje (ose ishte) i llogaritur.</string>
+<string name="hint_install">Zakonisht i barabartë me numrin e pagesave mujore. Kjo fushë është e nevojshme.</string>
+<string name="hint_interest">Çfarë është norma nominale (vjetor) Interesi i kredisë tuaj? Nëse kjo fushë është lënë bosh, ju do të duhet të plotësoni në "Instalimi"</string>
+<string name="hint_other_fees">Të gjitha tarifat e tjera që nuk janë të varur nga sasia e kredisë. Nëse nuk dihet, të lënë bosh.</string>
+<string name="hint_payment">Shuma e secilit prej kësteve tuaja (mujore). Ju nuk duhet të plotësoni në këtë fushë, po të mos ju lënë "Përqindja" bosh. Nëse lihet bosh, ajo do të llogaritet pasi të shtypur butonin.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Çmimet e një njësie për të dy produkteve. Ajo mund të jetë ose 1g, 1ml, 1oz, 1 pika etj</string>
+<string name="hint_result_amount">Shuma që rezulton nga llogaritjen e përqindjes së vlerës fillestare.</string>
+<string name="hint_saved_amount">Shuma e parave që ju jeni të shpëtuar me anë të blerë me çmim të zbritur.</string>
+<string name="hint_saved_bigger">Shuma e parave që ju do të kurseni duke blerë produktin më të madh. Vlera pozitive tregon, se produkti më i madh është një marrëveshje më të mirë. Vlera negative tregon, se produkti më i vogël është një marrëveshje më të mirë.</string>
+<string name="hint_simple_percent">Përqindje, që ju dëshironi për të llogaritur nga "vlerës fillestare"</string>
+<string name="hint_small_price">Çmimi i produktit të dhënë.</string>
+<string name="hint_small_units">Numri i njësive në produkt të dhënë, ajo mund të jetë ose vëllimi, pesha ose numri i artikujve në enë.</string>
+<string name="hint_tip_amount">Shuma e tip ju jeni të gatshëm të paguajnë.</string>
+<string name="hint_tip_percentage">Shkalla Përqindja e maja që ju doni të paguani.</string>
+<string name="hint_total_cost">Kostoja totale e kredisë, duke përfshirë interesin e komplikuar dhe të gjitha tarifat.</string>
+<string name="hint_total_repay">Shuma totale që duhet të paguhet për të huadhënës.</string>
+<string name="hint_total_to_pay">Shuma totale që ju duhet (ose duan) për të paguar, e barabartë me faturën plus shuma tip.</string>
+<string name="hint_would_cost">Çmimi hipotetik i produktit më të madh duke supozuar çmimin e saj për njësi ishte e barabartë me atë të produktit më të vogël.</string>
+<string name="information_1">Sa herë që ju të shihni një zbritje ose zbritje ndërsa pazar, ju mund të kontrolloni, se sa ju mund të ruani, ose çfarë çmimi fillestar i produktit ishte. Në fakt, ju mund të llogaritur çdo të vlerave duke e lënë fushat e tyre bosh. Ju keni për të lënë pikërisht dy fusha bosh. Paramendoni, se ju keni një zbritje prej 25%, dhe çmimi fillestar ishte 299. Ju duhet të plotësoni "para" dhe "zbritje" për të gjetur se çmimi aktual dhe se sa ju do të kurseni.</string>
+<string name="information_2">Falë këtij mjeti të lehtë, ju mund të gjeni nëse blejnë një produkt më të madh do të ju kursejnë disa para dhe sa. Imagjinoni, që ju të keni një pije në një shishe të vogël (0,5 litra) e cila kushton 2,79 dhe një shishe të madhe (1,5 litra) e cila kushton 7,49. Cili është një ofertë më të mirë? Të gjitha që ju duhet është të plotësoni 4 input fields dhe shtypni "llogaritur".</string>
+<string name="information_3">Sa herë që ju të shihni një zbritje ose zbritje ndërsa pazar, ju mund të kontrolloni, se sa ju mund të ruani, ose çfarë çmimi fillestar i produktit ishte. Në fakt, ju mund të llogaritur çdo të vlerave duke e lënë fushat e tyre bosh. Ju keni për të lënë pikërisht dy fusha bosh. Paramendoni, se ju keni një zbritje prej 25%, dhe çmimi fillestar ishte 299. Ju duhet të plotësoni "para" dhe "zbritje" për të gjetur se çmimi aktual dhe se sa ju do të kurseni.</string>
+<string name="information_4">Falë këtij mjeti të lehtë, ju mund të gjeni nëse blejnë një produkt më të madh do të ju kursejnë disa para dhe sa. Imagjinoni, që ju të keni një pije në një shishe të vogël (0,5 litra) e cila kushton 2,79 dhe një shishe të madhe (1,5 litra) e cila kushton 7,49. Cili është një ofertë më të mirë? Të gjitha që ju duhet është të plotësoni 4 input fields dhe shtypni "llogaritur".</string>
+<string name="information_5">Nëse keni ndërmend të marrë një kredi për blerjet tuaja, ju mund të llogaritur të gjitha shpenzimet e përfshira si dhe efektiv (reale) norma vjetore përqindje. Ajo punon në dy mënyra. Në të parën, duhet të futni nominale (vjetor) normë përqindje e dhënë nga huadhënës dhe aplikimit do të llogaritur sasinë e kësteve mujore, si dhe shpenzimet e përgjithshme. Në regjimin e dytë, duhet të futni shumën e këstit mujor (nganjëherë të paraqitur nga një tregtar), dhe aplikimi do të llogarisë përqindjen vjetore, si dhe të gjitha shpenzimet.</string>
+<string name="initial_value">Vlera fillestare</string>
+<string name="instructions">Udhëzime</string>
+<string name="leave_one_of_two">Dërgo një bosh të: përqindje, këste. Shih udhëzimet më poshtë.</string>
+<string name="leave_two_empty">Dërgo pikërisht dy fusha bosh</string>
+<string name="LoanCalc">Kostot e kredisë</string>
+<string name="loan_amt">Shuma e kredisë</string>
+<string name="menu_title">Çfarë doni të llogaritur?</string>
+<string name="msg_from_dev">Mesazh nga zhvilluesi i</string>
+<string name="ok">Në rregull</string>
+<string name="opinion">Mendim</string>
+<string name="other_fees">Tarifat të tjera</string>
+<string name="payments">Numri i kësteve</string>
+<string name="payment_amount">Shuma e këstit</string>
+<string name="percent">Përqind</string>
+<!-- as in percentage rate -->
+<string name="percentage">Përqindje</string>
+<string name="price_unit">Çmimi për njësi</string>
+<string name="question">Pyetje</string>
+<!-- imperative -->
+<string name="rate_app">Vlerësoni këtë kërkesë!</string>
+<string name="regular_percent">Përqind i rregullt</string>
+<string name="results">Rezultatet</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Vlera rezultat</string>
+<string name="saved_amount">Shuma Saved</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Për udhëzime të lëvizni poshtë</string>
+<string name="send">Dërgoj</string>
+<string name="small_price">Çmim</string>
+<string name="small_product">Produkt i vogël</string>
+<string name="small_units">Njësitë ose sasi</string>
+<string name="submit">Llogarit</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Shuma Target</string>
+<string name="thanks">Ju faleminderit!</string>
+<string name="tip">Shuma e shpërblim</string>
+<string name="tip_amount">Shuma e shpërblim</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Normë përqindje</string>
+<string name="total_cost">Kostoja totale</string>
+<string name="total_pay">Total për të paguar</string>
+<string name="total_repay">Total për të shlyer</string>
+<string name="would_cost">Kosto hipotetike</string>
+</resources>

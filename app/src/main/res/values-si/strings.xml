@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">පසු මිල</string>
+<string name="annual_percent_rate">වාර්ෂික ප්රතිශතය අනුපාත</string>
+<string name="app_name">ප්රතිශතය කැල්ක්යුලේටරය</string>
+<string name="app_name2">ප්රතිශතයක් හා වට්ටම්</string>
+<string name="app_name3">වට්ටම් කැල්ක්යුලේටරය</string>
+<string name="app_name4">ප්රතිශතයක් හා වට්ටම් කැල්ක්යුලේටරය</string>
+<string name="before_price">පෙර මිල</string>
+<string name="big_product">විශාල නිෂ්පාදන</string>
+<string name="bill_amount">ලැබුණ මුදල</string>
+<string name="bug">දෝෂ</string>
+<string name="cancel">අවලංගු කරන්න</string>
+<string name="choose_currency">මුදල් තෝරන්න</string>
+<string name="clear">සියලු දේ ඉවත්</string>
+<string name="commission">කොමිෂන් සභාව</string>
+<string name="compare_result">සාපේක්ෂව ප්රතිඵල</string>
+<string name="cost_percent">ණය සියයට ලෙස පිරිවැය</string>
+<string name="del">Delete</string>
+<string name="discount">වට්ටම්</string>
+<string name="discount_rate">වට්ටමක් අනුපාතය</string>
+<string name="feedback">අපට ලියන්න!</string>
+<string name="feedback_prompt">හායි, ඔබට, අපි ඔබේ අත්දැකීම් වැඩි දියුණු කළ හැකි බව ඒ නිසා අපට සමහර ප්රතිචාර ලබා දීමට කැමති?</string>
+<string name="fill_all_non_framed">ඔබ නොවන Framed ක්ෂේත්ර පිරවිය යුතුයි</string>
+<string name="fill_in">සියලු ආදාන තැන් පුරවන්න කරන්න</string>
+<string name="fill_in_bill">ලැබුණ ප්රමාණය: ඔබ පිරවිය යුතුයි</string>
+<string name="fill_in_compulsory">කරුණාකර අවශ්ය සියලුම තැන් පුරවන්න</string>
+<string name="fill_in_xor">හිස් හරියටම එක් ක්ෂේත්රය හිස්ව තබන්න</string>
+<string name="help_translate">මෙම යෙදුම පරිවර්තනය උදව්</string>
+<string name="hint_after_price">වට්ටමක් පසු මිල. වෙනත් වචන වලින් කිවහොත්, මේ ඇති අඩු මිල වේ.</string>
+<string name="hint_amount">ඔබගේ ණය ප්රමාණය. ඔබ මිලදී ගැනීමට අවශ්ය වූ නිෂ්පාදනයක්, මිල කිරීම සාමාන්යයෙන් සමාන. මෙම ක්ෂේත්රය අවශ්යයි.</string>
+<string name="hint_apr">වාර්ෂික ප්රතිශතය අනුපාතිකය (අප්රේල්) - මුළු වියදම ඇතුළු ණය ඵලදායි වාර්ෂික පොලී අනුපාතය,.</string>
+<string name="hint_before_price">වට්ටමක් පෙර මිල. වෙනත් වචන වලින් කිවහොත්, මේ වැඩි මිල වේ.</string>
+<string name="hint_bill_amount">ඔබේ රිසිට්පතේ ගෙවීමට ඇති මුළු මුදල කොපමණද.</string>
+<string name="hint_commission">ණය ප්රතිශතයක් ලෙස කොමිෂන් සභාව (හෝ ණය ගාස්තුව). දන්නා නොඑසේ නම්, ඒ හිස්ව තබන්න.</string>
+<string name="hint_cost_percent">(ඉහත සඳහන් ලෙස) මුළු පිරිවැය ණය ප්රතිශතයක් ලෙස ප්රකාශ කළේය.</string>
+<string name="hint_discount_rate">මෙම ප්රතිශතයක් ලෙස වට්ටම් අනුපාතිකය වේ.</string>
+<string name="hint_initial_amount">ප්රතිශතයක් විය (හෝ විය) ඇත වූ මූලික මුදල ගණන්.</string>
+<string name="hint_install">මාසික ගෙවීම් සංඛ්යාව සාමාන්යයෙන් සමාන. මෙම ක්ෂේත්රය අවශ්යයි.</string>
+<string name="hint_interest">ඔබගේ ණය නාමික (වාර්ෂික) පොලී අනුපාතය යනු කුමක්ද? මෙම ක්ෂේත්රය හිස්ව තිබේ නම්, ඔබ "වාරික" තුළ සම්පූර්ණ කළ යුතු වේ</string>
+<string name="hint_other_fees">ණය මුදල කොපමණද මත රඳා නොවන බව අනෙකුත් සියලුම යුතු ගාස්තු ගාස්තු අය නොකෙරේ. දන්නා නොඑසේ නම්, ඒ හිස්ව තබන්න.</string>
+<string name="hint_payment">ඔබගේ (මාසික) වාරික එක් එක් ප්රමාණය. ඔබ හිස් "ප්රතිශතය" වාම ඇති නම් හා ඔබ විසින්, මෙම ක්ෂේත්රයේ පිරවීම සඳහා අවශ්ය නැහැ. හිස්ව නම්, එය බොත්තම එබීමෙන් පසුව ගණනය කරනු ඇත.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">දෙකම නිෂ්පාදන සඳහා එක් ඒකකයක් මිල ගණන්. එය ආදිය 1g, 1ml, 1oz, 1 අයිතමය විය හැක</string>
+<string name="hint_result_amount">මූලික අගය ප්රතිශතය ගණනය හේතුවෙන් ඇති පමාණය ෙකොපමණද.</string>
+<string name="hint_saved_amount">ඔබ වට්ටම් මිලකට මිලදී ගැනීම විසින් ඉතිරි කර ඇති මුදල් ප්රමාණය.</string>
+<string name="hint_saved_bigger">ඔබ විශාල නිෂ්පාදන මිලට ගැනීම ඉතිරි කරගත හැකි වන බව මුදල් ප්රමාණය. ධනාත්මක අගය විශාල නිෂ්පාදන වඩා හොඳ ගනුදෙනුවක් බව, පෙන්නුම් කරයි. ඍණ වටිනාකම කුඩා නිෂ්පාදන වඩා හොඳ ගනුදෙනුවක් බව, පෙන්නුම් කරයි.</string>
+<string name="hint_simple_percent">ඔබ "මූලික වටිනාකම" සිදු ගණනය කිරීම සඳහා අවශ්ය බව ප්රතිශතය,</string>
+<string name="hint_small_price">ලබා දී ඇති නිෂ්පාදන වල මිල.</string>
+<string name="hint_small_units">ලබා දී ඇති නිෂ්පාදන ඒකක සංඛ්යාව, එය පරිමාව, බර හෝ රුවනයකි අයිතම සංඛ්යාව විය හැක.</string>
+<string name="hint_tip_amount">ඔබට ගෙවීමට කැමති තොරතුරක් ප්රමාණය.</string>
+<string name="hint_tip_percentage">ඔබට ගෙවීමට අවශ්ය ඔත්තුව ප්රතිශතය අනුපාතය.</string>
+<string name="hint_total_cost">වැල් පොලී හා සියලු ගාස්තු ඇතුළු ණය මුළු පිරිවැය,.</string>
+<string name="hint_total_repay">ණය දෙන්නාට ආපසු ගෙවිය යුතු මුළු මුදල බව.</string>
+<string name="hint_total_to_pay">බිල්පත් එකතු තොරතුරක් ප්රමාණය සමාන ගෙවීමට ඔබට අවශ්ය (හෝ අවශ්ය) ඒ මුළු මුදල,.</string>
+<string name="hint_would_cost">ඒකකයකට එහි මිල උපකල්පනය වඩා විශාල නිෂ්පාදන උපකල්පිත මිල කුඩා නිෂ්පාදිතයෙන් බව සමාන විය.</string>
+<string name="information_1">ඔබ සාප්පු සවාරි අතර වට්ටමක් හෝ වට්ටම් ඔබ දකින විට, ඔබ ඉතිරි කර ගත හැකි වනු කොපමණ, පරීක්ෂා කර ගත හැක, හෝ නිෂ්පාදන මුල් මිල දේ. ඇත්ත වශයෙන්ම, ඔබ හිස් ඔවුන්ගේ ක්ෂේත්ර තබා ගැනීම මගින් අගයන් ඕනෑම තීරණය කළ හැක. ඔබ හිස් හරියටම දෙකක් ක්ෂේත්ර යන්න වෙනවා. ඔබ 25% ක වට්ටමක් ඇති අතර, මුල් මිල ඔබ වත්මන් මිල සොයා ගැනීමට කරන අතර ඔබ එය සුරකින කොතරම් හා "වට්ටම්" "පෙර" පිරවීම සඳහා අවශ්ය 299. බව, සිතන්න.</string>
+<string name="information_2">මෙය පහසු මෙවලමක් ස්තුති වන්නට, ඔබට විශාල නිෂ්පාදන මිලදී ගැනීම ඔබ යම් මුදලක් සහ කෙතරම් සුරක්ෂිත කරනු ඇත යන්න සොයා ගත හැකි වනු ඇත. ඔබ 2,79 සහ 7,49 වැය වන විශාල බෝතලයක් (1.5 ලීටර්) වියදම් වන කුඩා බෝතලයක් (0.5 ලීටර්) දී බීම ඇති බව, සිතන්න. ඉල්ලුමට වඩා හොඳ කොයිකද වන්නේ ඇයි? ඔබට අවශ්ය සියලුම 4 ආදාන ක්ෂේත්ර සහ "ගණනය කරන්න" ඔබන්න පිරවීම සඳහා වේ.</string>
+<string name="information_3">ඔබ සාප්පු සවාරි අතර වට්ටමක් හෝ වට්ටම් ඔබ දකින විට, ඔබ ඉතිරි කර ගත හැකි වනු කොපමණ, පරීක්ෂා කර ගත හැක, හෝ නිෂ්පාදන මුල් මිල දේ. ඇත්ත වශයෙන්ම, ඔබ හිස් ඔවුන්ගේ ක්ෂේත්ර තබා ගැනීම මගින් අගයන් ඕනෑම තීරණය කළ හැක. ඔබ හිස් හරියටම දෙකක් ක්ෂේත්ර යන්න වෙනවා. ඔබ 25% ක වට්ටමක් ඇති අතර, මුල් මිල ඔබ වත්මන් මිල සොයා ගැනීමට කරන අතර ඔබ එය සුරකින කොතරම් හා "වට්ටම්" "පෙර" පිරවීම සඳහා අවශ්ය 299. බව, සිතන්න.</string>
+<string name="information_4">මෙය පහසු මෙවලමක් ස්තුති වන්නට, ඔබට විශාල නිෂ්පාදන මිලදී ගැනීම ඔබ යම් මුදලක් සහ කෙතරම් සුරක්ෂිත කරනු ඇත යන්න සොයා ගත හැකි වනු ඇත. ඔබ 2,79 සහ 7,49 වැය වන විශාල බෝතලයක් (1.5 ලීටර්) වියදම් වන කුඩා බෝතලයක් (0.5 ලීටර්) දී බීම ඇති බව, සිතන්න. ඉල්ලුමට වඩා හොඳ කොයිකද වන්නේ ඇයි? ඔබට අවශ්ය සියලුම 4 ආදාන ක්ෂේත්ර සහ "ගණනය කරන්න" ඔබන්න පිරවීම සඳහා වේ.</string>
+<string name="information_5">ඔබ ඔබේ මිලදී ගැනීම් සඳහා ණය ගැනීමට අදහස් කරන්නේ නම්, ඔබ සියලු සම්බන්ධ වියදම් මෙන්ම ඵලදායී (නියම) වාර්ෂික ප්රතිශතය අනුපාත තීරණය කළ හැක. එය දෙකක් මාතයන් ක්රියා කරයි. පළමු, ඔබ (වාර්ෂික) ප්රතිශතයක් ණය දෙන්නාට විසින් සපයන වේගය හා ඉල්ලුම් මාසික වාරික මුදල මෙන්ම මුළු පිරිවැය ගණනය කරනු ඇත නාමික ඇතුල් කළ යුතුය. දෙවන ක්රමය තුළ, ඔබ (ඇතැම් විට වෙළඳ විසින් ඉදිරිපත්) මාසික වාරික ප්රමාණය ඇතුලත් කිරීමට අවශ්ය, සහ අයදුම් වාර්ෂික ප්රතිශතය මෙන්ම සියලු පිරිවැය ගණනය කරනු ඇත.</string>
+<string name="initial_value">මූලික අගය</string>
+<string name="instructions">උපදෙස්</string>
+<string name="leave_one_of_two">ප්රතිශතයක්, ණය වාරික: හිස් එකක් තබන්න. පහත උපදෙස් බලන්න.</string>
+<string name="leave_two_empty">හිස් දෙකක් හරියටම ක්ෂේත්ර අවසරය,</string>
+<string name="LoanCalc">ණය පිරිවැය</string>
+<string name="loan_amt">ණය මුදල</string>
+<string name="menu_title">ඔබ ගණනය කිරීම සඳහා අවශ්ය කුමක් ද?</string>
+<string name="msg_from_dev">සංවර්ධක පණිවුඩය</string>
+<string name="ok">හරි</string>
+<string name="opinion">ජනමත</string>
+<string name="other_fees">වෙනත් ගාස්තු</string>
+<string name="payments">වාරික ගණන</string>
+<string name="payment_amount">වාරික ප්රමාණය</string>
+<string name="percent">සියයට</string>
+<!-- as in percentage rate -->
+<string name="percentage">ප්රතිශතය</string>
+<string name="price_unit">ඒකකයකට මිල</string>
+<string name="question">ප්රශ්නය</string>
+<!-- imperative -->
+<string name="rate_app">මෙම යෙදුම අගයන්න!</string>
+<string name="regular_percent">නිත්ය සියයට</string>
+<string name="results">ප්රතිඵල</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">ප්රතිඵල වටිනාකම</string>
+<string name="saved_amount">සුරැකි ප්රමාණය</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">උපදෙස් සඳහා පහළට අනුචලනය</string>
+<string name="send">ට පණිවුඞයක් යවන්න</string>
+<string name="small_price">මිල</string>
+<string name="small_product">කුඩා නිෂ්පාදන</string>
+<string name="small_units">ඒකක හෝ ප්රමාණය</string>
+<string name="submit">ගණනය</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">ඉලක්කගත ප්රමාණය</string>
+<string name="thanks">ස්තුතියි!</string>
+<string name="tip">පාරිතෝෂික මුදල</string>
+<string name="tip_amount">පාරිතෝෂික මුදල</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">ප්රතිශතය අනුපාතය</string>
+<string name="total_cost">මුළු පිරිවැය</string>
+<string name="total_pay">ගෙවීමට මුළු</string>
+<string name="total_repay">ආපසු ගෙවීම සඳහා වන මුළු</string>
+<string name="would_cost">උපකල්පිත පිරිවැය</string>
+</resources>

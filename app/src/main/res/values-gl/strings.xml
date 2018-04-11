@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Prezo despois</string>
+<string name="annual_percent_rate">Taxa anual</string>
+<string name="app_name">Calculadora de porcentaxe</string>
+<string name="app_name2">Porcentaxe e descontos</string>
+<string name="app_name3">Calculadora de desconto</string>
+<string name="app_name4">Calculadora de porcentaxe e descontos</string>
+<string name="before_price">Prezo antes</string>
+<string name="big_product">Gran produto</string>
+<string name="bill_amount">Importe de recepción</string>
+<string name="bug">Erro</string>
+<string name="cancel">Cancelar</string>
+<string name="choose_currency">Elixa a moeda</string>
+<string name="clear">Limpar</string>
+<string name="commission">Comisión</string>
+<string name="compare_result">Os resultados de comparación</string>
+<string name="cost_percent">Custo como porcentaxe do préstamo</string>
+<string name="del">Eliminar</string>
+<string name="discount">Desconto</string>
+<string name="discount_rate">Taxa de desconto</string>
+<string name="feedback">Escríbenos!</string>
+<string name="feedback_prompt">Ola, desexa dar un feedback para que poidamos mellorar a súa experiencia?</string>
+<string name="fill_all_non_framed">Ten que encher todos os campos non-moldes</string>
+<string name="fill_in">Por favor, encha todos os campos de entrada</string>
+<string name="fill_in_bill">Ten que encher o: Cantidade de recepción</string>
+<string name="fill_in_compulsory">Por favor, encha todos os campos obrigatorios</string>
+<string name="fill_in_xor">Deixar exactamente un campo baleiro</string>
+<string name="help_translate">Axude a traducir esta aplicación</string>
+<string name="hint_after_price">Prezo despois desconto. Noutras palabras, este é o prezo máis baixo.</string>
+<string name="hint_amount">O importe do préstamo. Normalmente igual a do prezo do produto, o que quere mercar. Este campo é obrigatorio.</string>
+<string name="hint_apr">Taxa anual (APR) - taxa de interese efectiva do préstamo, incluíndo o custo total.</string>
+<string name="hint_before_price">Prezo antes do desconto. Noutras palabras, este é o prezo máis elevado.</string>
+<string name="hint_bill_amount">O importe total a pagar no seu recibo.</string>
+<string name="hint_commission">Comisión (ou taxa de préstamo) en porcentaxe do préstamo. Se non sabe, deixe baleiro.</string>
+<string name="hint_cost_percent">Custo total (como antes), expresada en porcentaxe do préstamo.</string>
+<string name="hint_discount_rate">Esta é a taxa de desconto en porcentaxe.</string>
+<string name="hint_initial_amount">O importe inicial a partir do cal porcentaxe será (ou era) calculado.</string>
+<string name="hint_install">Normalmente, igual ao número de pagamentos mensuais. Este campo é obrigatorio.</string>
+<string name="hint_interest">Cal é o tipo de interese nominal (anual) do seu préstamo? Se este campo o deixa en branco, será necesario cubrir "Parcela"</string>
+<string name="hint_other_fees">Todas as outras taxas que non dependen da cantidade de préstamo. Se non sabe, deixe baleiro.</string>
+<string name="hint_payment">A cantidade de cada unha das súas parcelas (mensual). Non é preciso cubrir este campo, a menos que deixou "Porcentaxe" baleiro. Se deixa baleiro, el será calculado despois premer o botón.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Prezos dunha unidade a ambos os produtos. Pode ser de 1g, 1 ml, 1 oz, 1 produto etc.</string>
+<string name="hint_result_amount">A cantidade que se resultante do cálculo de porcentaxe do valor inicial.</string>
+<string name="hint_saved_amount">A cantidade de diñeiro que está aforrar ao mercar en prezo con desconto.</string>
+<string name="hint_saved_bigger">Cantidade de diñeiro que vai aforrar a mercar o produto máis grande. Valor positivo indica que o produto máis grande é un mellor empresa. Valor negativo indica que o produto menor é un mellor empresa.</string>
+<string name="hint_simple_percent">Porcentaxe, que pretende calcular fóra do "valor inicial"</string>
+<string name="hint_small_price">O prezo do produto solicitado.</string>
+<string name="hint_small_units">Número de unidades do produto subministrado, pode ser tanto volume, peso ou número de elementos no recipiente.</string>
+<string name="hint_tip_amount">A cantidade de punta que está disposto a pagar.</string>
+<string name="hint_tip_percentage">Taxa porcentual de punta que quere pagar.</string>
+<string name="hint_total_cost">O custo total do préstamo, incluíndo os xuros compostos e todas as taxas.</string>
+<string name="hint_total_repay">O valor total que terá que ser reembolsado ao prestado.</string>
+<string name="hint_total_to_pay">O valor total que precisa (ou quere) para pagar, igual ao proxecto de lei acrescidos do valor de punta.</string>
+<string name="hint_would_cost">Hipotético prezo do produto maior asumindo o seu prezo por unidade era igual á do produto menor.</string>
+<string name="information_1">Sempre que ve un desconto ou desconto ao mercar, pode comprobar, o que pode aforrar, ou o que o prezo orixinal do produto era. De feito, pode calcular calquera dos valores, deixando os seus campos baleiros. Ten que saír exactamente dous campos baleiros. Imaxina que tes un desconto do 25%, e o prezo orixinal era 299. Debe cubrir "antes" e "desconto" para descubrir o prezo actual e canto vai aforrar.</string>
+<string name="information_2">Grazas a esta ferramenta fácil, pode descubrir se a compra dun produto maior vai aforrar algo de diñeiro e canto. Imaxina que tes unha bebida nunha pequena botella (0,5 litros), que custa 2,79 e unha gran botella (1,5 litros), que custa 7,49. Cal deles é unha oferta mellor? Todo o que precisa é cubrir catro campos de entrada e prema "calcular".</string>
+<string name="information_3">Sempre que ve un desconto ou desconto ao mercar, pode comprobar, o que pode aforrar, ou o que o prezo orixinal do produto era. De feito, pode calcular calquera dos valores, deixando os seus campos baleiros. Ten que saír exactamente dous campos baleiros. Imaxina que tes un desconto do 25%, e o prezo orixinal era 299. Debe cubrir "antes" e "desconto" para descubrir o prezo actual e canto vai aforrar.</string>
+<string name="information_4">Grazas a esta ferramenta fácil, pode descubrir se a compra dun produto maior vai aforrar algo de diñeiro e canto. Imaxina que tes unha bebida nunha pequena botella (0,5 litros), que custa 2,79 e unha gran botella (1,5 litros), que custa 7,49. Cal deles é unha oferta mellor? Todo o que precisa é cubrir catro campos de entrada e prema "calcular".</string>
+<string name="information_5">Se pretende tomar un préstamo para as súas compras, pode calcular todos os custos implicados, así como efectivo (real) taxa anual. Funciona en dous modos. No primeiro, ten que entrar nominal taxa (anual) fornecido polo acredor ea aplicación irá calcular cantidade de parcelas mensuais, así como os custos totais. No segundo modo, ten que entrar cantidade de parcela mensual (ás veces presentada por un comerciante), ea aplicación irá calcular porcentaxe anual, así como todos os gastos.</string>
+<string name="initial_value">Valor inicial</string>
+<string name="instructions">Instrucións</string>
+<string name="leave_one_of_two">Deixar un baleiro de: porcentaxe, parcela. Vexa instrucións de abaixo.</string>
+<string name="leave_two_empty">Deixar exactamente dous campos baleiros</string>
+<string name="LoanCalc">Custos de préstamo</string>
+<string name="loan_amt">Valor do préstamo</string>
+<string name="menu_title">O que quere calcular?</string>
+<string name="msg_from_dev">Mensaxe do creador</string>
+<string name="ok">ESTÁ BEN</string>
+<string name="opinion">Opinión</string>
+<string name="other_fees">Outras taxas</string>
+<string name="payments">Número de parcelas</string>
+<string name="payment_amount">Cantidade de parcela</string>
+<string name="percent">Por cento</string>
+<!-- as in percentage rate -->
+<string name="percentage">Porcentaxe</string>
+<string name="price_unit">Prezo por unidade</string>
+<string name="question">Pregunta</string>
+<!-- imperative -->
+<string name="rate_app">Avaliar este programa!</string>
+<string name="regular_percent">Por cento regulares</string>
+<string name="results">Resultados</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Valor de resultado</string>
+<string name="saved_amount">Importe aforrado</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Para obter instrucións de rolar para abaixo</string>
+<string name="send">Enviar</string>
+<string name="small_price">Prezo</string>
+<string name="small_product">Pequeno produto</string>
+<string name="small_units">As unidades ou cantidade</string>
+<string name="submit">Calcular</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Cantidade Obxectivo</string>
+<string name="thanks">Grazas!</string>
+<string name="tip">Valor da gratuidade</string>
+<string name="tip_amount">Valor da gratuidade</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Taxa porcentual</string>
+<string name="total_cost">Custo total</string>
+<string name="total_pay">Total a pagar</string>
+<string name="total_repay">Total a pagar</string>
+<string name="would_cost">Custo hipotético</string>
+</resources>

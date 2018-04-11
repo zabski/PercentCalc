@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Bei baada</string>
+<string name="annual_percent_rate">Mwaka Asilimia Rate</string>
+<string name="app_name">Calculator ya asilimia</string>
+<string name="app_name2">Asilimia na punguzo</string>
+<string name="app_name3">Calculator ya punguzo</string>
+<string name="app_name4">Calculator ya asilimia na punguzo</string>
+<string name="before_price">Bei kabla</string>
+<string name="big_product">Bidhaa kubwa</string>
+<string name="bill_amount">Kiasi ya kupokea</string>
+<string name="bug">Hitilafu</string>
+<string name="cancel">Kufuta</string>
+<string name="choose_currency">Kuchagua fedha</string>
+<string name="clear">Futa yote</string>
+<string name="commission">Tume</string>
+<string name="compare_result">Matokeo ya kulinganisha</string>
+<string name="cost_percent">Gharama kama asilimia ya mkopo</string>
+<string name="del">Kufuta</string>
+<string name="discount">Discount</string>
+<string name="discount_rate">Kiwango cha discount</string>
+<string name="feedback">Tuandikie!</string>
+<string name="feedback_prompt">Hi, ungependa kutoa baadhi ya maoni ili tuweze kuboresha uzoefu wako kwetu?</string>
+<string name="fill_all_non_framed">Ni lazima kujaza kila mashamba zisizo zimeandaliwa</string>
+<string name="fill_in">Tafadhali kujaza katika nyanja zote pembejeo</string>
+<string name="fill_in_bill">Ni lazima kujaza katika: Kiasi cha risiti</string>
+<string name="fill_in_compulsory">Tafadhali kujaza katika nyanja zote zinazohitajika</string>
+<string name="fill_in_xor">Acha hasa shamba moja tupu</string>
+<string name="help_translate">Kusaidia kutafsiri programu hii</string>
+<string name="hint_after_price">Bei baada ya discount. Kwa maneno mengine, hii ni bei ya chini.</string>
+<string name="hint_amount">Kiasi cha mkopo wako. Kawaida ni sawa na bei ya bidhaa, ambayo unataka kununua. Uwanja huu ni required.</string>
+<string name="hint_apr">Mwaka Asilimia Rate (Aprili) - ufanisi kiwango cha mwaka maslahi ya mkopo, ikiwa ni pamoja na gharama ya jumla.</string>
+<string name="hint_before_price">Bei kabla discount. Kwa maneno mengine, hii ni bei ya juu.</string>
+<string name="hint_bill_amount">Kiasi jumla ya kulipa baada ya kupokea yako.</string>
+<string name="hint_commission">Tume (au ada mkopo) kama asilimia ya mkopo. Kama haijulikani, kuondoka tupu.</string>
+<string name="hint_cost_percent">Jumla ya gharama (kama hapo juu) walionyesha kama asilimia ya mkopo.</string>
+<string name="hint_discount_rate">Hii ni kiwango cha discount kwa asilimia.</string>
+<string name="hint_initial_amount">Kiasi awali kutoka ambayo asilimia itakuwa (au alikuwa) mahesabu.</string>
+<string name="hint_install">Kawaida ni sawa na idadi ya malipo ya kila mwezi. Uwanja huu ni required.</string>
+<string name="hint_interest">Ni majina (kwa mwaka) riba ya mkopo wako nini? Kama uwanja huu ni kushoto tupu, unahitaji kujaza "Installment"</string>
+<string name="hint_other_fees">Ada mengine yote kwamba si tegemezi kwa kiasi cha mkopo. Kama haijulikani, kuondoka tupu.</string>
+<string name="hint_payment">Kiasi ya kila yako (kila mwezi) awamu. Huna haja ya kujaza katika uwanja huu, isipokuwa wewe kushoto "Asilimia" tupu. Kama kushoto tupu, itakuwa mahesabu baada ya kubwa ya kifungo.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Bei ya kitengo moja kwa ajili ya bidhaa zote mbili. Ni inaweza kuwa ama 1g, 1ml, 1oz, 1 item nk</string>
+<string name="hint_result_amount">Kiasi kwamba ni kutokana na kuhesabu asilimia ya thamani ya awali.</string>
+<string name="hint_saved_amount">Kiasi cha fedha kuwa wewe ni kuokoa kwa kununua kwa bei ya punguzo.</string>
+<string name="hint_saved_bigger">Kiasi cha fedha kwamba wewe kuokoa kwa kununua bidhaa kubwa. Thamani chanya inaonyesha, kuwa bidhaa kubwa ni mpango bora. Thamani hasi inaonyesha, kuwa bidhaa ndogo ni mpango bora.</string>
+<string name="hint_simple_percent">Asilimia, kwamba unataka mahesabu nje ya "thamani ya awali"</string>
+<string name="hint_small_price">Bei ya bidhaa husika.</string>
+<string name="hint_small_units">Idadi ya vitengo katika bidhaa fulani, inaweza kuwa ama kiasi, uzito au idadi ya vitu katika chombo.</string>
+<string name="hint_tip_amount">Kiasi cha ncha wewe ni tayari kulipa.</string>
+<string name="hint_tip_percentage">Asilimia kiwango cha ncha unataka kulipa.</string>
+<string name="hint_total_cost">Jumla ya gharama ya mkopo, ikiwa ni pamoja na imezungukwa riba na ada zote.</string>
+<string name="hint_total_repay">Jumla ya kiasi kwamba haja ya kuwa na kulipwa kwa mkopeshaji.</string>
+<string name="hint_total_to_pay">Jumla ya kiasi kwamba unahitaji (au unataka) kulipa, sawa na muswada plus ncha kiasi.</string>
+<string name="hint_would_cost">Kubuni bei ya bidhaa kubwa kuchukua bei yake kwa kitengo ni sawa na ile ya bidhaa ndogo.</string>
+<string name="information_1">Kila wewe kuona marupurupu au discount wakati ununuzi, unaweza kuangalia, ni kiasi gani unaweza kuokoa, au nini bei ya awali ya bidhaa ilikuwa. Kwa kweli, unaweza mahesabu ya yoyote ya maadili kwa kuacha mashamba yao mikono mitupu. Una kuondoka mashamba hasa mbili tupu. Hebu fikiria, kwamba una discount ya 25%, na bei ya awali ilikuwa 299. Unahitaji kujaza "kabla" na "discount" kujua bei ya sasa na ni kiasi gani utakuwa kuokoa.</string>
+<string name="information_2">Shukrani kwa chombo hiki rahisi, unaweza kujua kama kununua bidhaa kubwa kuokoa baadhi ya fedha na kiasi gani. Hebu fikiria, kwamba una kunywa katika chupa ndogo (0.5 lita) ambayo gharama 2.79 na chupa kubwa (1.5 lita) ambayo gharama 7.49. Ambayo moja ni kutoa bora? Wote unahitaji ni kujaza 4 pembejeo mashamba na waandishi wa habari "mahesabu".</string>
+<string name="information_3">Kila wewe kuona marupurupu au discount wakati ununuzi, unaweza kuangalia, ni kiasi gani unaweza kuokoa, au nini bei ya awali ya bidhaa ilikuwa. Kwa kweli, unaweza mahesabu ya yoyote ya maadili kwa kuacha mashamba yao mikono mitupu. Una kuondoka mashamba hasa mbili tupu. Hebu fikiria, kwamba una discount ya 25%, na bei ya awali ilikuwa 299. Unahitaji kujaza "kabla" na "discount" kujua bei ya sasa na ni kiasi gani utakuwa kuokoa.</string>
+<string name="information_4">Shukrani kwa chombo hiki rahisi, unaweza kujua kama kununua bidhaa kubwa kuokoa baadhi ya fedha na kiasi gani. Hebu fikiria, kwamba una kunywa katika chupa ndogo (0.5 lita) ambayo gharama 2.79 na chupa kubwa (1.5 lita) ambayo gharama 7.49. Ambayo moja ni kutoa bora? Wote unahitaji ni kujaza 4 pembejeo mashamba na waandishi wa habari "mahesabu".</string>
+<string name="information_5">Kama mpango wa kuchukua mkopo kwa ajili ya ununuzi yako, unaweza mahesabu ya gharama zote zinazohusika kama vile ufanisi (halisi) Mwaka Asilimia Rate. Ni kazi katika njia mbili. Katika kwanza, unahitaji kuingia majina (kwa mwaka) asilimia kiwango zinazotolewa na Taasisi na maombi mahesabu ya kiasi cha awamu ya kila mwezi pamoja na gharama ya jumla. Katika hali ya pili, unahitaji kuingia kiasi ya kila mwezi installment (wakati mwingine yaliyowasilishwa na mfanyabiashara), na maombi itakuwa mahesabu ya asilimia ya kila mwaka ikiwa ni pamoja na gharama zote.</string>
+<string name="initial_value">Thamani ya awali</string>
+<string name="instructions">Maelekezo</string>
+<string name="leave_one_of_two">Kuondoka tupu moja ya: asilimia, installment. Angalia maelekezo ya chini.</string>
+<string name="leave_two_empty">Acha hasa mashamba mawili tupu</string>
+<string name="LoanCalc">Gharama ya mkopo</string>
+<string name="loan_amt">Kiasi cha mkopo</string>
+<string name="menu_title">Je, unataka kufanya mahesabu ya?</string>
+<string name="msg_from_dev">Ujumbe kutoka developer</string>
+<string name="ok">OK</string>
+<string name="opinion">Maoni</string>
+<string name="other_fees">Ada nyingine</string>
+<string name="payments">Idadi ya awamu</string>
+<string name="payment_amount">Kiasi ya awamu ya</string>
+<string name="percent">Asilimia</string>
+<!-- as in percentage rate -->
+<string name="percentage">Asilimia</string>
+<string name="price_unit">Bei kwa kitengo</string>
+<string name="question">Swali</string>
+<!-- imperative -->
+<string name="rate_app">Kiwango programu hii!</string>
+<string name="regular_percent">Asilimia ya mara kwa mara</string>
+<string name="results">Matokeo</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Thamani Result</string>
+<string name="saved_amount">Kuokolewa kiasi</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Kwa maelekezo kitabu chini</string>
+<string name="send">Kutuma</string>
+<string name="small_price">Bei</string>
+<string name="small_product">Ndogo bidhaa</string>
+<string name="small_units">Units au wingi</string>
+<string name="submit">Mahesabu ya</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Target kiasi</string>
+<string name="thanks">Asante!</string>
+<string name="tip">Kiasi ya kiinua mgongo</string>
+<string name="tip_amount">Kiasi ya kiinua mgongo</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Kiwango cha asilimia</string>
+<string name="total_cost">Jumla ya gharama</string>
+<string name="total_pay">Jumla ya kulipa</string>
+<string name="total_repay">Jumla ya kulipa</string>
+<string name="would_cost">Gharama kubuni</string>
+</resources>

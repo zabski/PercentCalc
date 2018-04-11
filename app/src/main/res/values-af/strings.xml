@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Prys na</string>
+<string name="annual_percent_rate">Jaarlikse persentasie</string>
+<string name="app_name">Sakrekenaar van persentasie</string>
+<string name="app_name2">Persentasie en afslag</string>
+<string name="app_name3">Sakrekenaar van afslag</string>
+<string name="app_name4">Sakrekenaar van persentasie en afslag</string>
+<string name="before_price">Prys voor</string>
+<string name="big_product">Groot produk</string>
+<string name="bill_amount">Bedrag van ontvangs</string>
+<string name="bug">Fout</string>
+<string name="cancel">Kanselleer</string>
+<string name="choose_currency">Kies geldeenheid</string>
+<string name="clear">Duidelik al</string>
+<string name="commission">Kommissie</string>
+<string name="compare_result">Resultate van vergelyking</string>
+<string name="cost_percent">Koste as persent van die lening</string>
+<string name="del">Verwyder</string>
+<string name="discount">Afslag</string>
+<string name="discount_rate">Verdiskonteringskoers</string>
+<string name="feedback">Skryf aan ons!</string>
+<string name="feedback_prompt">Hi, wil jy ons te gee \'n paar terugvoer sodat ons kan jou ervaring te verbeter?</string>
+<string name="fill_all_non_framed">Jy moet alle nie-geraamde velde vul</string>
+<string name="fill_in">Vul asseblief al insette velde</string>
+<string name="fill_in_bill">Jy moet in te vul: Bedrag van ontvangs</string>
+<string name="fill_in_compulsory">Vul al die vereiste velde</string>
+<string name="fill_in_xor">Laat presies een veld leë</string>
+<string name="help_translate">Help met die vertaling van hierdie aansoek</string>
+<string name="hint_after_price">Prys na afslag. Met ander woorde, dit is die laer prys.</string>
+<string name="hint_amount">Die bedrag van jou lening. Gewoonlik gelyk aan die prys van die produk, wat jy wil koop. Hierdie veld word vereis.</string>
+<string name="hint_apr">Jaarlikse persentasie (April) - effektiewe jaarlikse rentekoers van die lening, insluitend die totale koste.</string>
+<string name="hint_before_price">Prys voor afslag. Met ander woorde, dit is die hoër prys.</string>
+<string name="hint_bill_amount">Die totale bedrag te betaal op jou kwitansie.</string>
+<string name="hint_commission">Kommissie (of lening fooi) as persentasie van die lening. Indien nie bekend, leeg laat.</string>
+<string name="hint_cost_percent">Totale koste (soos hierbo) uitgedruk as persentasie van die lening.</string>
+<string name="hint_discount_rate">Dit is verdiskonteringskoers as persentasie.</string>
+<string name="hint_initial_amount">Die aanvanklike bedrag van watter persentasie sal wees (of was) bereken.</string>
+<string name="hint_install">Gewoonlik gelyk aan die aantal maandelikse betalings. Hierdie veld word vereis.</string>
+<string name="hint_interest">Wat is die nominale (jaarlikse) belang tempo van jou lening? As hierdie veld is leeg gelaat word, sal jy nodig het in "paaiement" te vul</string>
+<string name="hint_other_fees">Alle ander gelde wat nie afhanklik is van die bedrag van die lening. Indien nie bekend, leeg laat.</string>
+<string name="hint_payment">Die bedrag van elk van jou (maandeliks) paaiemente. Jy hoef nie in hierdie veld te vul, tensy jy links "Persentasie" leeg. Indien oopgelaat, sal dit bereken word na die druk van die knoppie.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Pryse van een eenheid vir beide produkte. Dit kan óf 1g, 1ml, 1oz, 1 item ens</string>
+<string name="hint_result_amount">Die bedrag wat die gevolg is van die berekening van persentasie van die aanvanklike waarde.</string>
+<string name="hint_saved_amount">Die bedrag van die geld wat jy spaar deur die koop by afslagprys.</string>
+<string name="hint_saved_bigger">Bedrag geld wat jy sal red deur die koop van die groter produk. Positiewe waarde dui dat die groter produk is \'n beter deal. Negatiewe waarde dui dat die kleiner produk is \'n beter deal.</string>
+<string name="hint_simple_percent">Persentasie, wat jy wil uit "Aanvanklike waarde" te bereken</string>
+<string name="hint_small_price">Die prys van die bepaalde produk.</string>
+<string name="hint_small_units">Aantal eenhede in die gegewe produk, kan dit óf volume, gewig of aantal items in die houer wees.</string>
+<string name="hint_tip_amount">Die bedrag van die punt wat jy bereid is om te betaal.</string>
+<string name="hint_tip_percentage">Persentasie van die punt wat jy wil betaal.</string>
+<string name="hint_total_cost">Totale koste van die lening, insluitend saamgestelde rente en alle gelde.</string>
+<string name="hint_total_repay">Totale bedrag wat terugbetaal hoef te word na die man wat uitleen.</string>
+<string name="hint_total_to_pay">Totale bedrag wat jy nodig het (of wil) te betaal, gelyk aan wetsontwerp plus punt bedrag.</string>
+<string name="hint_would_cost">Hipotetiese prys van die groter produk veronderstelling sy prys per eenheid is gelyk aan dié van die kleiner produk.</string>
+<string name="information_1">Wanneer jy sien \'n korting of afslag terwyl inkopies doen, kan jy check, hoeveel jy kan bespaar, of wat die oorspronklike prys van die produk was. In feite, kan jy enige van die waardes te bereken deur te verlaat hul velde leeg. Jy het presies twee velde leë te verlaat. Stel jou voor dat jy \'n afslag van 25%, en die oorspronklike prys was 299. Jy moet in te vul "voor" en "afslag" om uit te vind die huidige prys en hoeveel jy sal red.</string>
+<string name="information_2">Danksy hierdie maklike instrument, kan jy uitvind of koop van \'n groter produk sal red jy \'n bietjie geld en hoeveel. Stel jou voor dat jy \'n drankie in \'n klein botteltjie (0.5 liter) wat die koste 2,79 en \'n groot bottel (1.5 liter) wat die koste 7,49. Watter een is \'n beter aanbod? Al wat jy nodig het, is 4 insette velde in te vul en druk "bereken".</string>
+<string name="information_3">Wanneer jy sien \'n korting of afslag terwyl inkopies doen, kan jy check, hoeveel jy kan bespaar, of wat die oorspronklike prys van die produk was. In feite, kan jy enige van die waardes te bereken deur te verlaat hul velde leeg. Jy het presies twee velde leë te verlaat. Stel jou voor dat jy \'n afslag van 25%, en die oorspronklike prys was 299. Jy moet in te vul "voor" en "afslag" om uit te vind die huidige prys en hoeveel jy sal red.</string>
+<string name="information_4">Danksy hierdie maklike instrument, kan jy uitvind of koop van \'n groter produk sal red jy \'n bietjie geld en hoeveel. Stel jou voor dat jy \'n drankie in \'n klein botteltjie (0.5 liter) wat die koste 2,79 en \'n groot bottel (1.5 liter) wat die koste 7,49. Watter een is \'n beter aanbod? Al wat jy nodig het, is 4 insette velde in te vul en druk "bereken".</string>
+<string name="information_5">As jy van plan is om \'n lening te neem vir jou aankope, kan jy alle koste verbonde asook effektiewe (ware) jaarlikse persentasie te bereken. Dit werk in twee modusse. In die eerste, moet jy nominale (jaarlikse) persentasie wat deur die uitlener en die aansoek sal bedrag van die maandelikse paaiemente sowel as die totale koste te bereken te betree. In die tweede modus, moet jy bedrag van die maandelikse paaiement (soms deur \'n handelaar) te gaan, en die aansoek sal jaarlikse persentasie asook alle koste te bereken.</string>
+<string name="initial_value">Aanvanklike waarde</string>
+<string name="instructions">Instruksies</string>
+<string name="leave_one_of_two">Laat leë een van: persentasie, paaiement. Sien instruksies hieronder.</string>
+<string name="leave_two_empty">Laat presies twee velde leë</string>
+<string name="LoanCalc">Koste van die lening</string>
+<string name="loan_amt">Bedrag van die lening</string>
+<string name="menu_title">Wat wil jy te bereken?</string>
+<string name="msg_from_dev">Boodskap van ontwikkelaar</string>
+<string name="ok">OK</string>
+<string name="opinion">Mening</string>
+<string name="other_fees">Ander gelde</string>
+<string name="payments">Aantal paaiemente</string>
+<string name="payment_amount">Bedrag van paaiement</string>
+<string name="percent">Persent</string>
+<!-- as in percentage rate -->
+<string name="percentage">Persentasie</string>
+<string name="price_unit">Prys per eenheid</string>
+<string name="question">Vraag</string>
+<!-- imperative -->
+<string name="rate_app">Gradeer hierdie aansoek!</string>
+<string name="regular_percent">Gereelde persent</string>
+<string name="results">Resultate</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Gevolg waarde</string>
+<string name="saved_amount">Gered bedrag</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Vir instruksies rol af</string>
+<string name="send">Stuur</string>
+<string name="small_price">Prys</string>
+<string name="small_product">Klein produk</string>
+<string name="small_units">Eenhede of hoeveelheid</string>
+<string name="submit">Bereken</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Doel bedrag</string>
+<string name="thanks">Dankie!</string>
+<string name="tip">Bedrag van gratifikasie</string>
+<string name="tip_amount">Bedrag van gratifikasie</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Persentasie</string>
+<string name="total_cost">Totale koste</string>
+<string name="total_pay">Totale te betaal</string>
+<string name="total_repay">Totale terug te betaal</string>
+<string name="would_cost">Hipotetiese koste</string>
+</resources>

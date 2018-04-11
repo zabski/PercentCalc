@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">قیمت کے بعد</string>
+<string name="annual_percent_rate">سالانہ فیصد کی شرح</string>
+<string name="app_name">فی صد کا کیلکولیٹر</string>
+<string name="app_name2">فی صد اور چھوٹ</string>
+<string name="app_name3">چھوٹ کے کیلکولیٹر</string>
+<string name="app_name4">فی صد اور رعایت کا کیلکولیٹر</string>
+<string name="before_price">قیمت سے پہلے</string>
+<string name="big_product">بڑی مصنوعات</string>
+<string name="bill_amount">رسید کی رقم</string>
+<string name="bug">میں خرابی</string>
+<string name="cancel">منسوخ کریں</string>
+<string name="choose_currency">کرنسی منتخب کریں</string>
+<string name="clear">تمام کو صاف کریں</string>
+<string name="commission">کمیشن</string>
+<string name="compare_result">مقابلے کے نتائج</string>
+<string name="cost_percent">قرض کی فیصد کے طور پر لاگت</string>
+<string name="del">کو حذف کریں</string>
+<string name="discount">ڈسکاؤنٹ</string>
+<string name="discount_rate">ڈسکاؤنٹ کی شرح</string>
+<string name="feedback">ہمیں لکھیں!</string>
+<string name="feedback_prompt">ہیلو، آپ ہمیں ہم آپ کے تجربے کو بہتر بنانے کر سکتے ہیں تاکہ کچھ رائے دینے کے لئے پسند کریں گے؟</string>
+<string name="fill_all_non_framed">آپ تمام غیر بنائے گئے شعبوں کو بھرنے ضروری ہے</string>
+<string name="fill_in">تمام ان پٹ کے کھیتوں میں بھرنے براہ مہربانی</string>
+<string name="fill_in_bill">آپ کو درج کرنا ضروری ہے: رسید کی رقم</string>
+<string name="fill_in_compulsory">تمام مطلوبہ فیلڈز میں بھرنے براہ مہربانی</string>
+<string name="fill_in_xor">خالی بالکل ایک میدان چھوڑ دو</string>
+<string name="help_translate">اس درخواست کے ترجمہ میں مدد</string>
+<string name="hint_after_price">ڈسکاؤنٹ کے بعد قیمت. دوسرے الفاظ میں، اس کم قیمت ہے.</string>
+<string name="hint_amount">آپ کے قرض کی رقم. آپ کی خریداری کے لئے چاہتے ہیں جس کی مصنوعات، کی قیمت پر عام طور پر برابر. اس میدان کی ضرورت ہے.</string>
+<string name="hint_apr">سالانہ فیصد کی شرح (اپریل) - کل لاگت سمیت قرض کے موثر سالانہ شرح سود،.</string>
+<string name="hint_before_price">رعایت سے پہلے کی قیمت. دوسرے الفاظ میں، یہ زیادہ قیمت ہے.</string>
+<string name="hint_bill_amount">کل رقم آپ کی رسید پر ادا کرنے کے لئے.</string>
+<string name="hint_commission">کمیشن (یا قرض کی فیس) ​​قرض کی شرح کے طور پر. اگر معلوم نہیں، خالی چھوڑ دیں.</string>
+<string name="hint_cost_percent">کل لاگت (جیسا کہ اوپر) قرض کے فی صد کے طور پر اظہار.</string>
+<string name="hint_discount_rate">اس تناسب کے طور پر ڈسکاؤنٹ کی شرح ہے.</string>
+<string name="hint_initial_amount">فی صد ہو (یا تھا) جس سے ابتدائی رقم کا حساب کر.</string>
+<string name="hint_install">ماہانہ ادائیگی کے شمار کے عام طور پر برابر. اس میدان کی ضرورت ہے.</string>
+<string name="hint_interest">آپ کے قرض کی برائے نام (سالانہ) سود کی شرح کیا ہے؟ اس فیلڈ کو خالی چھوڑ دیا جاتا ہے تو، آپ کو "قسط" میں بھرنے کے لئے کی ضرورت ہو گی</string>
+<string name="hint_other_fees">قرض کی رقم پر منحصر نہیں ہیں کہ تمام دوسرے کی فیس. اگر معلوم نہیں، خالی چھوڑ دیں.</string>
+<string name="hint_payment">آپ کے ماہانہ قسطوں میں سے ہر ایک کی رقم. آپ "فیصد" خالی چھوڑ جب تک آپ، اس میدان میں بھرنے کے لئے کی ضرورت نہیں ہے. خالی چھوڑ ہے، تو یہ بٹن دبانے کے بعد حساب کیا جائے گا.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">دونوں کی مصنوعات کے لئے ایک یونٹ کی قیمتوں. یہ وغیرہ 1G، کے 1ml، 1OZ، 1 اشیاء یا تو ہو سکتا</string>
+<string name="hint_result_amount">ابتدائی قیمت کی شرح کا حساب کے نتیجے میں ہے کہ رقم.</string>
+<string name="hint_saved_amount">آپ رعایتی قیمت پر خریدنے کی طرف سے بچت کر رہے ہیں کہ پیسے کی رقم.</string>
+<string name="hint_saved_bigger">آپ بڑی مصنوعات کو خریدنے کی طرف سے بچا لے گا کہ پیسے کی رقم ہے. مثبت قدر بڑا مصنوعات کو ایک اچھا سودا ہے کہ، کی طرف اشارہ کرتا. منفی قدر چھوٹے مصنوعات کو ایک اچھا سودا ہے کہ، کی طرف اشارہ کرتا.</string>
+<string name="hint_simple_percent">فی صد، آپ کو "ابتدائی قیمت" سے باہر تخمینہ چاہتے ہیں کہ</string>
+<string name="hint_small_price">دی مصنوعات کی قیمت.</string>
+<string name="hint_small_units">دی مصنوعات میں اکائیوں کی تعداد، اس کے حجم، وزن یا کنٹینر میں اشیاء کی تعداد یا تو ہو سکتا.</string>
+<string name="hint_tip_amount">ٹپ کی رقم آپ ادا کرنا چاہتے ہیں.</string>
+<string name="hint_tip_percentage">آپ ادا کرنا چاہتے ٹپ کی فی صد کی شرح.</string>
+<string name="hint_total_cost">مرکب سود اور سب کی فیس شامل ہے قرض کی کل لاگت،.</string>
+<string name="hint_total_repay">ضرورت ہو گی کہ کل رقم قرض خواہ کے لئے دوبارہ ادا کرنے کی.</string>
+<string name="hint_total_to_pay">بل کے علاوہ نوک رقم کے برابر کی آپ کو ضرورت (یا چاہتے ہیں) ادا کرنے کو کل رقم،.</string>
+<string name="hint_would_cost">فی یونٹ اس کی قیمت سنبھالنے بڑی مصنوعات کی فرضی قیمت چھوٹے مصنوعات کی اس کے برابر تھا.</string>
+<string name="information_1">شاپنگ کرتے وقت آپ کو چھوٹ یا رعایت دیکھیں جب بھی آپ کو بچا سکتا ہے کتنا، چیک کر سکتے ہیں، یا مصنوعات کی اصل قیمت کیا تھی. سچ تو یہ ہے، آپ خالی اپنے کھیتوں کو چھوڑ کر اقدار کے کسی بھی حساب کر سکتے ہیں. آپ خالی بالکل دو شعبوں کو چھوڑنے کے لئے ہے. آپ کو 25٪ کی چھوٹ ہے کہ، ذرا تصور کریں، اور اصل قیمت آپ کو موجودہ قیمت اور کتنا آپ کو بچا لے گا یہ معلوم کرنے اور "رعایت" "سے پہلے" بھرنے کی ضرورت 299. تھا.</string>
+<string name="information_2">یہ آسان آلہ کرنے کے لئے شکریہ، آپ کو ایک بڑی مصنوعات خریدنے آپ کو کچھ پیسے اور کتنا بچا لے گا چاہے باہر تلاش کر سکتے ہیں. آپ 2.79 جس کی لاگت ایک چھوٹی سی بوتل (0.5 لیٹر) اور 7.49 جس کی لاگت ایک بڑی بوتل (1.5 لیٹر) میں ایک جام ہے کہ، ذرا تصور کریں. ایک بہتر پیش کرتے ہیں جس سے ایک ہے؟ آپ سب کی ضرورت ہے 4 کے ان پٹ کے شعبوں کو بھرنے اور "کو شمار" کو دبائیں کرنے کے لئے ہے.</string>
+<string name="information_3">شاپنگ کرتے وقت آپ کو چھوٹ یا رعایت دیکھیں جب بھی آپ کو بچا سکتا ہے کتنا، چیک کر سکتے ہیں، یا مصنوعات کی اصل قیمت کیا تھی. سچ تو یہ ہے، آپ خالی اپنے کھیتوں کو چھوڑ کر اقدار کے کسی بھی حساب کر سکتے ہیں. آپ خالی بالکل دو شعبوں کو چھوڑنے کے لئے ہے. آپ کو 25٪ کی چھوٹ ہے کہ، ذرا تصور کریں، اور اصل قیمت آپ کو موجودہ قیمت اور کتنا آپ کو بچا لے گا یہ معلوم کرنے اور "رعایت" "سے پہلے" بھرنے کی ضرورت 299. تھا.</string>
+<string name="information_4">یہ آسان آلہ کرنے کے لئے شکریہ، آپ کو ایک بڑی مصنوعات خریدنے آپ کو کچھ پیسے اور کتنا بچا لے گا چاہے باہر تلاش کر سکتے ہیں. آپ 2.79 جس کی لاگت ایک چھوٹی سی بوتل (0.5 لیٹر) اور 7.49 جس کی لاگت ایک بڑی بوتل (1.5 لیٹر) میں ایک جام ہے کہ، ذرا تصور کریں. ایک بہتر پیش کرتے ہیں جس سے ایک ہے؟ آپ سب کی ضرورت ہے 4 کے ان پٹ کے شعبوں کو بھرنے اور "کو شمار" کو دبائیں کرنے کے لئے ہے.</string>
+<string name="information_5">آپ کو آپ کی خریداری کے لیے قرض لینے کا ارادہ رکھتے ہیں، آپ کو مؤثر (حقیقی) سالانہ فیصد کی شرح کے طور پر بھی ملوث تمام اخراجات کا حساب کر سکتے. یہ دو طریقوں میں کام کرتا. سب سے پہلے میں، آپ کو قرض خواہ اور ماہانہ اقساط کی رقم کے ساتھ ساتھ کل اخراجات کا حساب کرے گا درخواست کی طرف سے فراہم کی برائے نام (سالانہ) فی صد کی شرح داخل کرنے کی ضرورت. دوسری موڈ میں، آپ (کبھی کبھی ایک مرچنٹ کی طرف سے پیش کئے گئے) ماہانہ قسط کی رقم درج کرنے کی ضرورت، اور درخواست کی سالانہ فی صد کے ساتھ ساتھ تمام اخراجات کا حساب کرے گا.</string>
+<string name="initial_value">ابتدائی قیمت</string>
+<string name="instructions">دی گئی ہدایات</string>
+<string name="leave_one_of_two">فی صد، قسط: کی خالی بھی چھوڑ دیں. مندرجہ ذیل ہدایات ملاحظہ کریں.</string>
+<string name="leave_two_empty">بالکل دو شعبوں خالی چھوڑ دیں</string>
+<string name="LoanCalc">قرض کے اخراجات</string>
+<string name="loan_amt">قرض کی رقم</string>
+<string name="menu_title">کیا آپ کو شمار کرنے کے لیے کرنا چاہتے ہیں؟</string>
+<string name="msg_from_dev">ڈویلپر کی طرف سے پیغام</string>
+<string name="ok">اوکے</string>
+<string name="opinion">رائے</string>
+<string name="other_fees">دیگر فیس</string>
+<string name="payments">قسطوں کی تعداد</string>
+<string name="payment_amount">قسط کی رقم</string>
+<string name="percent">فیصد</string>
+<!-- as in percentage rate -->
+<string name="percentage">فی صد</string>
+<string name="price_unit">فی یونٹ قیمت</string>
+<string name="question">سوال یہ</string>
+<!-- imperative -->
+<string name="rate_app">اس درخواست میں رائے دیں!</string>
+<string name="regular_percent">باقاعدہ فیصد</string>
+<string name="results">نتائج</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">نتیجہ قدر</string>
+<string name="saved_amount">محفوظ کردہ رقم</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">ہدایات کے نیچے سکرال لئے</string>
+<string name="send">ارسال</string>
+<string name="small_price">قیمت سے</string>
+<string name="small_product">چھوٹے مصنوعات</string>
+<string name="small_units">یونٹس یا مقدار</string>
+<string name="submit">حساب لگائیں</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">ہدف رقم</string>
+<string name="thanks">آپ کا شکریہ!</string>
+<string name="tip">گریجویٹی کی رقم</string>
+<string name="tip_amount">گریجویٹی کی رقم</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">فی صد کی شرح</string>
+<string name="total_cost">کل لاگت</string>
+<string name="total_pay">ادا کرنے کے لئے کل</string>
+<string name="total_repay">ادا کرنے کے لئے کل</string>
+<string name="would_cost">فرضی لاگت</string>
+</resources>

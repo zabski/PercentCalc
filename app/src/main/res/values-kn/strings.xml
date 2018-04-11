@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">ಬೆಲೆ ನಂತರ</string>
+<string name="annual_percent_rate">ವಾರ್ಷಿಕ ಶೇಕಡಾವಾರು ದರ</string>
+<string name="app_name">ಶೇಕಡಾವಾರು ಕ್ಯಾಲ್ಕುಲೇಟರ್</string>
+<string name="app_name2">ಶೇಕಡಾವಾರು ಮತ್ತು ರಿಯಾಯಿತಿಗಳು</string>
+<string name="app_name3">ರಿಯಾಯಿತಿಗಳ ಕ್ಯಾಲ್ಕುಲೇಟರ್</string>
+<string name="app_name4">ಶೇಕಡಾವಾರು ಮತ್ತು ರಿಯಾಯಿತಿಗಳ ಕ್ಯಾಲ್ಕುಲೇಟರ್</string>
+<string name="before_price">ಬೆಲೆ ಮೊದಲು</string>
+<string name="big_product">ದೊಡ್ಡ ಉತ್ಪನ್ನ</string>
+<string name="bill_amount">ರಶೀದಿಯನ್ನು ಪ್ರಮಾಣವನ್ನು</string>
+<string name="bug">ದೋಷ</string>
+<string name="cancel">ರದ್ದು</string>
+<string name="choose_currency">ಕರೆನ್ಸಿ ಆಯ್ಕೆ</string>
+<string name="clear">ತೆರವುಗೊಳಿಸಿ ಎಲ್ಲಾ</string>
+<string name="commission">ಆಯೋಗದ</string>
+<string name="compare_result">ಹೋಲಿಕೆ ಫಲಿತಾಂಶಗಳು</string>
+<string name="cost_percent">ಸಾಲದ ರಷ್ಟು ವೆಚ್ಚ</string>
+<string name="del">ಅಳಿಸಿ</string>
+<string name="discount">ರಿಯಾಯಿತಿ</string>
+<string name="discount_rate">ರಿಯಾಯಿತಿ ದರ</string>
+<string name="feedback">ನಮಗೆ ಬರೆಯಿರಿ!</string>
+<string name="feedback_prompt">ಹಾಯ್, ನೀವು ನಮಗೆ ನಿಮ್ಮ ಅನುಭವವನ್ನು ಸುಧಾರಿಸಲು ಇದರಿಂದ ಕೆಲವು ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಲು ಬಯಸುತ್ತೀರಿ?</string>
+<string name="fill_all_non_framed">ನೀವು ಎಲ್ಲಾ ಅಲ್ಲದ ರೂಪುಗೊಂಡಿರುವ ಜಾಗ ಭರ್ತಿ ಮಾಡಬೇಕು</string>
+<string name="fill_in">ಎಲ್ಲಾ ಇನ್ಪುಟ್ ಜಾಗ ಭರ್ತಿ ಮಾಡಿ</string>
+<string name="fill_in_bill">ನೀವು ಭರ್ತಿ ಮಾಡಬೇಕು: ರಶೀದಿಯನ್ನು ಪ್ರಮಾಣ</string>
+<string name="fill_in_compulsory">ಅಗತ್ಯವಿರುವ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಭರ್ತಿ ಮಾಡಿ</string>
+<string name="fill_in_xor">ಖಾಲಿ ನಿಖರವಾಗಿ ಒಂದು ಕ್ಷೇತ್ರದಲ್ಲಿ ಬಿಡಿ</string>
+<string name="help_translate">ಈ ಅಪ್ಲಿಕೇಶನ್ ಭಾಷಾಂತರಿಸಲು ಸಹಾಯ</string>
+<string name="hint_after_price">ರಿಯಾಯಿತಿ ನಂತರ ಬೆಲೆ. ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ಈ ಕಡಿಮೆ ಬೆಲೆ.</string>
+<string name="hint_amount">ನಿಮ್ಮ ಸಾಲದ ಪ್ರಮಾಣವನ್ನು. ನೀವು ಖರೀದಿಸಲು ಬಯಸುವ ಉತ್ಪನ್ನ, ಬೆಲೆ ಸಾಮಾನ್ಯವಾಗಿ ಸಮಾನ. ಈ ಕಡ್ಡಾಯವಾದುದು.</string>
+<string name="hint_apr">ವಾರ್ಷಿಕ ಶೇಕಡಾವಾರು ದರ (ಏಪ್ರಿಲ್) - ಒಟ್ಟು ವೆಚ್ಚ ಸೇರಿದಂತೆ ಸಾಲದ ಪರಿಣಾಮಕಾರಿ ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರ,.</string>
+<string name="hint_before_price">ರಿಯಾಯಿತಿ ಮೊದಲು ಬೆಲೆ. ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಹೇಳುವುದಾದರೆ, ಈ ಹೆಚ್ಚಿನ ಬೆಲೆ.</string>
+<string name="hint_bill_amount">ಒಟ್ಟು ಪ್ರಮಾಣವನ್ನು ನಿಮ್ಮ ರಸೀದಿಯನ್ನು ಪಾವತಿಸಲು.</string>
+<string name="hint_commission">ಆಯೋಗ (ಅಥವಾ ಸಾಲ ಶುಲ್ಕ) ಸಾಲ ಶೇಕಡಾವಾರು. ತಿಳಿದಿಲ್ಲ ವೇಳೆ, ಖಾಲಿ ಬಿಡಿ.</string>
+<string name="hint_cost_percent">ಒಟ್ಟು ವೆಚ್ಚ (ಮೇಲೆ) ಸಾಲದ ಶೇಕಡವಾರು.</string>
+<string name="hint_discount_rate">ಈ ಶೇಕಡಾವಾರು ರಿಯಾಯಿತಿ ದರವು.</string>
+<string name="hint_initial_amount">ಶೇಕಡಾವಾರು (ಅಥವಾ ಆಗಿತ್ತು) ಇದು ಆರಂಭಿಕ ಪ್ರಮಾಣವನ್ನು ಲೆಕ್ಕಾಚಾರ.</string>
+<string name="hint_install">ಮಾಸಿಕ ಪಾವತಿ ಸಂಖ್ಯೆ ಸಾಮಾನ್ಯವಾಗಿ ಸಮಾನ. ಈ ಕಡ್ಡಾಯವಾದುದು.</string>
+<string name="hint_interest">ನಿಮ್ಮ ಸಾಲದ ಅತ್ಯಲ್ಪ (ವಾರ್ಷಿಕ) ಬಡ್ಡಿ ದರ ಏನು? ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ಖಾಲಿ ಇದೆ, ನೀವು "ಕಂತುಗಳಲ್ಲಿ" ತುಂಬಲು ಅಗತ್ಯವಿದೆ</string>
+<string name="hint_other_fees">ಸಾಲದ ಪ್ರಮಾಣವನ್ನು ಅವಲಂಬಿಸಿದೆ ಎಂದು ಎಲ್ಲಾ ಇತರ ಶುಲ್ಕಗಳು. ತಿಳಿದಿಲ್ಲ ವೇಳೆ, ಖಾಲಿ ಬಿಡಿ.</string>
+<string name="hint_payment">ನಿಮ್ಮ (ಮಾಸಿಕ) ಕಂತುಗಳಲ್ಲಿ ಪ್ರತಿ ಪ್ರಮಾಣವನ್ನು. ನೀವು "ಶೇಕಡಾವಾರು" ಖಾಲಿ ಮಾಡದೆ, ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ತುಂಬಲು ಅಗತ್ಯವಿಲ್ಲ. ಖಾಲಿ ಬಿಟ್ಟರೆ, ಇದು ಗುಂಡಿಯನ್ನು ಒತ್ತುವ ನಂತರ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲಾಗುತ್ತದೆ.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">ಎರಡೂ ಉತ್ಪನ್ನಗಳ ಒಂದು ಘಟಕ ಬೆಲೆಗಳು. ಇದು ಇತ್ಯಾದಿ 1G, 1ml, 1oz, 1 ಐಟಂ ಆಗಿರಬಹುದು</string>
+<string name="hint_result_amount">ಆರಂಭಿಕ ಮೌಲ್ಯವನ್ನು ಶೇಕಡಾವಾರು ಲೆಕ್ಕ ಉಂಟಾದ ಪ್ರಮಾಣವನ್ನು.</string>
+<string name="hint_saved_amount">ನೀವು ರಿಯಾಯಿತಿ ಬೆಲೆ ಕೊಳ್ಳುವುದರಿಂದ ಉಳಿಸಲಾಗುತ್ತಿದೆ ಹಣದ ಪ್ರಮಾಣವನ್ನು.</string>
+<string name="hint_saved_bigger">ನೀವು ದೊಡ್ಡ ಉತ್ಪನ್ನ ಕೊಳ್ಳುವುದರಿಂದ ಉಳಿಸುತ್ತದೆ ಹಣದ ಪ್ರಮಾಣವನ್ನು. ಸಕಾರಾತ್ಮಕ ಮೌಲ್ಯ ದೊಡ್ಡ ಉತ್ಪನ್ನ ಒಂದು ಉತ್ತಮ ಒಪ್ಪಂದ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ನಕಾರಾತ್ಮಕ ಮೌಲ್ಯವನ್ನು ಸಣ್ಣ ಉತ್ಪನ್ನ ಒಂದು ಉತ್ತಮ ಒಪ್ಪಂದ ಎಂದು ಸೂಚಿಸುತ್ತದೆ.</string>
+<string name="hint_simple_percent">ಶೇಕಡಾವಾರು, ನೀವು "ಆರಂಭಿಕ ಮೌಲ್ಯವನ್ನು" ಔಟ್ ಲೆಕ್ಕಾಚಾರ ಬಯಸುವ</string>
+<string name="hint_small_price">ನಿರ್ದಿಷ್ಟ ಉತ್ಪನ್ನದ ಬೆಲೆ.</string>
+<string name="hint_small_units">ನಿರ್ದಿಷ್ಟ ಉತ್ಪನ್ನ ಘಟಕಗಳ ಸಂಖ್ಯೆ, ಇದು ಪರಿಮಾಣ, ತೂಕ ಅಥವಾ ಪಾತ್ರೆಯಲ್ಲಿ ಐಟಂಗಳ ಸಂಖ್ಯೆ ಆಗಿರಬಹುದು.</string>
+<string name="hint_tip_amount">ತುದಿ ಪ್ರಮಾಣವನ್ನು ನೀವು ಪಾವತಿಸಲು ಸಿದ್ಧರಿದ್ದರೆ.</string>
+<string name="hint_tip_percentage">ನೀವು ಪಾವತಿ ಬಯಸುವ ತುದಿ ಶೇಕಡಾವಾರು ದರ.</string>
+<string name="hint_total_cost">ಸಂಯೋಗ ಆಸಕ್ತಿ ಮತ್ತು ಎಲ್ಲಾ ಶುಲ್ಕಗಳು ಸೇರಿದಂತೆ ಸಾಲದ ಒಟ್ಟು ವೆಚ್ಚವನ್ನು,.</string>
+<string name="hint_total_repay">ಅಗತ್ಯವಿದೆ ಎಂದು ಒಟ್ಟು ಪ್ರಮಾಣದ ಸಾಲ ಮರುಪಾವತಿ ಮಾಡಲು.</string>
+<string name="hint_total_to_pay">ಬಿಲ್ ಜೊತೆಗೆ ಸಲಹೆ ಸಮನಾದ ನೀವು (ಅಥವಾ ಬಯಸುವ) ಪಾವತಿಸಲು ಒಟ್ಟು ಪ್ರಮಾಣವನ್ನು.</string>
+<string name="hint_would_cost">ಯೂನಿಟ್ಗೆ ಅದರ ಬೆಲೆ ಊಹಿಸಿಕೊಂಡು ದೊಡ್ಡ ಉತ್ಪನ್ನದ ಕಾಲ್ಪನಿಕ ಬೆಲೆ ಸಣ್ಣ ಉತ್ಪನ್ನದ ಎಂದು ಸಮನಾಗಿತ್ತು.</string>
+<string name="information_1">ಶಾಪಿಂಗ್ ಮಾಡುವಾಗ ನೀವು ಮುರಿ ಅಥವಾ ರಿಯಾಯಿತಿ ನೋಡಿ ಬಂದ, ನೀವು ಉಳಿಸಬಹುದು ಎಷ್ಟು ಪರಿಶೀಲಿಸಬಹುದು, ಅಥವಾ ಉತ್ಪನ್ನ ಮೂಲ ಬೆಲೆ ಏನು. ವಾಸ್ತವವಾಗಿ, ನೀವು ಖಾಲಿ ತಮ್ಮ ಜಾಗ ಬಿಟ್ಟು ಮೌಲ್ಯಗಳು ಯಾವುದೇ ಲೆಕ್ಕ ಮಾಡಬಹುದು. ನೀವು ಖಾಲಿ ನಿಖರವಾಗಿ ಎರಡು ಜಾಗ ಕೈಬಿಡಬೇಕಾಯಿತು. ನೀವು 25% ರಷ್ಟು ರಿಯಾಯಿತಿ ಎಂದು ಇಮ್ಯಾಜಿನ್, ಮತ್ತು ಮೂಲ ಬೆಲೆ ನೀವು ಪ್ರಸ್ತುತ ಬೆಲೆ ಮತ್ತು ಎಷ್ಟು ನೀವು ಉಳಿಸುತ್ತದೆ ಕಂಡುಹಿಡಿಯಲು ಮತ್ತು "ರಿಯಾಯಿತಿ" "ಮೊದಲು" ತುಂಬಲು ಅಗತ್ಯವಿದೆ 299. ಆಗಿತ್ತು.</string>
+<string name="information_2">ಈ ಸುಲಭ ಟೂಲ್ ಧನ್ಯವಾದಗಳು, ನೀವು ಒಂದು ದೊಡ್ಡ ಉತ್ಪನ್ನ ಖರೀದಿ ನೀವು ಕೆಲವು ಹಣ ಮತ್ತು ಎಷ್ಟು ಉಳಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ನೀವು 2.79 ವೆಚ್ಚವಾಗುತ್ತದೆ ಒಂದು ಸಣ್ಣ ಸೀಸೆ (0.5 ಲೀಟರ್) ಮತ್ತು 7,49 ವೆಚ್ಚವಾಗುತ್ತದೆ ದೊಡ್ಡ ಬಾಟಲ್ (1.5 ಲೀಟರ್) ಒಂದು ಪಾನೀಯ ಹೊಂದಿವೆ ಎಂದು, ಇಮ್ಯಾಜಿನ್. ಉತ್ತಮ ಕೊಡುಗೆ ಯಾವುದು? ನೀವು ಎಲ್ಲಾ 4 ಇನ್ಪುಟ್ ಜಾಗ ತುಂಬಲು ಮತ್ತು "ಲೆಕ್ಕ" ಒತ್ತುವುದು.</string>
+<string name="information_3">ಶಾಪಿಂಗ್ ಮಾಡುವಾಗ ನೀವು ಮುರಿ ಅಥವಾ ರಿಯಾಯಿತಿ ನೋಡಿ ಬಂದ, ನೀವು ಉಳಿಸಬಹುದು ಎಷ್ಟು ಪರಿಶೀಲಿಸಬಹುದು, ಅಥವಾ ಉತ್ಪನ್ನ ಮೂಲ ಬೆಲೆ ಏನು. ವಾಸ್ತವವಾಗಿ, ನೀವು ಖಾಲಿ ತಮ್ಮ ಜಾಗ ಬಿಟ್ಟು ಮೌಲ್ಯಗಳು ಯಾವುದೇ ಲೆಕ್ಕ ಮಾಡಬಹುದು. ನೀವು ಖಾಲಿ ನಿಖರವಾಗಿ ಎರಡು ಜಾಗ ಕೈಬಿಡಬೇಕಾಯಿತು. ನೀವು 25% ರಷ್ಟು ರಿಯಾಯಿತಿ ಎಂದು ಇಮ್ಯಾಜಿನ್, ಮತ್ತು ಮೂಲ ಬೆಲೆ ನೀವು ಪ್ರಸ್ತುತ ಬೆಲೆ ಮತ್ತು ಎಷ್ಟು ನೀವು ಉಳಿಸುತ್ತದೆ ಕಂಡುಹಿಡಿಯಲು ಮತ್ತು "ರಿಯಾಯಿತಿ" "ಮೊದಲು" ತುಂಬಲು ಅಗತ್ಯವಿದೆ 299. ಆಗಿತ್ತು.</string>
+<string name="information_4">ಈ ಸುಲಭ ಟೂಲ್ ಧನ್ಯವಾದಗಳು, ನೀವು ಒಂದು ದೊಡ್ಡ ಉತ್ಪನ್ನ ಖರೀದಿ ನೀವು ಕೆಲವು ಹಣ ಮತ್ತು ಎಷ್ಟು ಉಳಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ನೀವು 2.79 ವೆಚ್ಚವಾಗುತ್ತದೆ ಒಂದು ಸಣ್ಣ ಸೀಸೆ (0.5 ಲೀಟರ್) ಮತ್ತು 7,49 ವೆಚ್ಚವಾಗುತ್ತದೆ ದೊಡ್ಡ ಬಾಟಲ್ (1.5 ಲೀಟರ್) ಒಂದು ಪಾನೀಯ ಹೊಂದಿವೆ ಎಂದು, ಇಮ್ಯಾಜಿನ್. ಉತ್ತಮ ಕೊಡುಗೆ ಯಾವುದು? ನೀವು ಎಲ್ಲಾ 4 ಇನ್ಪುಟ್ ಜಾಗ ತುಂಬಲು ಮತ್ತು "ಲೆಕ್ಕ" ಒತ್ತುವುದು.</string>
+<string name="information_5">ನಿಮ್ಮ ಖರೀದಿಗಾಗಿ ಸಾಲವನ್ನು ಪಡೆಯಲು ಯೋಜನೆ ಇದ್ದರೆ, ನೀವು ಪರಿಣಾಮಕಾರಿ (ನಿಜವಾದ) ವಾರ್ಷಿಕ ಶೇಕಡಾವಾರು ದರ ಹಾಗೂ ಭಾಗವಹಿಸುವ ಎಲ್ಲಾ ವೆಚ್ಚವನ್ನು ಲೆಕ್ಕ ಮಾಡಬಹುದು. ಇದು ಎರಡು ವಿಧಾನಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಮೊದಲ, ನೀವು ಸಾಲ ಮತ್ತು ಮಾಸಿಕ ಕಂತುಗಳಲ್ಲಿ ಪ್ರಮಾಣವನ್ನು ಹಾಗೂ ಒಟ್ಟು ವೆಚ್ಚವನ್ನು ಲೆಕ್ಕ ಮಾಡುತ್ತದೆ ಅಪ್ಲಿಕೇಶನ್ ಒದಗಿಸಿದ ಅತ್ಯಲ್ಪ (ವಾರ್ಷಿಕ) ಶೇಕಡಾವಾರು ದರ ನಮೂದಿಸಬೇಕು. ಎರಡನೇ ಕ್ರಮದಲ್ಲಿ, ನೀವು (ಕೆಲವೊಮ್ಮೆ ಒಂದು ವ್ಯಾಪಾರಿ ಮಂಡಿಸಿದ) ಮಾಸಿಕ ಕಂತು ಪ್ರಮಾಣವನ್ನು ನಮೂದಿಸಿ ಅಗತ್ಯವಿದೆ, ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ವಾರ್ಷಿಕ ಶೇಕಡಾವಾರು ಹಾಗೂ ಎಲ್ಲಾ ವೆಚ್ಚವನ್ನು ಲೆಕ್ಕ ಮಾಡುತ್ತದೆ.</string>
+<string name="initial_value">ಆರಂಭಿಕ ಮೌಲ್ಯವನ್ನು</string>
+<string name="instructions">ಸೂಚನೆಗಳು</string>
+<string name="leave_one_of_two">ಶೇಕಡಾವಾರು, ಕಂತು: ಖಾಲಿ ಬಿಟ್ಟು. ಕೆಳಗಿನ ಸೂಚನೆಗಳನ್ನು ನೋಡಿ.</string>
+<string name="leave_two_empty">ನಿಖರವಾಗಿ ಎರಡು ಜಾಗ ಖಾಲಿ ಬಿಡಿ</string>
+<string name="LoanCalc">ಸಾಲದ ವೆಚ್ಚ</string>
+<string name="loan_amt">ಸಾಲದ ಪ್ರಮಾಣವನ್ನು</string>
+<string name="menu_title">ನೀವು ಲೆಕ್ಕ ಬಯಸುತ್ತೀರಿ?</string>
+<string name="msg_from_dev">ಡೆವಲಪರ್ ಸಂದೇಶ</string>
+<string name="ok">ಸರಿ</string>
+<string name="opinion">ಅಭಿಪ್ರಾಯ</string>
+<string name="other_fees">ಇತರ ಶುಲ್ಕಗಳು</string>
+<string name="payments">ಕಂತುಗಳ ಸಂಖ್ಯೆ</string>
+<string name="payment_amount">ಕಂತು ಪ್ರಮಾಣವನ್ನು</string>
+<string name="percent">ಶೇಕಡಾ</string>
+<!-- as in percentage rate -->
+<string name="percentage">ಶೇಕಡಾವಾರು</string>
+<string name="price_unit">ಘಟಕದ ಬೆಲೆ</string>
+<string name="question">ಪ್ರಶ್ನೆ</string>
+<!-- imperative -->
+<string name="rate_app">ಈ ಅಪ್ಲಿಕೇಶನ್ ದರ!</string>
+<string name="regular_percent">ಸಾಮಾನ್ಯ ರಷ್ಟು</string>
+<string name="results">ಫಲಿತಾಂಶಗಳು</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">ಪರಿಣಾಮವಾಗಿ ಮೌಲ್ಯವನ್ನು</string>
+<string name="saved_amount">ಉಳಿಸಿದ ಪ್ರಮಾಣದ</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">ಸೂಚನೆಗಳನ್ನು ಕೆಳಗೆ ಸ್ಕ್ರಾಲ್ ಫಾರ್</string>
+<string name="send">ಕಳುಹಿಸಿ</string>
+<string name="small_price">ಬೆಲೆ</string>
+<string name="small_product">ಸಣ್ಣ ಉತ್ಪನ್ನ</string>
+<string name="small_units">ಘಟಕಗಳು ಅಥವಾ ಪ್ರಮಾಣ</string>
+<string name="submit">ಲೆಕ್ಕ</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">ಟಾರ್ಗೆಟ್ ಪ್ರಮಾಣವನ್ನು</string>
+<string name="thanks">ಧನ್ಯವಾದಗಳು!</string>
+<string name="tip">ಹಣರೂಪದ ಪ್ರಮಾಣವನ್ನು</string>
+<string name="tip_amount">ಹಣರೂಪದ ಪ್ರಮಾಣವನ್ನು</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">ಶೇಕಡಾವಾರು ದರ</string>
+<string name="total_cost">ಒಟ್ಟು ವೆಚ್ಚ</string>
+<string name="total_pay">ಪಾವತಿಸಲು ಒಟ್ಟು</string>
+<string name="total_repay">ಮರುಪಾವತಿಸಲು ಒಟ್ಟು</string>
+<string name="would_cost">ಕಾಲ್ಪನಿಕ ವೆಚ್ಚ</string>
+</resources>

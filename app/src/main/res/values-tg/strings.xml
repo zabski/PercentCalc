@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Нарх баъди</string>
+<string name="annual_percent_rate">Меъёри фоизи солона</string>
+<string name="app_name">Ҳисобкунаки кардани фоизи</string>
+<string name="app_name2">Фоизӣ ва тахфиф</string>
+<string name="app_name3">Ҳисобкунаки аз тахфиф</string>
+<string name="app_name4">Ҳисобкунаки кардани фоизи ва тахфиф</string>
+<string name="before_price">Нарх пеш</string>
+<string name="big_product">Маҳсулоти калон</string>
+<string name="bill_amount">Маблағи гирифтани</string>
+<string name="bug">Хатогӣ</string>
+<string name="cancel">Бекор</string>
+<string name="choose_currency">Интихоб асъор</string>
+<string name="clear">Clear ҳама</string>
+<string name="commission">Комиссияи</string>
+<string name="compare_result">Натиҷаи нисбат</string>
+<string name="cost_percent">Арзиши ҳамчун фоизи қарз</string>
+<string name="del">Тозакунии</string>
+<string name="discount">Тахфифи</string>
+<string name="discount_rate">Қурби тахфиф</string>
+<string name="feedback">Ба мо нависед!</string>
+<string name="feedback_prompt">Hi, мехоҳам ба шумо ба мо баъзе фикру то ки мо тавонем беҳтар таҷрибаи шумо медода бошад?</string>
+<string name="fill_all_non_framed">Шумо бояд ҳамаи соҳаҳои ғайридавлатӣ ҳошиякашӣ пур</string>
+<string name="fill_in">Лутфан, пур дар тамоми соҳаҳои вуруди</string>
+<string name="fill_in_bill">Шумо бояд пур дар: Маблағи гирифтани</string>
+<string name="fill_in_compulsory">Лутфан, дар ҳамаи соҳаҳо талаб пур</string>
+<string name="fill_in_xor">Тарк маҳз як соҳаи холӣ</string>
+<string name="help_translate">Кӯмак тарҷума ин барнома</string>
+<string name="hint_after_price">Нарх пас аз тахфифи. Ба ибораи дигар, ин нархи пасттар аст.</string>
+<string name="hint_amount">Маблағи қарз кунед. Одатан ба нархи маҳсулот, ки шумо мехоҳед ба харидорӣ баробар. Ин бахш ҳатмист.</string>
+<string name="hint_apr">Меъёри солонаи Фоизи (APR) - самаранок меъёри фоизи солонаи қарз, аз ҷумла арзиши умумии.</string>
+<string name="hint_before_price">Нарх пеш тахфифи. Ба ибораи дигар, ин нархи баландтар аст.</string>
+<string name="hint_bill_amount">Ба маблағи умумии ба гирифтани пардохт кунед.</string>
+<string name="hint_commission">Комиссияи (ё пардохти қарз) ҳамчун фоизи қарз. Агар маълум нест, холӣ монед.</string>
+<string name="hint_cost_percent">Арзиши умумии (тавре ки дар боло), изҳори ҳамчун фоизи қарз.</string>
+<string name="hint_discount_rate">Ин меъёри тахфиф ҳамчун фоизӣ зиёд мебошад.</string>
+<string name="hint_initial_amount">Маблағи аввалия, ки аз он фоизи хоҳад буд (ва ё буд) њисоб карда мешавад.</string>
+<string name="hint_install">Одатан ба шумораи пардохтҳои моҳонаи баробар. Ин бахш ҳатмист.</string>
+<string name="hint_interest">Ба номиналии (солона), меъёри фоизи қарз шумо чӣ гуна аст? Агар ин соҳа аст, холӣ гузошта, ба шумо лозим меояд, ки ба пур »насби»</string>
+<string name="hint_other_fees">Ҳамаи пардохтҳои дигар, ки вобаста ба ҳаҷми қарзи нест. Агар маълум нест, холӣ монед.</string>
+<string name="hint_payment">Маблағи ҳар як аз (ҳармоҳа) људо намоед. Шумо лозим нест, ки ба пур дар ин соҳа, агар шумо «Фоизи» холӣ тарк. Агар холӣ гузошта, онро хоҳад пас аз зеркунии тугмаи њисоб карда мешавад.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Нархҳо як адад ҳам барои маҳсулоти. Он метавонад 1g, 1ml, 1oz, 1 адад ва ғайра</string>
+<string name="hint_result_amount">Маблағи аст, ки дар натиҷаи аз њисоби фоиз аз арзиши аввалияи.</string>
+<string name="hint_saved_amount">Ҳаҷми пулҳои, ки шумо бо харидани дар нархи арзон сарфа.</string>
+<string name="hint_saved_bigger">Ҳаҷми пулҳои, ки шумо бо харидани маҳсулот калон захира кунед. Арзиши мусбат нишон, ки маҳсулоти калонтар созишномаи беҳтар аст. Арзиши манфӣ нишон, ки маҳсулоти хурдтар созишномаи беҳтар аст.</string>
+<string name="hint_simple_percent">Фоизи, ки шумо мехоҳед ба ҳисоб берун аз «арзиши аввалия"</string>
+<string name="hint_small_price">Нархи маҳсулот дода шавад.</string>
+<string name="hint_small_units">Шумораи воњидњои дар маҳсулот дода бошад, он метавонад ё ҳаҷми, вазни ё шумораи муайяни элементҳо дар контейнер.</string>
+<string name="hint_tip_amount">Маблағи Маслиҳат шумо хостед, ки ба он пардохт кунанд.</string>
+<string name="hint_tip_percentage">Меъёри фоизӣ дар нӯги ки шумо мехоҳед ба пардохт.</string>
+<string name="hint_total_cost">Арзиши умумии қарз, аз ҷумла фоизҳо дучанд ва ҳамаи пардохтҳои.</string>
+<string name="hint_total_repay">Маблағи умумии ки бояд ба ба қарздиҳанда пардохт карда шавад.</string>
+<string name="hint_total_to_pay">Маблағи умумии ки ба шумо лозим аст (ё мехоҳед) ба пардохт, ки ба Билл ҷамъи маблағи Маслиҳат баробар.</string>
+<string name="hint_would_cost">Нархи фарзия маҳсулоти калонтар пиндошти нархи он як воҳид ба, ки аз маҳсулоти хурдтар баробар буд.</string>
+<string name="information_1">Вақте, ки шумо як rebate ё тахфифи дид дар ҳоле, харид, шумо метавонед санҷед, ки чӣ қадар ба шумо метавонед наҷот додан, ё чӣ ба арзиши аслии маҳсулот буд. Дар ҳақиқат, шумо метавонед ягон арзишҳои аз ҷониби тарк майдонҳои худро холӣ ҳисоб кунед. Шумо бояд тарк расо ду майдонҳои холӣ. Тасаввур кунед, ки шумо як тахфифи 25%, ва нархи аслии 299. Шумо бояд пур "пеш" ва "тахфиф" пайдо нархи ҷорӣ ва чӣ қадар ба шумо захира хоҳад шуд.</string>
+<string name="information_2">Ба шарофати ин абзори осон, Шумо метавонед, ки оё харидории маҳсулот калонтар ба шумо баъзе пул ва чӣ қадар захира кунед. Тасаввур кунед, ки шумо барои нӯшидан об дар як шиша хурд (0,5 литр), ки бо нархи 2,79 ва як шиша калон (1,5 литр), ки бо нархи 7.49. Ки яке аз пешниҳоди беҳтар аст? Ҳамаи шумо лозим аст, ки ба пур 4 майдонҳои вуруди кунед ва тугмаи «ҳисоб».</string>
+<string name="information_3">Вақте, ки шумо як rebate ё тахфифи дид дар ҳоле, харид, шумо метавонед санҷед, ки чӣ қадар ба шумо метавонед наҷот додан, ё чӣ ба арзиши аслии маҳсулот буд. Дар ҳақиқат, шумо метавонед ягон арзишҳои аз ҷониби тарк майдонҳои худро холӣ ҳисоб кунед. Шумо бояд тарк расо ду майдонҳои холӣ. Тасаввур кунед, ки шумо як тахфифи 25%, ва нархи аслии 299. Шумо бояд пур "пеш" ва "тахфиф" пайдо нархи ҷорӣ ва чӣ қадар ба шумо захира хоҳад шуд.</string>
+<string name="information_4">Ба шарофати ин абзори осон, Шумо метавонед, ки оё харидории маҳсулот калонтар ба шумо баъзе пул ва чӣ қадар захира кунед. Тасаввур кунед, ки шумо барои нӯшидан об дар як шиша хурд (0,5 литр), ки бо нархи 2,79 ва як шиша калон (1,5 литр), ки бо нархи 7.49. Ки яке аз пешниҳоди беҳтар аст? Ҳамаи шумо лозим аст, ки ба пур 4 майдонҳои вуруди кунед ва тугмаи «ҳисоб».</string>
+<string name="information_5">Агар шумо ба нақша гирифтани қарз барои хариди худ, шумо метавонед ҳамаи хароҷоти ҷалб инчунин самаранок (воқеӣ) Меъёри фоизи солона ҳисоб кунед. Он дар ду шеваи кор мекунад. Дар аввал, ба шумо лозим аст, ки ворид номиналии (солона) Меъёри фоизӣ пешниҳод аз ҷониби қарздиҳанда ва барнома ба маблағи људо ҳармоҳа инчунин харољоти умумї барои ҳисоб кунед. Дар ҳолати дуюм, ба шумо лозим аст, ки ворид маблағи насби ҳармоҳа (баъзан аз ҷониби тоҷирест, пешнињод), ва барнома фоизи солона, инчунин ҳамаи хароҷоти ҳисоб кунед.</string>
+<string name="initial_value">Арзиши аввалаи</string>
+<string name="instructions">Дастурамал</string>
+<string name="leave_one_of_two">Тарк як холӣ аз: фоизӣ, насби. Дастур ба поён нигаред.</string>
+<string name="leave_two_empty">Тарк расо ду майдонҳои холӣ</string>
+<string name="LoanCalc">Арзиши қарз</string>
+<string name="loan_amt">Маблағи қарз</string>
+<string name="menu_title">Шумо чӣ мехоҳед кардан ба ҳисоб?</string>
+<string name="msg_from_dev">Message аз таҳиякунанда</string>
+<string name="ok">ХУБ</string>
+<string name="opinion">Фикр</string>
+<string name="other_fees">Пардохтҳои дигар</string>
+<string name="payments">Шумораи људо</string>
+<string name="payment_amount">Маблағи насби</string>
+<string name="percent">Фоиз</string>
+<!-- as in percentage rate -->
+<string name="percentage">Фоиз</string>
+<string name="price_unit">Нарх дар як воҳиди</string>
+<string name="question">Савол</string>
+<!-- imperative -->
+<string name="rate_app">Rate ин барнома!</string>
+<string name="regular_percent">Фоиз мунтазам</string>
+<string name="results">Натиҷаҳо</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Арзиши натиҷа</string>
+<string name="saved_amount">Маблағи наҷот</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Зеро дастур ба поён ҳаракат кунед</string>
+<string name="send">Фиристодан</string>
+<string name="small_price">Нарх</string>
+<string name="small_product">Маҳсулоти хурд</string>
+<string name="small_units">Адад ё миќдори</string>
+<string name="submit">Ҳисоб кардан</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Маблағи Ҳадаф</string>
+<string name="thanks">Сипос!</string>
+<string name="tip">Маблағи gratuity</string>
+<string name="tip_amount">Маблағи gratuity</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Меъёри фоизӣ</string>
+<string name="total_cost">Арзиши умумии</string>
+<string name="total_pay">Њамагї ба пардохт</string>
+<string name="total_repay">Њамагї ба сазо</string>
+<string name="would_cost">Арзиши фарзия</string>
+</resources>

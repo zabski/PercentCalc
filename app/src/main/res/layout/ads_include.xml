@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:Amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|left"
+        android:padding="@dimen/margin_l"
+        android:text="This is ads_include begin"
+        android:visibility="gone"
+        android:textSize="@dimen/text_m" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|left"
+        android:padding="@dimen/margin_s"
+        android:text="native_ad_container_end"
+        android:visibility="gone"
+        android:textSize="@dimen/text_m" />
+
+    <FrameLayout
+        android:id="@+id/native_ad_container_end"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:visibility="visible"
+        android:orientation="vertical"
+        >
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|left"
+        android:padding="@dimen/margin_s"
+        android:text="fb_banner_ad"
+        android:visibility="gone"
+        android:textSize="@dimen/text_m" />
+
+    <FrameLayout
+        android:id="@+id/fb_banner_ad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_l"
+        android:visibility="visible"
+        android:orientation="vertical"
+        >
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|left"
+        android:padding="@dimen/margin_s"
+        android:text="adView"
+        android:visibility="gone"
+        android:textSize="@dimen/text_m" />
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_l"
+        android:layout_alignParentBottom="true"
+        ads:adUnitId="@string/admob_banner_1"
+        ads:adSize="SMART_BANNER"
+        android:visibility="visible"/>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|left"
+        android:padding="@dimen/margin_s"
+        android:text="adViewContainer"
+        android:visibility="gone"
+        android:textSize="@dimen/text_m" />
+
+    <RelativeLayout
+        android:id="@+id/adViewContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_l"
+        android:layout_alignParentBottom="true"
+        android:visibility="visible"
+        />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|left"
+        android:padding="@dimen/margin_s"
+        android:text="amazonAdView"
+        android:visibility="gone"
+        android:textSize="@dimen/text_m" />
+
+    <com.amazon.device.ads.AdLayout
+        android:id="@+id/amazonAdView"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_l"
+        android:visibility="visible"
+        />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|left"
+        android:padding="@dimen/margin_s"
+        android:text="adViewExpress"
+        android:visibility="gone"
+        android:textSize="@dimen/text_m" />
+
+    <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/adViewExpress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_l"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+        ads:adSize="320x280"
+        android:visibility="visible"
+
+        ads:adUnitId="@string/admob_express_small_id">
+    </com.google.android.gms.ads.NativeExpressAdView>
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|left"
+        android:padding="@dimen/margin_l"
+        android:text="This is ads_include end"
+        android:visibility="gone"
+        android:textSize="@dimen/text_m" />
+
+</LinearLayout>

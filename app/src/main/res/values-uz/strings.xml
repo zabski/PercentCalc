@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Narx so\'ng</string>
+<string name="annual_percent_rate">Yillik foiz darajasi</string>
+<string name="app_name">Foizi kalkulyator</string>
+<string name="app_name2">Foiz va chegirmalar</string>
+<string name="app_name3">Chegirmalar kalkulyator</string>
+<string name="app_name4">Foiz va chegirmalar kalkulyator</string>
+<string name="before_price">Narx oldin</string>
+<string name="big_product">Yirik mahsulot</string>
+<string name="bill_amount">Olingan miqdori</string>
+<string name="bug">Xato</string>
+<string name="cancel">Bekor qilish</string>
+<string name="choose_currency">Valyutani tanlang</string>
+<string name="clear">Hammasini tozalash</string>
+<string name="commission">Komissiya</string>
+<string name="compare_result">Taqqoslash natijalari</string>
+<string name="cost_percent">Kredit foiz sifatida ahamiyati</string>
+<string name="del">O\'chirish</string>
+<string name="discount">Discount</string>
+<string name="discount_rate">Chegirma darajasi</string>
+<string name="feedback">Bizga yozing!</string>
+<string name="feedback_prompt">Salom, siz bizga, biz tajribangizni oshirish uchun, ba\'zi qilish uchun istaysizmi?</string>
+<string name="fill_all_non_framed">Siz barcha nodavlat belgilangan maydonlarni to\'ldirish shart</string>
+<string name="fill_in">Barcha kirish maydonlarni to\'ldiring</string>
+<string name="fill_in_bill">Siz to\'ldiring kerak: olingan miqdori</string>
+<string name="fill_in_compulsory">Barcha zarur maydonlarni to\'ldiring Iltimos</string>
+<string name="fill_in_xor">Bo\'sh aniq bir maydonini tark</string>
+<string name="help_translate">Ushbu dasturni o\'girishga yordam</string>
+<string name="hint_after_price">Chegirma keyin narx. Boshqa so\'z bilan aytganda, bu past narxlari hisoblanadi.</string>
+<string name="hint_amount">Sizning kredit miqdori. Agar sotib olish uchun kerakli mahsulot, narxiga Odatda teng. Ushbu qator to\'ldirilishi shart.</string>
+<string name="hint_apr">Yillik foiz darajasi (Apr) - umumiy qiymati, shu jumladan kredit samarali yillik foiz stavkasi.</string>
+<string name="hint_before_price">Chegirma oldin narx. Boshqa so\'z bilan aytganda, bu yuqori narxi.</string>
+<string name="hint_bill_amount">Umumiy miqdori sizning olingan to\'lash uchun.</string>
+<string name="hint_commission">Komissiya (yoki qarz to\'lovi) qarz, foiz. Ma\'lum emas bo\'lsa, bo\'sh qoldiring.</string>
+<string name="hint_cost_percent">Umumiy qiymati (yuqoridagi kabi) kredit ulushi sifatida ifoda.</string>
+<string name="hint_discount_rate">Bu foiz sifatida chegirma darajasi hisoblanadi.</string>
+<string name="hint_initial_amount">Foiz bo\'lishi (yoki edi) qaysi dastlabki miqdori hisoblab.</string>
+<string name="hint_install">Oylik to\'lovlar soniga Odatda teng. Ushbu qator to\'ldirilishi shart.</string>
+<string name="hint_interest">Sizning kredit nominal (yillik) foiz stavkasi nima? Bu maydon bo\'sh qoldiriladi bo\'lsa, siz "to\'lash" to\'ldirish kerak bo\'ladi</string>
+<string name="hint_other_fees">Qarz miqdoriga bog\'liq emas, boshqa barcha to\'lovlar. Ma\'lum emas bo\'lsa, bo\'sh qoldiring.</string>
+<string name="hint_payment">Sizning (oylik) to\'lash har bir miqdori. Agar «foizli" bo\'sh qoldiriladi ekan, bu sohada to\'ldirish shart emas. Bo\'sh qoldirilsa, u tugmani bosib so\'ng hisoblab qilinadi.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Har ikki mahsulot uchun, bir birlik narxlari. Bu hokazo 1g, 1ml, 1oz, 1 band bo\'lishi mumkin</string>
+<string name="hint_result_amount">Dastlabki qiymatini foizini hisoblash natijasida etiladi miqdor.</string>
+<string name="hint_saved_amount">Agar chegirmali narxda sotib tomonidan tejash qilingan pul miqdori.</string>
+<string name="hint_saved_bigger">Agar katta mahsulotni sotib tomonidan qutqaradi pul miqdori. Ijobiy qiymati kattaroq mahsulot yaxshiroq shartnoma ekanligini ko\'rsatadi. Salbiy qiymati kichik mahsulot yaxshiroq shartnoma ekanligini ko\'rsatadi.</string>
+<string name="hint_simple_percent">Foiz, siz "Boshlang\'ich qiymatiga" chiqib hisoblash istayman deb</string>
+<string name="hint_small_price">Bu mahsulot narxi.</string>
+<string name="hint_small_units">Bu mahsulotning birliklari soni, u hajmi, og\'irligi yoki idishda ob\'ektlar soni ham bo\'lishi mumkin.</string>
+<string name="hint_tip_amount">Yuk miqdori siz to\'lashga tayyor.</string>
+<string name="hint_tip_percentage">Agar to\'lov istagan yuk foiz stavkasi.</string>
+<string name="hint_total_cost">Aralash foiz va barcha to\'lovlar, shu jumladan qarz umumiy qiymati.</string>
+<string name="hint_total_repay">Kerak bo\'ladi jami miqdori qarz beruvchining qaytarilib berilishi.</string>
+<string name="hint_total_to_pay">Qonun plus uchi miqdoriga teng sizga kerak (yoki orzu) to\'lash umumiy miqdori.</string>
+<string name="hint_would_cost">Birligiga, uning narxi faraz kattaroq mahsulot xayoliy narx kichik mahsulot deb teng edi.</string>
+<string name="information_1">Savatingizga ushbu davr Agar chegirma yoki chegirma tortaman, siz saqlashingiz mumkin qancha, nazorat qilish mumkin, yoki mahsulot asl narxi nima bo\'ldi. Aslida, siz bo\'sh ularning dalalariga qoldirib qadriyatlar har qanday hisoblash mumkin. Siz bo\'sh aniq ikki maydonlarni tark qilish kerak. Agar 25% chegirmalarni ega ekanligini, tasavvur qiling, va original narxlari joriy narx va qancha siz qutqaradi topish uchun va "chegirma", "oldin" to\'ldirish lozim 299 edi.</string>
+<string name="information_2">Bu oson vositasi uchun rahmat, siz kattaroq mahsulotni sotib sizga bir oz pul va qancha qutqaradi yo\'qmi topishingiz mumkin. Agar 2.79 xarajati bir kichik shisha (0,5 litr) va 7,49 EUR\'dir katta shisha (1,5 litr) sharob bor deb, tasavvur qiling. Yaxshiroq taklif qaysi biri? Barcha kerak 4 kirish maydonlarini to\'ldirish va "hisoblash" tugmasini bosing iborat.</string>
+<string name="information_3">Savatingizga ushbu davr Agar chegirma yoki chegirma tortaman, siz saqlashingiz mumkin qancha, nazorat qilish mumkin, yoki mahsulot asl narxi nima bo\'ldi. Aslida, siz bo\'sh ularning dalalariga qoldirib qadriyatlar har qanday hisoblash mumkin. Siz bo\'sh aniq ikki maydonlarni tark qilish kerak. Agar 25% chegirmalarni ega ekanligini, tasavvur qiling, va original narxlari joriy narx va qancha siz qutqaradi topish uchun va "chegirma", "oldin" to\'ldirish lozim 299 edi.</string>
+<string name="information_4">Bu oson vositasi uchun rahmat, siz kattaroq mahsulotni sotib sizga bir oz pul va qancha qutqaradi yo\'qmi topishingiz mumkin. Agar 2.79 xarajati bir kichik shisha (0,5 litr) va 7,49 EUR\'dir katta shisha (1,5 litr) sharob bor deb, tasavvur qiling. Yaxshiroq taklif qaysi biri? Barcha kerak 4 kirish maydonlarini to\'ldirish va "hisoblash" tugmasini bosing iborat.</string>
+<string name="information_5">Agar siz yollash uchun kredit olish rejangiz bo\'lsa, siz samarali (real) yillik foiz Rate shuningdek etgan barcha xarajatlarini hisoblash mumkin. Bu ikki rejimda ishlaydi. Birinchi, siz qarz beruvchi va oylik to\'lash miqdorini, shuningdek, umumiy xarajatlarni hisoblash ariza tomonidan taqdim nominal (yillik) foiz stavkasini kiritishingiz kerak. Ikkinchi holatida, (ba\'zan bir savdogar tomonidan taqdim etildi) oylik uzishiga miqdorini kiritish kerak va dastur yillik foiz, shuningdek, barcha xarajatlarni hisoblash bo\'ladi.</string>
+<string name="initial_value">Boshlang\'ich qiymat</string>
+<string name="instructions">Ko\'rsatmalarga</string>
+<string name="leave_one_of_two">Foizini, uzishiga: bo\'sh birini qoldiring. Quyidagi ko\'rsatmalarga qarang.</string>
+<string name="leave_two_empty">Aniq ikki maydonlarni bo\'sh qoldiring</string>
+<string name="LoanCalc">Kredit Narxlarni</string>
+<string name="loan_amt">Qarz miqdori</string>
+<string name="menu_title">Nima siz hisoblash uchun istaysiz?</string>
+<string name="msg_from_dev">Tuzuvchi Xabar</string>
+<string name="ok">OK</string>
+<string name="opinion">Fikr</string>
+<string name="other_fees">Boshqa to\'lovlar</string>
+<string name="payments">Uzishiga soni</string>
+<string name="payment_amount">Uzishiga miqdori</string>
+<string name="percent">Percent</string>
+<!-- as in percentage rate -->
+<string name="percentage">Foiz</string>
+<string name="price_unit">Birlik narxi</string>
+<string name="question">Savol</string>
+<!-- imperative -->
+<string name="rate_app">Ushbu dasturni ber!</string>
+<string name="regular_percent">Muntazam foiz</string>
+<string name="results">Natijalar</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Natijada qiymati</string>
+<string name="saved_amount">Saqlangan miqdori</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Ko\'rsatmalar pastga aylantiring uchun</string>
+<string name="send">Yuborish</string>
+<string name="small_price">Narx</string>
+<string name="small_product">Kichik mahsulot</string>
+<string name="small_units">O\'lchov yoki miqdor</string>
+<string name="submit">Hisoblash</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Target miqdori</string>
+<string name="thanks">Rahmat!</string>
+<string name="tip">Sovg\'a miqdori</string>
+<string name="tip_amount">Sovg\'a miqdori</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Foiz stavkasi</string>
+<string name="total_cost">Umumiy qiymati</string>
+<string name="total_pay">To\'lash uchun jami</string>
+<string name="total_repay">Qaytarish uchun jami</string>
+<string name="would_cost">Xayoliy qiymati</string>
+</resources>

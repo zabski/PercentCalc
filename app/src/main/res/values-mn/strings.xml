@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Үнэ дараа</string>
+<string name="annual_percent_rate">Жилийн хувь</string>
+<string name="app_name">Хувь нь тооцоолуур</string>
+<string name="app_name2">Хувь, хөнгөлөлт</string>
+<string name="app_name3">Хямдралын тооцоолуур</string>
+<string name="app_name4">Хувь, хямдралын тооцоолуур</string>
+<string name="before_price">Үнэ өмнө</string>
+<string name="big_product">Том бүтээгдэхүүн</string>
+<string name="bill_amount">Хүлээн авсан хэмжээ</string>
+<string name="bug">Алдаа</string>
+<string name="cancel">Болих</string>
+<string name="choose_currency">Валютаа сонгоно уу</string>
+<string name="clear">Тодорхой бүх</string>
+<string name="commission">Комисс</string>
+<string name="compare_result">Харьцуулалтын үр дүн</string>
+<string name="cost_percent">Зээлийн хувиар зардал</string>
+<string name="del">Устгах</string>
+<string name="discount">Хөнгөлөлт</string>
+<string name="discount_rate">Хөнгөлөлтийн хувь хэмжээ</string>
+<string name="feedback">Бидэнд бичих!</string>
+<string name="feedback_prompt">Сайн байна уу, та бидэнд өөрийн туршлагаа сайжруулах, ингэснээр зарим нь санал өгөх хүсэж байна вэ?</string>
+<string name="fill_all_non_framed">Та бүх төрийн бус рамтай нүднүүдийг бөглөх ёстой</string>
+<string name="fill_in">Бүх оруулах талбаруудыг бөглөнө үү</string>
+<string name="fill_in_bill">Та бөглөх ёстой: хүлээн авсан хэмжээ</string>
+<string name="fill_in_compulsory">Шаардлагатай бүх талбаруудыг бөглөнө үү</string>
+<string name="fill_in_xor">Хоосон яг нэг орхи</string>
+<string name="help_translate">Энэ програм нь орчуулахад туслах</string>
+<string name="hint_after_price">Хөнгөлөлт дараа үнэ. Өөрөөр хэлбэл, энэ нь доод үнэ юм.</string>
+<string name="hint_amount">Таны зээлийн хэмжээ. Хэрэв та худалдан авах хүсэлтэй бүтээгдэхүүний үнэ нь голдуу тэнцүү. Энэ талбар нь шаардлагатай байна.</string>
+<string name="hint_apr">Жилийн хувь (APR) - нийт өртөг зэрэг зээлийн үр дүнтэй жилийн хүү.</string>
+<string name="hint_before_price">Хөнгөлөлт өмнө үнэ. Өөрөөр хэлбэл, энэ нь өндөр үнэ байна.</string>
+<string name="hint_bill_amount">Нийт хэмжээ нь таны хүлээн авсны дараа төлнө.</string>
+<string name="hint_commission">Комисс (эсвэл зээлийн төлбөр) зээлийн эзлэх хувь. Тодорхой бус бол хоосон орхи.</string>
+<string name="hint_cost_percent">Нийт өртөг нь (дээрх) зээлийн эзлэх хувиар илэрхийлсэн байна.</string>
+<string name="hint_discount_rate">Энэ нь хувь хөнгөлөлтийн хувь хэмжээ юм.</string>
+<string name="hint_initial_amount">Хувь байх (эсвэл байсан) бөгөөд үүнээс эхний дүнг тооцсон.</string>
+<string name="hint_install">Сарын төлбөр тоотой тэнцүү Ихэвчлэн. Энэ талбар нь шаардлагатай байна.</string>
+<string name="hint_interest">Таны зээлийн нэрлэсэн (жилийн) хүү гэж юу вэ? Энэ талбар нь хоосон үлдсэн бол та "хэсэгчилсэн" бөглөх хэрэгтэй болно</string>
+<string name="hint_other_fees">Зээлийн хэмжээнээс хамааралтай биш бусад бүх төлбөр. Тодорхой бус бол хоосон орхи.</string>
+<string name="hint_payment">Таны (сар бүр) хувааж тус бүрт нь дүн. Хэрэв та "хувь" хоосон орхисон бол та, энэ чиглэлээр бөглөх шаардлага байхгүй. Хоосон орхисон бол, энэ товчийг дарж дараа нь тооцож болно.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Аль аль нь бүтээгдэхүүний хувьд нэг нэгж үнэ. Энэ нь гэх мэт 1g, 1ml, 1oz, 1 зүйл ч байж болно</string>
+<string name="hint_result_amount">Анхны үнэ эзлэх хувийг тооцож үр дүнд нь дүн.</string>
+<string name="hint_saved_amount">Та хөнгөлөлттэй үнээр худалдан авч хадгалж байгаа мөнгөний хэмжээ.</string>
+<string name="hint_saved_bigger">Хэрэв та том бүтээгдэхүүнийг худалдан авах замаар хэмнэх болно мөнгөний хэмжээ. Эерэг утга нь том бүтээгдэхүүн нь илүү сайн гэрээ гэдгийг харуулж байна. Сөрөг утга нь жижиг бүтээгдэхүүн нь илүү сайн гэрээ гэдгийг харуулж байна.</string>
+<string name="hint_simple_percent">Хувь, та "Анхны үнэ" гарч тооцоолох хүсэж байгаа</string>
+<string name="hint_small_price">Тухайн бүтээгдэхүүний үнэ.</string>
+<string name="hint_small_units">Тухайн бүтээгдэхүүний нэгжийн тоо, энэ нь хэмжээ, жин, эсвэл саванд зүйлсийн тоо аль ч байж болно.</string>
+<string name="hint_tip_amount">Үзүүр хэмжээ та төлөхөд бэлэн байдаг.</string>
+<string name="hint_tip_percentage">Та хандуулах хэрэгтэй бөгөөд үзүүр эзлэх хувь хэмжээ.</string>
+<string name="hint_total_cost">Нийлмэл хүү, бүх төлбөр гэх мэт зээлийн нийт зардал.</string>
+<string name="hint_total_repay">Хэрэгтэй болно нийт хэмжээ нь зээлдүүлэгчид төлөгдсөн байх ёстой.</string>
+<string name="hint_total_to_pay">Хуулийн төслийг нэмэх үзүүрийг тэнцэх хэмжээний танд хэрэгтэй (эсвэл хүсвэл) төлөх нийт хэмжээ.</string>
+<string name="hint_would_cost">Нэгжид ногдох үнэ гэж үзвэл том бүтээгдэхүүний таамаглал үнэ бага бүтээгдэхүүний нэгэн адил байсан юм.</string>
+<string name="information_1">Дэлгүүр бол та хөнгөлөлт, эсхүл хөнгөлөлт үзнэ үү үед та аварч чадна хэр их, шалгаж болно, эсвэл бүтээгдэхүүний анхны үнэ нь юу байсан юм. Ийм үед та хоосон нь талбаруудыг явж, үнэ цэнэ нь ч тооцож болно. Та яг хоёр хоосон талбайг орхих хэрэгтэй. Хэрэв та 25% -ийн хөнгөлөлт байдаг гэж төсөөлөөд үз дээ, мөн анхны үнэ Та одоогийн үнэ болон хэр их та аварна мэдэхийн тулд мөн "хөнгөлөлт", "өмнө нь" бөглөх хэрэгтэй 299. байсан юм.</string>
+<string name="information_2">Энэ хялбар арга хэрэгсэл ачаар та илүү том бүтээгдэхүүн худалдан авах нь танд зарим нэг мөнгө, хэр их аврах эсэхийг олж мэдэх болно. Та 2.79 зардал жижиг саванд (0.5 литр) болон 7,49 зардал нь том шил (1.5 литр) нь уух гэж төсөөл. Илүү сайн санал Аль нь вэ? Танд хэрэгтэй мэдээлэл 4 оролтын талбаруудыг бөглөж, "тооцоолох" дарах явдал юм.</string>
+<string name="information_3">Дэлгүүр бол та хөнгөлөлт, эсхүл хөнгөлөлт үзнэ үү үед та аварч чадна хэр их, шалгаж болно, эсвэл бүтээгдэхүүний анхны үнэ нь юу байсан юм. Ийм үед та хоосон нь талбаруудыг явж, үнэ цэнэ нь ч тооцож болно. Та яг хоёр хоосон талбайг орхих хэрэгтэй. Хэрэв та 25% -ийн хөнгөлөлт байдаг гэж төсөөлөөд үз дээ, мөн анхны үнэ Та одоогийн үнэ болон хэр их та аварна мэдэхийн тулд мөн "хөнгөлөлт", "өмнө нь" бөглөх хэрэгтэй 299. байсан юм.</string>
+<string name="information_4">Энэ хялбар арга хэрэгсэл ачаар та илүү том бүтээгдэхүүн худалдан авах нь танд зарим нэг мөнгө, хэр их аврах эсэхийг олж мэдэх болно. Та 2.79 зардал жижиг саванд (0.5 литр) болон 7,49 зардал нь том шил (1.5 литр) нь уух гэж төсөөл. Илүү сайн санал Аль нь вэ? Танд хэрэгтэй мэдээлэл 4 оролтын талбаруудыг бөглөж, "тооцоолох" дарах явдал юм.</string>
+<string name="information_5">Хэрэв та худалдан авалт зээл авах төлөвлөж байгаа бол үр дүнтэй (бодит) дундаж хувь хэмжээ, түүнчлэн оролцогч бүх зардлыг тооцох болно. Энэ нь хоёр алин дээр нь ажилладаг. Эхнийх нь, та зээлдүүлэгч, сарын хийх төлбөрийн хэмжээг тус, түүнчлэн нийт зардлыг тооцоолж өргөдөл өгсөн нэрлэсэн (жилийн) хувь хэмжээг орох хэрэгтэй. Хоёр дахь горимонд, та (заримдаа худалдаачин танилцуулсан) сарын хэсэгчилсэн хэмжээг оруулах хэрэгтэй, програм жилийн хувь болон бүх зардлыг тооцно.</string>
+<string name="initial_value">Эхний үнэ цэнэ</string>
+<string name="instructions">Заавар</string>
+<string name="leave_one_of_two">Хувь, суурилуулах: хоосон нэг нь орхи. Доорх зааврыг үзнэ үү.</string>
+<string name="leave_two_empty">Яг хоёр талбар хоосон орхи</string>
+<string name="LoanCalc">Зээлийн зардал</string>
+<string name="loan_amt">Зээлийн хэмжээ</string>
+<string name="menu_title">Та юу тооцоолох хүсч байна вэ?</string>
+<string name="msg_from_dev">Хөгжүүлэгчид мэндчилгээ</string>
+<string name="ok">OK</string>
+<string name="opinion">Санал</string>
+<string name="other_fees">Бусад төлбөр</string>
+<string name="payments">Хуваан тоо</string>
+<string name="payment_amount">Хэсэгчилсэн хэмжээ</string>
+<string name="percent">Хувь</string>
+<!-- as in percentage rate -->
+<string name="percentage">Хувь</string>
+<string name="price_unit">Нэгжид ногдох үнэ</string>
+<string name="question">Асуулт</string>
+<!-- imperative -->
+<string name="rate_app">Энэ програмыг үнэлэх!</string>
+<string name="regular_percent">Тогтмол хувь</string>
+<string name="results">Үр дүн</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Үр дүн үнэ цэнэ</string>
+<string name="saved_amount">Хадгалсан хэмжээ</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Заавар нь доош гүйлгэж нь</string>
+<string name="send">Илгээх</string>
+<string name="small_price">Үнэ</string>
+<string name="small_product">Жижиг бүтээгдэхүүн</string>
+<string name="small_units">Нэгж, эсвэл тоо хэмжээ</string>
+<string name="submit">Тооцоолно</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Зорилтот хэмжээ</string>
+<string name="thanks">Та бүхэнд баярлалаа!</string>
+<string name="tip">Хөлс хураамжийн хэмжээ</string>
+<string name="tip_amount">Хөлс хураамжийн хэмжээ</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Хувь хэмжээ</string>
+<string name="total_cost">Нийт зардал</string>
+<string name="total_pay">Төлөх нийт</string>
+<string name="total_repay">Эргэн төлөх нийт</string>
+<string name="would_cost">Таамаглал зардал</string>
+</resources>

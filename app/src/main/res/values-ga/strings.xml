@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Praghas tar éis</string>
+<string name="annual_percent_rate">Ráta Céatadánach Bliantúil</string>
+<string name="app_name">Áireamhán ar chéatadán</string>
+<string name="app_name2">Céatadán agus lascainí</string>
+<string name="app_name3">Áireamhán ar lascainí</string>
+<string name="app_name4">Áireamhán ar chéatadán agus lascainí</string>
+<string name="before_price">Praghas roimh</string>
+<string name="big_product">Táirge Móra</string>
+<string name="bill_amount">Méid fála</string>
+<string name="bug">Earráid</string>
+<string name="cancel">Cealaigh</string>
+<string name="choose_currency">Roghnaigh airgeadra</string>
+<string name="clear">Glan uile</string>
+<string name="commission">Coimisiún</string>
+<string name="compare_result">Torthaí comparáide</string>
+<string name="cost_percent">Costas mar faoin gcéad de iasacht</string>
+<string name="del">Scrios</string>
+<string name="discount">Lascaine</string>
+<string name="discount_rate">Ráta lascaine</string>
+<string name="feedback">Scríobh chugainn!</string>
+<string name="feedback_prompt">Dia duit, ba mhaith leat a roinnt aiseolas ionas gur féidir linn feabhas a chur ar do thaithí a thabhairt dúinn?</string>
+<string name="fill_all_non_framed">Ní mór duit a líonadh go léir na réimsí neamh-frámaithe</string>
+<string name="fill_in">Líon isteach i réimsí uile an ionchur</string>
+<string name="fill_in_bill">Ní mór duit a líonadh isteach: Méid a fháil</string>
+<string name="fill_in_compulsory">Líon isteach i réimsí uile is gá</string>
+<string name="fill_in_xor">Fág go díreach réimse amháin folamh</string>
+<string name="help_translate">Cabhair aistriú iarratas seo</string>
+<string name="hint_after_price">Praghas tar éis lascaine. I bhfocail eile, is é seo an praghas níos ísle.</string>
+<string name="hint_amount">An méid do iasachta. De ghnáth is comhionann le praghas an táirge, a ba mhaith leat a cheannach. Tá an réimse ag teastáil.</string>
+<string name="hint_apr">Ráta Bliantúil Céatadán (Aibreán) - ráta úis éifeachtach bliantúil na hiasachta, lena n-áirítear costas iomlán.</string>
+<string name="hint_before_price">Praghas roimh lascaine. I bhfocail eile, is é seo an praghas níos airde.</string>
+<string name="hint_bill_amount">An méid iomlán a íoc ar do admháil.</string>
+<string name="hint_commission">Coimisiún (nó táille iasachta) mar chéatadán den iasacht. Más rud é Ní fios, fág bán.</string>
+<string name="hint_cost_percent">Costas iomlán (mar atá thuas) arna shloinneadh mar chéatadán den iasacht.</string>
+<string name="hint_discount_rate">Tá an ráta lascaine mar chéatadán.</string>
+<string name="hint_initial_amount">An méid tosaigh as a mbeidh céatadán a (nó a bhí) a ríomh.</string>
+<string name="hint_install">De ghnáth is comhionann leis an líon na n-íocaíochtaí míosúla. Tá an réimse ag teastáil.</string>
+<string name="hint_interest">Cad é an ainmniúil (bliantúil) ráta úis ar do iasacht? Má tá sé réimse seo fhágáil bán, beidh ort a líonadh isteach i "tráthchuid"</string>
+<string name="hint_other_fees">Gach táillí eile nach bhfuil ag brath ar an méid na hiasachta. Más rud é Ní fios, fág bán.</string>
+<string name="hint_payment">An méid de gach ceann de do chuid dtráthchodanna (míosúil). Ní gá duit a líonadh isteach sa réimse seo, ach amháin má d\'fhág tú "Céatadán" bán. Má d\'fhág bán, beidh sé a ríomh tar éis an cnaipe an cnaipe.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Praghsanna na aonad amháin don dá dtáirgí. Is féidir é a bheith 1g, 1ml, 1 unsa, 1 mír srl</string>
+<string name="hint_result_amount">An méid atá mar thoradh ar chéatadán de luach tosaigh a ríomh.</string>
+<string name="hint_saved_amount">An méid airgid go bhfuil tú ag coigilt, trí cheannach ar phraghas lascainithe.</string>
+<string name="hint_saved_bigger">Méid airgid go mbeidh tú a shábháil, trí cheannach ar an táirge níos mó. Léiríonn luach dearfach, go bhfuil an táirge níos mó déileáil níos fearr. Léiríonn luach diúltach, go bhfuil an táirge níos lú déileáil níos fearr.</string>
+<string name="hint_simple_percent">Céatadán, gur mhaith leat a ríomh as "luach tosaigh"</string>
+<string name="hint_small_price">An praghas ar an táirge ar leith.</string>
+<string name="hint_small_units">Líon na n-aonad sa táirge ar leith, is féidir é a bheith toirt, meáchan nó líon na míreanna i gcoimeádán.</string>
+<string name="hint_tip_amount">An méid tip a bhfuil tú sásta a íoc.</string>
+<string name="hint_tip_percentage">Ráta faoin gcéad ar an rinn is mian leat a íoc.</string>
+<string name="hint_total_cost">Costas iomlán na hiasachta, lena n-áirítear ús measa agus gach táille.</string>
+<string name="hint_total_repay">Méid iomlán a chaithfear a aisíoc leis an iasachtóir.</string>
+<string name="hint_total_to_pay">Méid iomlán gur gá duit (nó ag iarraidh) a íoc, is ionann agus bille móide méid tip.</string>
+<string name="hint_would_cost">Bhí praghas barúlach an táirge níos mó ag glacadh a praghas in aghaidh an aonaid comhionann leis an táirge níos lú.</string>
+<string name="information_1">Aon uair a fheiceann tú lacáiste nó lascaine agus siopadóireacht, is féidir leat seiceáil, cé mhéad is féidir leat a shábháil, nó cad a bhí an praghas bunaidh an táirge. Go deimhin, is féidir leat a ríomh ar aon cheann de na luachanna trína fhágáil ina réimsí folamh. Tá tú a fhágáil réimsí díreach dhá folamh. Samhlaigh, go bhfuil tú lascaine de 25%, agus ba é an praghas bunaidh 299. Ní mór duit a líonadh "roimh" agus "lascaine" chun a fháil amach an praghas atá ann faoi láthair agus cé mhéid a bheidh tú a shábháil.</string>
+<string name="information_2">A bhuíochas leis an uirlis éasca, is féidir leat a fháil amach cé acu an ndéanfaidh a cheannach a táirge níos mó a shábháil tú roinnt airgid agus cé mhéad. Samhlaigh, go bhfuil tú deoch i buidéal beag (0.5 lítear) a bhfuil costas 2.79 agus buidéal mór (1.5 lítear) a bhfuil costas 7.49. Atá ar cheann tairiscint níos fearr? Gach gá duit é a líonadh 4 páirceanna ionchur agus brúigh "ríomh".</string>
+<string name="information_3">Aon uair a fheiceann tú lacáiste nó lascaine agus siopadóireacht, is féidir leat seiceáil, cé mhéad is féidir leat a shábháil, nó cad a bhí an praghas bunaidh an táirge. Go deimhin, is féidir leat a ríomh ar aon cheann de na luachanna trína fhágáil ina réimsí folamh. Tá tú a fhágáil réimsí díreach dhá folamh. Samhlaigh, go bhfuil tú lascaine de 25%, agus ba é an praghas bunaidh 299. Ní mór duit a líonadh "roimh" agus "lascaine" chun a fháil amach an praghas atá ann faoi láthair agus cé mhéid a bheidh tú a shábháil.</string>
+<string name="information_4">A bhuíochas leis an uirlis éasca, is féidir leat a fháil amach cé acu an ndéanfaidh a cheannach a táirge níos mó a shábháil tú roinnt airgid agus cé mhéad. Samhlaigh, go bhfuil tú deoch i buidéal beag (0.5 lítear) a bhfuil costas 2.79 agus buidéal mór (1.5 lítear) a bhfuil costas 7.49. Atá ar cheann tairiscint níos fearr? Gach gá duit é a líonadh 4 páirceanna ionchur agus brúigh "ríomh".</string>
+<string name="information_5">Má tá plean agat a chur ar iasacht do do cheannacháin, is féidir leat a ríomh na costais go léir i gceist chomh maith le éifeachtach (fíor) Ráta Céatadánach Bliantúil. Oibríonn sé i dhá mhodh. Sa chéad, is gá duit a chur isteach ainmniúil (bliantúil) ráta faoin gcéad ar fáil ag an iasachtóir agus an t-iarratas a bheidh ríomh méid na dtráthchodanna míosúla chomh maith le costais iomlána. Sa dara modh, is gá duit a chur isteach méid an tráthchuid míosúil (uaireanta i láthair ag ceannaí), agus beidh an t-iarratas a ríomh céatadán bliantúil chomh maith le gach costais.</string>
+<string name="initial_value">Luach tosaigh</string>
+<string name="instructions">Treoracha</string>
+<string name="leave_one_of_two">Fág ceann folamh de: céatadán, tráthchuid. Féach na treoracha thíos.</string>
+<string name="leave_two_empty">Fág go díreach dá réimsí folamh</string>
+<string name="LoanCalc">Costais an iasacht</string>
+<string name="loan_amt">Méid na hiasachta</string>
+<string name="menu_title">Cad ba mhaith leat a ríomh?</string>
+<string name="msg_from_dev">Teachtaireacht ón bhforbróir</string>
+<string name="ok">OK</string>
+<string name="opinion">Tuairim</string>
+<string name="other_fees">Táillí Eile</string>
+<string name="payments">Líon na tráthchodanna</string>
+<string name="payment_amount">Méid tráthchoda</string>
+<string name="percent">Céatadán</string>
+<!-- as in percentage rate -->
+<string name="percentage">Céatadán</string>
+<string name="price_unit">Praghas in aghaidh an aonaid</string>
+<string name="question">Ceist</string>
+<!-- imperative -->
+<string name="rate_app">Ráta an iarratas seo!</string>
+<string name="regular_percent">Faoin gcéad rialta</string>
+<string name="results">Torthaí</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Luach Toradh</string>
+<string name="saved_amount">Méid Sábháilte</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Le haghaidh treoracha scrollaigh síos</string>
+<string name="send">Seol</string>
+<string name="small_price">Praghas</string>
+<string name="small_product">Táirge Beaga</string>
+<string name="small_units">Aonaid nó cainníocht</string>
+<string name="submit">Ríomh</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Sprioc méid</string>
+<string name="thanks">Go raibh maith agat!</string>
+<string name="tip">Méid aisce</string>
+<string name="tip_amount">Méid aisce</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Ráta céatadáin</string>
+<string name="total_cost">Costas iomlán</string>
+<string name="total_pay">Iomlán a íoc</string>
+<string name="total_repay">Iomlán a aisíoc</string>
+<string name="would_cost">Costas barúlach</string>
+</resources>

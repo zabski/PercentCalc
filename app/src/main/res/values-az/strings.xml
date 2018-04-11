@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Qiymət sonra</string>
+<string name="annual_percent_rate">İllik faiz dərəcəsi</string>
+<string name="app_name">Faiz kalkulyator</string>
+<string name="app_name2">Faiz və güzəştlər</string>
+<string name="app_name3">Endirim kalkulyator</string>
+<string name="app_name4">Faiz və endirimlər kalkulyator</string>
+<string name="before_price">Qiymət əvvəl</string>
+<string name="big_product">Böyük məhsul</string>
+<string name="bill_amount">Aldığı məbləği</string>
+<string name="bug">Səhv</string>
+<string name="cancel">Ləğv etmək</string>
+<string name="choose_currency">Valyuta seçin</string>
+<string name="clear">Clear bütün</string>
+<string name="commission">Komissiya</string>
+<string name="compare_result">Müqayisə nəticələri</string>
+<string name="cost_percent">Kredit faizi kimi qiyməti</string>
+<string name="del">Sil</string>
+<string name="discount">Endirim</string>
+<string name="discount_rate">Endirim Qiymətləndirmək</string>
+<string name="feedback">Bizə yazın!</string>
+<string name="feedback_prompt">Salam, bizə təcrübə inkişaf edə bilər ki, bəzi geribildirim istəyirsiniz?</string>
+<string name="fill_all_non_framed">Siz bütün qeyri-çerçeveli sahələri doldurmaq lazımdır</string>
+<string name="fill_in">Bütün giriş sahələri doldurun</string>
+<string name="fill_in_bill">Siz doldurmaq lazımdır: alındığı məbləği</string>
+<string name="fill_in_compulsory">Bütün tələb olunan sahələri doldurun</string>
+<string name="fill_in_xor">Boş dəqiq bir sahə yaz</string>
+<string name="help_translate">Bu proqram tərcümə kömək</string>
+<string name="hint_after_price">Endirim sonra qiymət. Başqa sözlə, bu aşağı qiymətidir.</string>
+<string name="hint_amount">Sizin kredit məbləği. Siz almaq istəyirəm məhsulun qiyməti adətən bərabərdir. Bu sahədə tələb olunur.</string>
+<string name="hint_apr">İllik Faiz Dərəcəsi (APR) - ümumi dəyəri də daxil olmaqla kreditin effektiv illik faiz dərəcəsi.</string>
+<string name="hint_before_price">Endirim əvvəl Qiymət. Başqa sözlə, bu ali qiymətidir.</string>
+<string name="hint_bill_amount">Ümumi məbləği alınması ödəmək üçün.</string>
+<string name="hint_commission">Komissiya (və ya kredit ödəniş) kredit faiz nisbəti. Məlum deyilsə, boş buraxın.</string>
+<string name="hint_cost_percent">Ümumi dəyəri (yuxarıda) kredit faizi kimi ifadə.</string>
+<string name="hint_discount_rate">Bu faizi kimi endirim dərəcəsi.</string>
+<string name="hint_initial_amount">Faiz (və ya idi) olan ilkin məbləği hesablanır.</string>
+<string name="hint_install">Aylıq ödənişlərin sayı Adətən bərabərdir. Bu sahədə tələb olunur.</string>
+<string name="hint_interest">Kredit nominal (illik) faiz dərəcəsi nədir? Bu sahədə boş qalıb, siz "taksit" doldurmaq lazımdır</string>
+<string name="hint_other_fees">Kreditin məbləği asılı olmayan bütün digər haqları. Məlum deyilsə, boş buraxın.</string>
+<string name="hint_payment">Sizin (aylıq) hissələrlə hər məbləği. Siz "faiz" boş tərk halda, bu sahədə doldurmaq lazım deyil. Boş tərk edərsə, bu düyməsinə basaraq sonra hesablanır.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Hər iki məhsulun bir vahid qiymətləri. Bu və s. 1g, 1ml, 1oz 1 maddə ola bilər</string>
+<string name="hint_result_amount">Ilkin dəyərinin faiz hesablanması nəticəsində məbləği.</string>
+<string name="hint_saved_amount">Siz güzəştli qiymətlərlə satın qənaət pul məbləği.</string>
+<string name="hint_saved_bigger">Siz böyük məhsul alınması ilə xilas edəcək pul məbləği. Müsbət dəyəri böyük məhsul daha yaxşı məşğul olduğunu göstərir. Mənfi dəyəri kiçik məhsul daha yaxşı məşğul olduğunu göstərir.</string>
+<string name="hint_simple_percent">Faiz, siz "İlkin dəyər" hesablamaq istəyirəm ki,</string>
+<string name="hint_small_price">Verilmiş məhsulun qiyməti.</string>
+<string name="hint_small_units">Verilən məhsul vahidlərinin sayı bu həcmi, çəkisi və ya konteyner maddələr sayı ola bilər.</string>
+<string name="hint_tip_amount">Ucu məbləği ödəməyə hazırıq.</string>
+<string name="hint_tip_percentage">Ödemek istediğiniz tip faiz dərəcəsi.</string>
+<string name="hint_total_cost">Mürəkkəbləşdirib faiz və haqları, o cümlədən kreditin ümumi dəyəri.</string>
+<string name="hint_total_repay">Lazımdır ümumi məbləği kreditor ödənişi təmin ediləcək.</string>
+<string name="hint_total_to_pay">Qanun plus tip bərabər sizə lazım (və ya istədiyiniz) ödəmək üçün ümumi məbləği.</string>
+<string name="hint_would_cost">Vahidi onun qiyməti fərz böyük məhsulun hipotetik qiymət kiçik məhsulun bərabər idi.</string>
+<string name="information_1">Alış-veriş isə bir güzəşt və ya endirim görmək zaman, siz saxlaya bilərsiniz nə qədər kontrol edə bilərsiniz, və ya məhsulun orijinal qiymət idi. Əslində, siz boş tarlalarını tərk tərəfindən dəyərlərin hər hansı hesablamaq olar. Siz boş tam iki sahələri tərk etmək vardır. 25% endirim var ki, Təsəvvür edin, və orijinal qiymət Siz cari qiymət və nə qədər siz xilas edəcək tapmaq və "endirim" "əvvəl" doldurmaq lazımdır 299 idi.</string>
+<string name="information_2">Bu asan alət sayəsində, siz böyük bir məhsul satın bəzi pul və nə qədər xilas olub tapa bilərsiniz. Siz 2.79 xərcləri kiçik şüşə (0,5 litr) və 7.49 xərcləri böyük bir şüşə (1,5 litr) bir içki var ki, düşünün. Daha yaxşı təklif hansı biri? Sizə lazım olan bütün 4 giriş sahələri doldurmaq və "hesablamaq" düyməsini basın edir.</string>
+<string name="information_3">Alış-veriş isə bir güzəşt və ya endirim görmək zaman, siz saxlaya bilərsiniz nə qədər kontrol edə bilərsiniz, və ya məhsulun orijinal qiymət idi. Əslində, siz boş tarlalarını tərk tərəfindən dəyərlərin hər hansı hesablamaq olar. Siz boş tam iki sahələri tərk etmək vardır. 25% endirim var ki, Təsəvvür edin, və orijinal qiymət Siz cari qiymət və nə qədər siz xilas edəcək tapmaq və "endirim" "əvvəl" doldurmaq lazımdır 299 idi.</string>
+<string name="information_4">Bu asan alət sayəsində, siz böyük bir məhsul satın bəzi pul və nə qədər xilas olub tapa bilərsiniz. Siz 2.79 xərcləri kiçik şüşə (0,5 litr) və 7.49 xərcləri böyük bir şüşə (1,5 litr) bir içki var ki, düşünün. Daha yaxşı təklif hansı biri? Sizə lazım olan bütün 4 giriş sahələri doldurmaq və "hesablamaq" düyməsini basın edir.</string>
+<string name="information_5">Siz alış-veriş üçün kredit almaq üçün planlıyorsanız, siz effektiv (real) İllik faiz dərəcəsi, eləcə də cəlb edilmiş bütün xərcləri hesablamaq olar. Bu iki rejimdə işləyir. İlk olaraq, kreditor və aylıq hissələrlə məbləği, eləcə də ümumi xərcləri hesablamaq proqram tərəfindən təmin nominal (illik) faiz dərəcəsi daxil etməlisiniz. İkinci rejimində, siz (bəzən bir tacir tərəfindən təqdim) aylıq ödəniş məbləği daxil etmək lazımdır, və tətbiqi illik faiz, eləcə də bütün xərcləri hesaplarız.</string>
+<string name="initial_value">İlkin dəyər</string>
+<string name="instructions">Təlimat</string>
+<string name="leave_one_of_two">Faiz, ödəniş: boş bir buraxın. Aşağıdakı talimatları baxın.</string>
+<string name="leave_two_empty">Tam iki sahələri boş buraxın</string>
+<string name="LoanCalc">Kredit xərcləri</string>
+<string name="loan_amt">Kreditin məbləği</string>
+<string name="menu_title">Nə hesablamaq istəyirsiniz?</string>
+<string name="msg_from_dev">Geliştirici Mesaj</string>
+<string name="ok">OK</string>
+<string name="opinion">Rəy</string>
+<string name="other_fees">Digər haqları</string>
+<string name="payments">Hissələrlə sayı</string>
+<string name="payment_amount">Ödəniş məbləği</string>
+<string name="percent">Faiz</string>
+<!-- as in percentage rate -->
+<string name="percentage">Faiz</string>
+<string name="price_unit">Vahidi Qiymət</string>
+<string name="question">Sual</string>
+<!-- imperative -->
+<string name="rate_app">Bu proqram dərəcəsi!</string>
+<string name="regular_percent">Müntəzəm faiz</string>
+<string name="results">Nəticələri</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Nəticə dəyəri</string>
+<string name="saved_amount">Saxlanılan məbləği</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Təlimat aşağıya fırladın üçün</string>
+<string name="send">Göndərmək</string>
+<string name="small_price">Qiymət</string>
+<string name="small_product">Kiçik məhsul</string>
+<string name="small_units">Bölmələri və ya kəmiyyət</string>
+<string name="submit">Hesablamaq</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Hədəf məbləği</string>
+<string name="thanks">Təşəkkür edirik!</string>
+<string name="tip">Hediye məbləği</string>
+<string name="tip_amount">Hediye məbləği</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Faiz dərəcəsi</string>
+<string name="total_cost">Ümumi dəyəri</string>
+<string name="total_pay">Ödəmək Cəmi</string>
+<string name="total_repay">Qaytarmaq Cəmi</string>
+<string name="would_cost">Fərz dəyəri</string>
+</resources>

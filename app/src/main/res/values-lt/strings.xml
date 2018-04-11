@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Kaina nuo</string>
+<string name="annual_percent_rate">Metinė norma</string>
+<string name="app_name">Skaičiuoklė procentinę</string>
+<string name="app_name2">Procentais ir nuolaidos</string>
+<string name="app_name3">Skaičiuoklė nuolaidų</string>
+<string name="app_name4">Skaičiuoklė procentinę ir nuolaidos</string>
+<string name="before_price">Kaina iki</string>
+<string name="big_product">Didelis produktas</string>
+<string name="bill_amount">Suma gavimo</string>
+<string name="bug">Klaida</string>
+<string name="cancel">Atšaukti</string>
+<string name="choose_currency">Pasirinkite valiutą</string>
+<string name="clear">Išvalyti visus</string>
+<string name="commission">Komisija</string>
+<string name="compare_result">Rezultatai, lyginant</string>
+<string name="cost_percent">Kaina taip procentų paskolos</string>
+<string name="del">Panaikinti</string>
+<string name="discount">Nuolaida</string>
+<string name="discount_rate">Diskonto norma</string>
+<string name="feedback">Rašykite mums!</string>
+<string name="feedback_prompt">Sveiki, ar norėtumėte duoti mums šiek tiek atsiliepimų, kad galėtume tobulinti savo patirtimi?</string>
+<string name="fill_all_non_framed">Jūs turite užpildyti visus ne-įrėminti laukus</string>
+<string name="fill_in">Prašome užpildyti visus įvesties laukus</string>
+<string name="fill_in_bill">Jūs turite užpildyti: suma gavimo</string>
+<string name="fill_in_compulsory">Prašome užpildyti visus privalomus laukus</string>
+<string name="fill_in_xor">Palikite tiksliai vieną lauką tuščią</string>
+<string name="help_translate">Pagalba išversti šią programą</string>
+<string name="hint_after_price">Kaina po nuolaidos. Kitaip tariant, tai yra mažesnė kaina.</string>
+<string name="hint_amount">Savo paskolos sumą. Paprastai lygi kainos, kurią norite pirkti. Šis laukas būtinas.</string>
+<string name="hint_apr">Metinė norma (MN) - Efektyvus metinė palūkanų norma paskolos, įskaitant visų išlaidų.</string>
+<string name="hint_before_price">Kaina iki nuolaida. Kitaip tariant, tai yra didesnė kaina.</string>
+<string name="hint_bill_amount">Bendra suma mokėti savo gavimo.</string>
+<string name="hint_commission">Komisija (arba paskolos mokestis) procentais nuo paskolos. Jei nežinoma, palikite tuščią.</string>
+<string name="hint_cost_percent">Iš viso išlaidų (kaip nurodyta pirmiau), išreikštas procentais nuo paskolos.</string>
+<string name="hint_discount_rate">Tai norma nuolaida kaip procentais.</string>
+<string name="hint_initial_amount">Pradinė suma, iš kurios procentas bus (arba buvo) skaičiuojamas.</string>
+<string name="hint_install">Paprastai lygus mėnesinių mokėjimų skaičiaus. Šis laukas būtinas.</string>
+<string name="hint_interest">Kas yra nominali (metinis) palūkanų norma jūsų paskola? Jei šis laukas paliekamas tuščias, jums reikės užpildyti "įmoka"</string>
+<string name="hint_other_fees">Visi kiti mokesčiai, kurie nėra priklausomi nuo paskolos sumos. Jei nežinoma, palikite tuščią.</string>
+<string name="hint_payment">Kiekvieno iš jūsų (kas mėnesį) mokėjimų suma. Jums nereikia užpildyti šioje srityje, jei paliko "procentas" tuščią. Jei paliktas tuščias, jis bus apskaičiuojamas paspaudus mygtuką.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Kainos vieną vienetą abiejų produktų. Tai gali būti 1 g, 1 ml, 1 uncijos, 1 vnt ir tt</string>
+<string name="hint_result_amount">Suma, kuri yra gauta apskaičiuojant procentą pradinės vertės.</string>
+<string name="hint_saved_amount">Pinigų suma, kad jūs taupyti perkant diskontuota kaina.</string>
+<string name="hint_saved_bigger">Pinigų sumą, kad jums sutaupyti perkant didesnį produktą. Teigiamas vertė rodo, kad didesnis produktas yra geriau spręsti. Neigiama reikšmė rodo, kad mažesnis produktas yra geriau spręsti.</string>
+<string name="hint_simple_percent">Procentas, kad jūs norite apskaičiuoti iš "pradinė vertė"</string>
+<string name="hint_small_price">Iš tikro produkto kaina.</string>
+<string name="hint_small_units">Vienetų skaičius į konkretaus produkto, tai gali būti arba tūris, svoris arba skaičius daiktų talpyklę.</string>
+<string name="hint_tip_amount">Viršūnės suma esate pasiruošęs mokėti.</string>
+<string name="hint_tip_percentage">Norma galiuko norite mokėti.</string>
+<string name="hint_total_cost">Iš viso paskolos, įskaitant sudėtines palūkanas ir visus mokesčius.</string>
+<string name="hint_total_repay">Bendra suma, kuri turės būti grąžinta skolintojui.</string>
+<string name="hint_total_to_pay">Iš viso suma, jums reikia (ar nori) sumokėti, lygus sąskaitą plius antgalio dydžio.</string>
+<string name="hint_would_cost">Hipotetinis kaina didesnio produkto yra atsakingas už jos kainą už vienetą buvo lygus, kad mažesnių produkto.</string>
+<string name="information_1">Kai matote nuolaidą arba nuolaida apsiperkant, galite patikrinti, kiek galite sutaupyti, ar ką originalus produkto gamintojo kainos buvo. Iš tiesų, jūs galite apskaičiuoti bet vertybėms paliekant savo laukus tuščias. Jūs turite palikti tik dvi laukus tuščias. Įsivaizduokite, kad jūs turite 25% nuolaidą, o pradinė kaina buvo 299. Jūs turite užpildyti "prieš" ir "nuolaida" išsiaiškinti esamą kainą ir kiek sutaupysite.</string>
+<string name="information_2">Ačiū, kad šis paprastas įrankis, galite sužinoti, ar pirkti didesnę produktą bus jums sutaupyti šiek tiek pinigų, ir kiek. Įsivaizduokite, kad jūs turite mažame indelyje (0,5 litrų), kuris kainuoja 2.79 ir didelis butelis (1,5 litro), kuris kainuoja 7.49 gėrimas. Kuris iš jų yra geresnis pasiūlymas? Viskas ko jums reikia yra užpildyti 4 įvesties laukus ir spauskite "apskaičiuoti".</string>
+<string name="information_3">Kai matote nuolaidą arba nuolaida apsiperkant, galite patikrinti, kiek galite sutaupyti, ar ką originalus produkto gamintojo kainos buvo. Iš tiesų, jūs galite apskaičiuoti bet vertybėms paliekant savo laukus tuščias. Jūs turite palikti tik dvi laukus tuščias. Įsivaizduokite, kad jūs turite 25% nuolaidą, o pradinė kaina buvo 299. Jūs turite užpildyti "prieš" ir "nuolaida" išsiaiškinti esamą kainą ir kiek sutaupysite.</string>
+<string name="information_4">Ačiū, kad šis paprastas įrankis, galite sužinoti, ar pirkti didesnę produktą bus jums sutaupyti šiek tiek pinigų, ir kiek. Įsivaizduokite, kad jūs turite mažame indelyje (0,5 litrų), kuris kainuoja 2.79 ir didelis butelis (1,5 litro), kuris kainuoja 7.49 gėrimas. Kuris iš jų yra geresnis pasiūlymas? Viskas ko jums reikia yra užpildyti 4 įvesties laukus ir spauskite "apskaičiuoti".</string>
+<string name="information_5">Jei planuojate imti paskolą už pirkinius, galite apskaičiuoti visas išlaidas, susijusias, taip pat veiksmingos (Real) metinę procentinę normą. Jis dirba dviem režimais. Visų pirma, jums reikės įvesti nominali (metinis) normą pateiktą skolintojo ir taikymo bus apskaičiuoti sumą dalimis kas mėnesį, taip pat bendras išlaidas. Be antruoju režimu, jums reikės įvesti sumą Mėnesio įmoka (kartais pateiktą prekybininkai) ir paraiška bus apskaičiuoti metinį procentą, taip pat visas išlaidas.</string>
+<string name="initial_value">Pradinė vertė</string>
+<string name="instructions">Instrukcijos</string>
+<string name="leave_one_of_two">Palikite tuščią vieną: procentą, įmoka. Žiūrėkite instrukcijas žemiau.</string>
+<string name="leave_two_empty">Palikite tiksliai du laukai tuščias</string>
+<string name="LoanCalc">Išlaidos paskolos</string>
+<string name="loan_amt">Paskolos suma</string>
+<string name="menu_title">Ką jūs norite apskaičiuoti?</string>
+<string name="msg_from_dev">Pranešimas iš kūrėjo</string>
+<string name="ok">Gerai</string>
+<string name="opinion">Nuomonė</string>
+<string name="other_fees">Kiti mokesčiai</string>
+<string name="payments">Taškų dalimis</string>
+<string name="payment_amount">Suma įmoka</string>
+<string name="percent">Procentai</string>
+<!-- as in percentage rate -->
+<string name="percentage">Procentas</string>
+<string name="price_unit">Kaina už vienetą</string>
+<string name="question">Klausimas</string>
+<!-- imperative -->
+<string name="rate_app">Įvertinti šį prašymą!</string>
+<string name="regular_percent">Reguliariai proc</string>
+<string name="results">Rezultatai</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Rezultatas vertė</string>
+<string name="saved_amount">Išsaugota suma</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Dėl instrukcijos slinkite žemyn</string>
+<string name="send">Siųsti</string>
+<string name="small_price">Kaina</string>
+<string name="small_product">Mažas produktas</string>
+<string name="small_units">Vienetai arba kiekis</string>
+<string name="submit">Apskaičiuoti</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Tikslinė suma</string>
+<string name="thanks">Dėkojame!</string>
+<string name="tip">Suma atsidėkojimas</string>
+<string name="tip_amount">Suma atsidėkojimas</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Procentinis dydis</string>
+<string name="total_cost">Iš viso išlaidų</string>
+<string name="total_pay">Iš viso mokėti</string>
+<string name="total_repay">Iš viso grąžinti</string>
+<string name="would_cost">Hipotetinis kaina</string>
+</resources>

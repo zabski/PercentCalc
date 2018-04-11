@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:ads2="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/holo_blue_light"
+    android:orientation="vertical" >    
+	      
+<ScrollView 
+    android:id="@+id/scrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <!--
+    android:padding="@dimen/margin_l"
+    android:layout_above="@+id/disc_adView"
+    android:paddingBottom="@dimen/row_xl"-->
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/margin_xs"
+
+    android:orientation="vertical" >
+    <!-- "@drawable/gold3" -->
+
+	<include layout="@layout/ads_incl_admob_banner"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result"  >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="@dimen/label_width"
+            android:layout_height="wrap_content" 
+            android:layout_weight="1"                          
+            android:text="@string/after_price"
+            android:textSize="@dimen/text_m"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/editAfter"
+            android:layout_width="@dimen/edit_width"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@layout/input"
+            android:ems="10"
+            android:gravity="center_vertical|right"
+            android:inputType="number|numberDecimal"
+            android:maxLength="13"
+            android:maxLines="1"
+            android:nextFocusDown="@+id/editProcent"
+            android:textSize="@dimen/edit_text_size" >
+
+                        <requestFocus/>            
+            </EditText>
+
+        <TextView
+            android:id="@+id/tvSymbol1"
+            android:layout_width="wrap_content"                        
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_m"            
+            android:text="@string/currency"
+            android:textSize="@dimen/text_l"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result"         >
+
+        <TextView
+            android:id="@+id/textView3"          
+            android:layout_height="wrap_content"
+            android:layout_width="@dimen/label_width"
+            android:layout_weight="1"   
+            android:text="@string/discount_rate"
+            android:textSize="@dimen/text_m"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/editProcent"            
+            android:nextFocusDown="@+id/editTip"
+            android:layout_width="@dimen/edit_width"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"   
+            android:background="@layout/input"
+            android:ems="10"
+            android:textSize="@dimen/edit_text_size"
+            android:gravity="center_vertical|right"
+            android:inputType="numberDecimal"
+            android:maxLength="4"
+            android:maxLines="1"
+             />
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_m"
+            android:text="%"
+            android:textSize="@dimen/text_l"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result"         >
+
+        <TextView
+            android:id="@+id/textView2a"            
+            android:layout_height="wrap_content"
+            android:layout_width="@dimen/label_width" 
+            android:layout_weight="1"   
+            android:text="@string/saved_amount"
+            android:textSize="@dimen/text_m"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/editSaved"
+            android:layout_width="@dimen/edit_width"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@layout/input"
+
+            android:gravity="center_vertical|right"
+            android:inputType="number|numberDecimal"
+            android:maxLength="12"
+            android:maxLines="1"
+            android:nextFocusDown="@+id/editTarget"
+            android:textSize="@dimen/edit_text_size" />
+
+		<!--android:ems="10"-->
+
+        <TextView
+            android:id="@+id/tvSymbol2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_m"            
+            android:text="@string/currency"
+            android:textSize="@dimen/text_l"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+    </LinearLayout>     
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result"         >
+
+        <TextView
+            android:id="@+id/textView2"            
+            android:layout_height="wrap_content"
+            android:layout_width="@dimen/label_width" 
+            android:layout_weight="1"   
+            android:text="@string/before_price"
+            android:textSize="@dimen/text_m"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/editBefore"
+            android:layout_width="@dimen/edit_width"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@layout/input"
+            android:ems="10"
+            android:gravity="center_vertical|right"
+            android:inputType="number|numberDecimal"
+            android:maxLength="13"
+            android:maxLines="1"
+            android:nextFocusDown="@+id/editKwota"
+            android:textSize="@dimen/edit_text_size" />
+
+        <TextView
+            android:id="@+id/tvSymbol3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_m"            
+            android:text="@string/currency"
+            android:textSize="@dimen/text_l"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+    </LinearLayout>    
+    
+    <!-- LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result"         >
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_height="wrap_content"
+            android:layout_width="@dimen/label_width"    
+            android:layout_weight="1"         
+            android:text="@string/period"
+            android:textSize="@dimen/text_m"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/editPeriod"
+            android:nextFocusDown="@+id/editKwota"
+            android:layout_width="@dimen/edit_small"
+            android:layout_height="match_parent"
+            android:layout_weight="1"   
+            android:background="@layout/input"
+            android:ems="10"
+            android:textSize="@dimen/edit_text_size"
+            android:gravity="center_vertical|right"
+            android:inputType="number"
+            android:maxLength="3"
+            android:maxLines="1" />
+        
+    <Spinner
+        android:id="@+id/ddownOkres"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_m"
+        android:textSize="@dimen/text_l"        
+        android:textAppearance="?android:attr/textAppearanceMedium" />    
+	    
+	</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result"         >
+	    
+		<TextView
+		    android:id="@+id/textView10"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="1"   
+		    android:text="@string/capitalization"
+		    android:textSize="@dimen/text_m"
+		    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/ddownKapital"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"   
+        android:layout_marginLeft="@dimen/margin_m"
+        android:textSize="@dimen/text_l"        
+        android:textAppearance="?android:attr/textAppearanceMedium" />    
+        
+    </LinearLayout-->
+    
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="@dimen/margin_l"
+       android:gravity="center_vertical|center_horizontal"       
+       android:orientation="horizontal" >
+
+	   <!--style="@style/AppTheme.Button"-->
+    <Button
+
+        android:id="@+id/bDel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_weight="1"                 
+        android:paddingLeft="@dimen/padding_l"
+        android:paddingRight="@dimen/padding_l"
+        android:drawableTop="@drawable/del_64"
+        android:scaleType="centerInside"
+        android:textSize="@dimen/text_m"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/del" />       
+
+    <Button
+        android:id="@+id/bClear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_weight="1"                 
+        android:paddingLeft="@dimen/padding_l"
+        android:paddingRight="@dimen/padding_l"
+        android:drawableTop="@drawable/delete_64"
+        android:scaleType="centerInside"
+        android:textSize="@dimen/text_m"
+        android:textAppearance="?android:attr/textAppearanceMedium"        
+        android:text="@string/clear" />    
+    
+    <Button
+        android:id="@+id/bOblicz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"  
+        android:paddingLeft="@dimen/padding_l"
+        android:paddingRight="@dimen/padding_l"
+        android:drawableTop="@drawable/play_64"
+        android:textAppearance="?android:attr/textAppearanceMedium"        
+        android:textSize="@dimen/text_m"
+        android:text="@string/submit" />
+    
+    </LinearLayout>
+
+	<include layout="@layout/ads_incl_fb_banner"/>
+    
+    <!-- android:background="@layout/button_round" -->       
+    
+	<!-- com.google.ads.AdView android:id="@+id/adView"
+	          android:layout_width="wrap_content"
+	          android:layout_height="wrap_content"	                
+	          android:layout_marginTop="5dp"	                 
+	          ads:adUnitId="ca-app-pub-4402674240600002/1537277773"
+	          ads:adSize="SMART_BANNER"
+	          ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+	          ads:loadAdOnCreate="true"/-->    
+	          
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:padding="@dimen/margin_xl"
+        android:orientation="vertical"
+        android:background="@layout/result"	>
+	    
+	    <TextView
+	        android:id="@+id/tvInfo0"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/instructions"
+	        android:textSize="@dimen/text_xx"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />        
+	    
+	    <TextView
+	        android:id="@+id/tvInfo1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/information_3"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />                
+
+	    <TextView
+	        android:id="@+id/tvInfo2a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/after_price"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo2b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/hint_after_price"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />
+	    
+		<TextView
+	        android:id="@+id/tvInfo3a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/discount_rate"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo3b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_discount_rate"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />	 	
+	         
+		<TextView
+	        android:id="@+id/tvInfo4a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/saved_amount"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo4b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_saved_amount"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />
+	    
+		<TextView
+	        android:id="@+id/tvInfo5a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/before_price"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo5b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_before_price"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />		
+	         
+		<!-- TextView
+	        android:id="@+id/tvInfo6a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/capitalization"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo6b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_compounded"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         /-->
+
+	</LinearLayout>
+
+	<include layout="@layout/ads_incl_amazon_banner"/>
+
+	<!--FrameLayout
+		android:id="@+id/native_ad_container_end"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:visibility="visible"
+		android:orientation="vertical"
+		>
+	</FrameLayout>
+
+	<FrameLayout
+		android:id="@+id/fb_banner_ad"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:visibility="visible"
+		android:orientation="vertical"
+		>
+	</FrameLayout>
+
+	<com.google.android.gms.ads.NativeExpressAdView
+		android:id="@+id/adViewExpress"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_alignParentBottom="true"
+		android:layout_gravity="center_horizontal"
+		ads:adSize="320x280"
+		android:visibility="visible"
+
+		ads:adUnitId="@string/admob_express_small_id">
+	</com.google.android.gms.ads.NativeExpressAdView>
+
+	<com.google.android.gms.ads.AdView
+		xmlns:ads="http://schemas.android.com/apk/res-auto"
+		android:id="@+id/disc_adView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="0dp"
+		android:layout_alignParentBottom="true"
+		ads:adUnitId="ca-app-pub-4402674240600002/3497352977"
+		ads:adSize="SMART_BANNER"
+		android:visibility="visible"/>
+
+	<RelativeLayout
+		android:id="@+id/adViewContainer"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:visibility="visible"
+		/>
+
+	<com.amazon.device.ads.AdLayout
+		android:id="@+id/amazonAdView"
+		android:layout_alignParentBottom="true"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:visibility="visible"
+		/-->
+
+	<include layout="@layout/ads_incl_fb_native"/>
+
+</LinearLayout>
+</ScrollView>
+
+
+	    
+</RelativeLayout>

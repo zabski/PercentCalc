@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">किंमत नंतर</string>
+<string name="annual_percent_rate">वार्षिक टक्केवारी दर</string>
+<string name="app_name">टक्केवारी कॅल्क्युलेटर</string>
+<string name="app_name2">टक्केवारी आणि सवलत</string>
+<string name="app_name3">सवलत च्या कॅल्क्युलेटर</string>
+<string name="app_name4">टक्केवारी आणि सवलत च्या कॅल्क्युलेटर</string>
+<string name="before_price">किंमत आधी</string>
+<string name="big_product">मोठा उत्पादन</string>
+<string name="bill_amount">पावती रक्कम</string>
+<string name="bug">त्रुटी</string>
+<string name="cancel">रद्द करा</string>
+<string name="choose_currency">चलन निवडा</string>
+<string name="clear">सर्व साफ करा</string>
+<string name="commission">आयोग</string>
+<string name="compare_result">तुलना परिणाम</string>
+<string name="cost_percent">कर्ज टक्के खर्च</string>
+<string name="del">हटवा</string>
+<string name="discount">सवलत</string>
+<string name="discount_rate">सवलतीच्या दर</string>
+<string name="feedback">आम्हाला लिहा!</string>
+<string name="feedback_prompt">अहो, आपण आम्हाला आपल्या अनुभव सुधारणा अभिप्राय द्या करू इच्छिता?</string>
+<string name="fill_all_non_framed">आपण सर्व नॉन-रचला फील्ड भरा करणे आवश्यक आहे</string>
+<string name="fill_in">सर्व इनपुट फील्ड भरा</string>
+<string name="fill_in_bill">आपण भरणे आवश्यक आहे: पावती रक्कम</string>
+<string name="fill_in_compulsory">सर्व आवश्यक फील्ड भरा</string>
+<string name="fill_in_xor">रिक्त नक्की एक क्षेत्र सोडा</string>
+<string name="help_translate">हा अनुप्रयोग अनुवाद मदत</string>
+<string name="hint_after_price">सवलतीच्या नंतर किंमत. दुसऱ्या शब्दांत, हे कमी किंमत आहे.</string>
+<string name="hint_amount">आपल्या कर्जाची रक्कम. आपण खरेदी करू इच्छितो जे उत्पादन, किंमत सहसा समान. हे फील्ड आवश्यक आहे.</string>
+<string name="hint_apr">वार्षिक टक्केवारी दर (एप्रिल) - एकूण खर्च समावेश कर्ज प्रभावी वार्षिक व्याज दर.</string>
+<string name="hint_before_price">सवलतीच्या आधी किंमत. दुसऱ्या शब्दांत, हे जास्त किंमत आहे.</string>
+<string name="hint_bill_amount">एकूण रक्कम आपल्या पावतीवर भरावे.</string>
+<string name="hint_commission">आयोगाने (किंवा कर्ज फी) कर्ज टक्केवारी म्हणून. माहीत नाही तर, रिक्त सोडा.</string>
+<string name="hint_cost_percent">एकूण खर्च (वरील) कर्ज टक्केवारी म्हणून व्यक्त केले.</string>
+<string name="hint_discount_rate">हे प्रमाण म्हणून सवलतीच्या दर आहे.</string>
+<string name="hint_initial_amount">टक्केवारी असू (किंवा होते) आहे अशा प्रारंभिक रक्कम गणना.</string>
+<string name="hint_install">मासिक देयके संख्या सहसा समान. हे फील्ड आवश्यक आहे.</string>
+<string name="hint_interest">तुमचे कर्ज नाममात्र (वार्षिक) व्याज दर काय आहे? हे फील्ड रिक्त सोडल्यास, आपण "हप्ता" भरण्यासाठी आवश्यक आहे</string>
+<string name="hint_other_fees">कर्जाची रक्कम अवलंबून नाही, की इतर सर्व शुल्क. माहीत नाही तर, रिक्त सोडा.</string>
+<string name="hint_payment">आपल्या (मासिक) हप्ते प्रत्येक रक्कम. आपण "टक्केवारी" रिक्त ठेवता तोपर्यंत आपण, या क्षेत्रातील भरण्याची आवश्यकता नाही. रिक्त सोडल्यास, ते बटण दाबून नंतर हिशोब केला जाईल.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">दोन्ही उत्पादनांसाठी एक युनिट भाव. इ 1g, 1ml, 1oz, 1 आयटम यापैकी काहीही असू शकते</string>
+<string name="hint_result_amount">प्रारंभिक मुल्य टक्केवारी गणना परिणामी रक्कम आहे.</string>
+<string name="hint_saved_amount">आपण सवलतीच्या दरात खरेदी करून जतन करत आहोत की रक्कम.</string>
+<string name="hint_saved_bigger">आपण मोठे उत्पादन खरेदी करून जतन होईल रक्कम. सकारात्मक मूल्य मोठे उत्पादन एक चांगले डील आहे की, निर्देशित करते. नकारात्मक मूल्य लहान उत्पादन एक चांगले डील आहे की, निर्देशित करते.</string>
+<string name="hint_simple_percent">टक्केवारी, आपण "प्रारंभिक मुल्य" बाहेर गणना करू इच्छित की</string>
+<string name="hint_small_price">दिलेल्या उत्पादन किंमत.</string>
+<string name="hint_small_units">दिलेल्या उत्पादन युनिट संख्या, तो खंड, वजन किंवा कंटेनर मध्ये आयटम संख्या यापैकी काहीही असू शकते.</string>
+<string name="hint_tip_amount">टीप रक्कम आपल्याला अदा इच्छुक आहेत.</string>
+<string name="hint_tip_percentage">आपण भरायचा टीप टक्केवारी दर.</string>
+<string name="hint_total_cost">संयुक्त व्याज आणि सर्व शुल्कासह कर्ज एकूण खर्च,.</string>
+<string name="hint_total_repay">आवश्यक आहे की एकूण रक्कम बँक परतफेड करणे.</string>
+<string name="hint_total_to_pay">बिल अधिक टीप रक्कम समान आपल्याला आवश्यक (किंवा इच्छित) भरावे की एकूण रक्कम आहे.</string>
+<string name="hint_would_cost">प्रति युनिट त्याची किंमत गृहीत धरून मोठा उत्पादन गृहीते किंमत लहान उत्पादन की समान होते.</string>
+<string name="information_1">खरेदी करताना सवलत किंवा सवलतीच्या पाहू तेव्हा, आपण किती बचत करू शकता तपासू शकता, किंवा उत्पादन मूळ किंमत काय होते. खरं तर, आपण, रिक्त त्यांच्या शेतात सोडून मुल्ये कोणत्याही गणना करू शकता. आपण रिक्त नक्की दोन क्षेत्रात सोडून आहे. आपण 25% सूट आहे की, कल्पना, आणि मूळ किंमत आपण सध्याची किंमत आणि किती जतन शोधण्यात आणि "सवलतीच्या" "आधी" भरण्यासाठी आवश्यक आहे 299. होते.</string>
+<string name="information_2">या सोपे साधन धन्यवाद, आपण एक मोठा उत्पादन खरेदी काही पैसे आणि किती जतन होईल की नाही हे शोधून काढू शकता. आपण 2,79 खर्च एक लहान बाटली (0.5 लिटर) आणि 7,49 खर्च मोठ्या बाटली (1.5 लिटर) मध्ये एक पेय आहे की, कल्पना करा. एक चांगले ऑफर कोणता आहे? आपल्याला आवश्यक सर्व 4 इनपुट फील्ड भरा आणि "गणना" दाबा आहे.</string>
+<string name="information_3">खरेदी करताना सवलत किंवा सवलतीच्या पाहू तेव्हा, आपण किती बचत करू शकता तपासू शकता, किंवा उत्पादन मूळ किंमत काय होते. खरं तर, आपण, रिक्त त्यांच्या शेतात सोडून मुल्ये कोणत्याही गणना करू शकता. आपण रिक्त नक्की दोन क्षेत्रात सोडून आहे. आपण 25% सूट आहे की, कल्पना, आणि मूळ किंमत आपण सध्याची किंमत आणि किती जतन शोधण्यात आणि "सवलतीच्या" "आधी" भरण्यासाठी आवश्यक आहे 299. होते.</string>
+<string name="information_4">या सोपे साधन धन्यवाद, आपण एक मोठा उत्पादन खरेदी काही पैसे आणि किती जतन होईल की नाही हे शोधून काढू शकता. आपण 2,79 खर्च एक लहान बाटली (0.5 लिटर) आणि 7,49 खर्च मोठ्या बाटली (1.5 लिटर) मध्ये एक पेय आहे की, कल्पना करा. एक चांगले ऑफर कोणता आहे? आपल्याला आवश्यक सर्व 4 इनपुट फील्ड भरा आणि "गणना" दाबा आहे.</string>
+<string name="information_5">आपली खरेदी कर्ज घेणे करायचे असल्यास, आपण प्रभावी (खर्या) वार्षिक टक्केवारी दर तसेच सहभागी सर्व खर्च गणना करू शकता. दोन रीती कार्य करते. प्रथम, आपण बँक आणि मासिक हप्ते रक्कम तसेच एकूण खर्च गणना अनुप्रयोग द्वारे प्रदान नाममात्र (वार्षिक) टक्केवारी दर प्रविष्ट करणे आवश्यक आहे. दुसऱ्या मोड मध्ये, आपण (कधी कधी एक व्यापारी सादर) मासिक हप्ता रक्कम प्रविष्ट करणे आवश्यक आहे, आणि अनुप्रयोग वार्षिक टक्केवारी तसेच सर्व खर्च गणना होईल.</string>
+<string name="initial_value">आरंभिक मूल्य</string>
+<string name="instructions">सूचना</string>
+<string name="leave_one_of_two">टक्केवारी, हप्ता: रिक्त एक सोडा. खालील सूचना पहा.</string>
+<string name="leave_two_empty">बरोबर दोन फील्ड रिक्त सोडा</string>
+<string name="LoanCalc">कर्ज खर्च</string>
+<string name="loan_amt">कर्ज रक्कम</string>
+<string name="menu_title">काय आपण गणना करू इच्छिता?</string>
+<string name="msg_from_dev">विकसक संदेश</string>
+<string name="ok">ओके</string>
+<string name="opinion">मत</string>
+<string name="other_fees">इतर शुल्क</string>
+<string name="payments">हप्ते संख्या</string>
+<string name="payment_amount">हप्ता रक्कम</string>
+<string name="percent">टक्के</string>
+<!-- as in percentage rate -->
+<string name="percentage">टक्केवारी</string>
+<string name="price_unit">प्रति युनिट किंमत</string>
+<string name="question">प्रश्न</string>
+<!-- imperative -->
+<string name="rate_app">हा अनुप्रयोग रेट करा!</string>
+<string name="regular_percent">नियमित टक्के</string>
+<string name="results">परिणाम</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">निकाल मूल्य</string>
+<string name="saved_amount">जतन रक्कम</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">सूचना खाली स्क्रोल करा कारण</string>
+<string name="send">पाठवा</string>
+<string name="small_price">किंमत</string>
+<string name="small_product">लहान उत्पादन</string>
+<string name="small_units">युनिट किंवा प्रमाण</string>
+<string name="submit">गणना करा</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">लक्ष्य रक्कम</string>
+<string name="thanks">धन्यवाद!</string>
+<string name="tip">ग्रॅच्युइटी रक्कम</string>
+<string name="tip_amount">ग्रॅच्युइटी रक्कम</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">टक्केवारी दर</string>
+<string name="total_cost">एकूण खर्च</string>
+<string name="total_pay">भरावे एकूण</string>
+<string name="total_repay">परतफेड एकूण</string>
+<string name="would_cost">गृहीते खर्च</string>
+</resources>

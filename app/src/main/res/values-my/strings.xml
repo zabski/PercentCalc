@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">ပြီးနောက်စျေးနှုန်း</string>
+<string name="annual_percent_rate">နှစ်ပတ်လည်ရာခိုင်နှုန်း Rate</string>
+<string name="app_name">ရာခိုင်နှုန်း၏ဂဏန်းပေါင်းစက်</string>
+<string name="app_name2">ရာခိုင်နှုန်းနှင့်ဈေးလျှော့</string>
+<string name="app_name3">ဈေးလျော့ဂဏန်းပေါင်းစက်</string>
+<string name="app_name4">ရာခိုင်နှုန်းနှင့်ဈေးလျော့ဂဏန်းပေါင်းစက်</string>
+<string name="before_price">ရှေ့တော်၌အစျေးနှုန်း</string>
+<string name="big_product">ကြီးမားသည့်ထုတ်ကုန်</string>
+<string name="bill_amount">ဖြတ်ပိုင်းပမာဏ</string>
+<string name="bug">အမှား</string>
+<string name="cancel">Cancel</string>
+<string name="choose_currency">ငွေကြေးကိုကိုရွေးချယ်ပါ</string>
+<string name="clear">အားလုံးကိုရှင်း</string>
+<string name="commission">ကော်မရှင်</string>
+<string name="compare_result">နှိုင်းယှဉ်ကြည့်၏ရလဒ်များကို</string>
+<string name="cost_percent">ချေးငွေ၏ရာခိုင်နှုန်းအဖြစ်ကုန်ကျစရိတ်</string>
+<string name="del">အဖြစ်မှဖယ်ရှာသည်</string>
+<string name="discount">လျှော့စျေး</string>
+<string name="discount_rate">လျှော့စျေးနှုန်း</string>
+<string name="feedback">ကျွန်တော်တို့ကိုရေးပါ!</string>
+<string name="feedback_prompt">Hi, သင်ငါတို့သည်သင်တို့၏အတွေ့အကြုံကိုတိုးတက်နိုင်အောင်ကျွန်တော်တို့ကိုအချို့သောတုံ့ပြန်ချက်များကိုပေးချင်ပါသလဲ</string>
+<string name="fill_all_non_framed">သင်တို့ရှိသမျှသည် Non-frame ဖြည့်စွက်ရပါမည်</string>
+<string name="fill_in">အားလုံး input ကိုလယ်ကွက်ကိုဖြည့်ပေးပါ</string>
+<string name="fill_in_bill">ဖြတ်ပိုင်းများ၏ပမာဏ: သင်ဖြည့်စွက်ရပါမည်</string>
+<string name="fill_in_compulsory">အားလုံးလိုအပ်သောနယ်ပယ်များတွင်ဖြည့်စွက်ပေးပါ</string>
+<string name="fill_in_xor">အချည်းနှီးသောအတိအကျနယ်ပယ်တစ်ခု Leave</string>
+<string name="help_translate">ဤလျှောက်လွှာကိုဘာသာပြန်ဆိုကိုကူညီပါ</string>
+<string name="hint_after_price">လျှော့စျေးပြီးနောက်စျေးနှုန်း။ အခြားစကားများတွင်, ဒီအနိမ့်စျေးနှုန်းပင်ဖြစ်ပါသည်။</string>
+<string name="hint_amount">သင့်ရဲ့ချေးငွေပမာဏ။ သင်ယ်ယူလိုသည့်ထုတ်ကုန်ပစ္စည်းများ၏စျေးနှုန်းအများအားဖြင့်တန်းတူ။ ဤစာကွက်လပ်မှာဖြည့်ရန်လိုအပ်ပါသည်။</string>
+<string name="hint_apr">နှစ်ပတ်လည်ရာခိုင်နှုန်း Rate (APR) - စုစုပေါင်းကုန်ကျစရိတ်များအပါအဝင်ချေးငွေ၏ထိရောက်သောနှစ်ပတ်လည်အတိုးနှုန်း။</string>
+<string name="hint_before_price">လျှော့စျေးရှေ့တော်၌အစျေးနှုန်း။ အခြားစကားများတွင်ဤဈေးနှုန်းမြင့်မားသည်။</string>
+<string name="hint_bill_amount">သင့်ရဲ့ဖြတ်ပိုင်းပေါ်ပြန်ဆပ်ရန်စုစုပေါင်းငွေပမာဏ။</string>
+<string name="hint_commission">ချေးငွေ၏ရာခိုင်နှုန်းအဖြစ်ကော်မရှင် (သို့မဟုတ်ချေးငွေအခကြေးငွေ) ။ မထင်ရှားပါက, အလွတ်ထားခဲ့ပါ။</string>
+<string name="hint_cost_percent">(အထက်ပါကဲ့သို့) စုစုပေါင်းကုန်ကျစရိတ်ချေးငွေ၏ရာခိုင်နှုန်းအဖြစ်ထုတ်ဖော်ပြောဆိုခဲ့သည်။</string>
+<string name="hint_discount_rate">ဒီရာခိုင်နှုန်းအဖြစ်လျှော့စျေး၏နှုန်းမှာဖြစ်ပါတယ်။</string>
+<string name="hint_initial_amount">ရာခိုင်နှုန်းဖြစ် (သို့မဟုတ်ခဲ့) လတံ့သောထံမှကနဦးပမာဏကိုတွက်ချက်။</string>
+<string name="hint_install">လစဉ်ငွေပေးချေ၏အရေအတွက်များသောအားဖြင့်တန်းတူညီမျှ။ ဤစာကွက်လပ်မှာဖြည့်ရန်လိုအပ်ပါသည်။</string>
+<string name="hint_interest">သင့်ရဲ့ချေးငွေအမည်ခံ (နှစ်ပတ်လည်) အတိုးနှုန်းကဘာလဲ? ဒီကွက်လပ်ကျန်ကြွင်းလျက်ရှိပါကသင်သည် "installation" ၌ဖြည့်ရန်လိုအပ်ပါလိမ့်မည်</string>
+<string name="hint_other_fees">ချေးငွေ၏ပမာဏအပေါ်မှီခိုမနေသောသူအပေါင်းတို့သည်အခြားအဖိုးအခ။ မထင်ရှားပါက, အလွတ်ထားခဲ့ပါ။</string>
+<string name="hint_payment">သင်၏ (လစဉ်) အရစ်ကျ၏တစ်ဦးချင်းစီ၏ငွေပမာဏ။ သင်ကွက်လပ် "ရာခိုင်နှုန်း" left မဟုတ်လျှင်သင်, ဤမြေကွက်၌ဖြည့်ရန်မလိုအပ်ပါဘူး။ ကွက်လပ်မကျန်ကြွင်းပါကခလုတ်ကိုနှိပ်ပြီးနောက်တွက်ချက်ထားကြလိမ့်မည်။</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">နှစ်ဦးစလုံးထုတ်ကုန်များအတွက်တစ်ယူနစ်၏စျေးနှုန်းများ။ ဒါဟာစတာတွေ 1G, 1ml, 1oz, 1 ကို item တစ်ခုခုဖြစ်နိုင်သည်</string>
+<string name="hint_result_amount">ကနဦးတန်ဖိုး၏ရာခိုင်နှုန်းကိုတွက်ချက်မှထွက်ပေါ်လာသောသောငွေပမာဏ။</string>
+<string name="hint_saved_amount">သင်လျှော့စျေးနှုန်းမှာဝယ်ယူအ​​ားဖြင့်ချွေတာဖြစ်ကြောင်းပိုက်ဆံ၏ငွေပမာဏ။</string>
+<string name="hint_saved_bigger">သင်ကပိုကြီးထုတ်ကုန်ဝယ်ယူအ​​ားဖြင့်ကယ်တင်တော်မူမည်ကြောင်းပိုက်ဆံ၏ငွေပမာဏ။ အပြုသဘောတန်ဖိုးပိုကြီးထုတ်ကုန်ပိုကောင်းတဲ့သဘောတူညီချက်ကြောင်းကိုညွှန်ပြနေတယ်။ အပြုသဘောမဆောင်သောတန်ဖိုးသေးငယ်ထုတ်ကုန်ပိုကောင်းတဲ့သဘောတူညီချက်ကြောင်းကိုညွှန်ပြနေတယ်။</string>
+<string name="hint_simple_percent">သင် "ကနဦးတန်ဖိုး" ၏ထွက်ချင့်တွက်ချင်သောရာခိုင်နှုန်း,</string>
+<string name="hint_small_price">ပေးထားသောပစ္စည်းရဲ့စျေးနှုန်း။</string>
+<string name="hint_small_units">ပေးထားသောထုတ်ကုန်အတွက်ယူနစ်အရေအတွက်က, volume, အလေးချိန်သို့မဟုတ်ကွန်တိန်နာအတွက်ပစ္စည်းများအရေအတွက်တစ်ခုခုဖြစ်နိုင်သည်။</string>
+<string name="hint_tip_amount">သင်ဆပ်ဖို့လိုလိုလားလားရှိအစွန်အဖျား၏ငွေပမာဏ။</string>
+<string name="hint_tip_percentage">သင်ဆပ်ဖို့လိုတဲ့ထိပ်ဖျားရာခိုင်နှုန်းနှုန်းသည်။</string>
+<string name="hint_total_cost">ပိုဆိုးအကျိုးစီးပွားအပေါင်းတို့နှင့်အဖိုးအခများအပါအဝင်ချေးငွေစုစုပေါင်းကုန်ကျစရိတ်, ။</string>
+<string name="hint_total_repay">ပေးသောသူကျေးဇူးဆပ်ရန်လိုအပ်လိမ့်မည်ဟုစုစုပေါင်းပမာဏ။</string>
+<string name="hint_total_to_pay">ဥပဒေကြမ်းပေါင်းအစွန်အဖျားငွေပမာဏနှင့်ညီမျှဆပ်ဖို့သင်လိုအပ် (သို့မဟုတ်ချင်တယ်) ထိုငွေပမာဏ။</string>
+<string name="hint_would_cost">တစ်ယူနစ်၎င်း၏စျေးနှုန်းယူဆအရွယ်အစားပိုကြီးထုတ်ကုန်၏ဖြစ်နိုင်ချေစျေးနှုန်းပိုမိုသေးငယ်သည့်ထုတ်ကုန်များ၏ညီမျှခဲ့သည်။</string>
+<string name="information_1">သင်စျေးဝယ်နေစဉ် rebate သို့မဟုတ်လျှော့စျေးမြင်ရသည့်အခါတိုင်းသင်ကယ်တင်နိုင်သည်ဘယ်လောက်, စစ်ဆေးနိုင်ပါတယ်, ဒါမှမဟုတ်ထုတ်ကုန်၏မူလစျေးနှုန်းအဘယ်အရာနည်း။ အမှန်တွင်သင်သည်အချည်းနှီးသောသူတို့၏လယ်ထွက်ခွာခြင်းအားဖြင့်စံတန်ဖိုးများကိုမဆိုတွက်ချက်နိုင်ပါတယ်။ သင်သည်အချည်းနှီးအတိအကျကွက်လပ်နှစ်ခုကိုထားခဲ့ဖို့ရှိသည်။ သင် 25% ၏တစ်ဦးလျှော့စျေးရှိသည်နှင့်မူရင်းစျေးကိုသင်လက်ရှိစျေးနှုန်းကိုထွက်ရှာတွေ့မှသင်တို့ကိုကယ်တင်ပါလိမ့်မယ်မည်မျှနှင့် "လျှော့စျေး" "ရှေ့မှာ" ဖြည့်ရန်လိုအပ်သည် 299. ခဲ့ကြောင်း, ဆိုကြပါစို့။</string>
+<string name="information_2">ဒီလွယ်ကူသော tool ကိုကျေးဇူးတင်ပါတယ်, သင်ကပိုကြီးထုတ်ကုန်ဝယ်ယူအ​​ချို့ကိုသင်ပိုက်ဆံဘယ်လောက်ကယ်တင်မည်ကိုထုတ်ရှာတွေ့နိုင်ပါသည်။ သင် 2,79 နှင့် 7,49 ကုန်ကျသောကြီးမားသည့်ပုလင်း (1.5 လီတာ) ကုန်ကျသောသေးငယ်တဲ့ပုလင်း (0.5 လီတာ) ထဲမှာမသောက်ကြောင်း, ဆိုကြပါစို့။ ပိုကောင်းတဲ့ကမ်းလှမ်းမှုကိုဘယ်ဟာဖြစ်သနည်း သင်လိုအပ်သမျှ 4 input ကိုလယ်ယာနှင့်စာနယ်ဇင်း "Calculator" ဖြည့်စွက်ရန်ဖြစ်ပါသည်။</string>
+<string name="information_3">သင်စျေးဝယ်နေစဉ် rebate သို့မဟုတ်လျှော့စျေးမြင်ရသည့်အခါတိုင်းသင်ကယ်တင်နိုင်သည်ဘယ်လောက်, စစ်ဆေးနိုင်ပါတယ်, ဒါမှမဟုတ်ထုတ်ကုန်၏မူလစျေးနှုန်းအဘယ်အရာနည်း။ အမှန်တွင်သင်သည်အချည်းနှီးသောသူတို့၏လယ်ထွက်ခွာခြင်းအားဖြင့်စံတန်ဖိုးများကိုမဆိုတွက်ချက်နိုင်ပါတယ်။ သင်သည်အချည်းနှီးအတိအကျကွက်လပ်နှစ်ခုကိုထားခဲ့ဖို့ရှိသည်။ သင် 25% ၏တစ်ဦးလျှော့စျေးရှိသည်နှင့်မူရင်းစျေးကိုသင်လက်ရှိစျေးနှုန်းကိုထွက်ရှာတွေ့မှသင်တို့ကိုကယ်တင်ပါလိမ့်မယ်မည်မျှနှင့် "လျှော့စျေး" "ရှေ့မှာ" ဖြည့်ရန်လိုအပ်သည် 299. ခဲ့ကြောင်း, ဆိုကြပါစို့။</string>
+<string name="information_4">ဒီလွယ်ကူသော tool ကိုကျေးဇူးတင်ပါတယ်, သင်ကပိုကြီးထုတ်ကုန်ဝယ်ယူအ​​ချို့ကိုသင်ပိုက်ဆံဘယ်လောက်ကယ်တင်မည်ကိုထုတ်ရှာတွေ့နိုင်ပါသည်။ သင် 2,79 နှင့် 7,49 ကုန်ကျသောကြီးမားသည့်ပုလင်း (1.5 လီတာ) ကုန်ကျသောသေးငယ်တဲ့ပုလင်း (0.5 လီတာ) ထဲမှာမသောက်ကြောင်း, ဆိုကြပါစို့။ ပိုကောင်းတဲ့ကမ်းလှမ်းမှုကိုဘယ်ဟာဖြစ်သနည်း သင်လိုအပ်သမျှ 4 input ကိုလယ်ယာနှင့်စာနယ်ဇင်း "Calculator" ဖြည့်စွက်ရန်ဖြစ်ပါသည်။</string>
+<string name="information_5">သင်သည်သင်၏ဝယ်ယူမှုများအတွက်ချေးငွေယူဖို့စီစဉ်ထားတယ်ဆိုရင်, သင်တို့ရှိသမျှကိုပါဝင်ပတ်သက်နေကုန်ကျစရိတ်များအပြင်ထိရောက်သော (အစစ်အမှန်) နှစ်ပတ်လည်ရာခိုင်နှုန်းနှုန်းကိုတွက်ချက်နိုင်ပါတယ်။ ဒါဟာနှစ်ဦးသည် Modes မှာအလုပ်လုပ်နေပါတယ်။ ပထမဦးဆုံး၌, သင် (နှစ်ပတ်လည်) ရာခိုင်နှုန်းပေးသောသူကထောက်ပံ့မှုနှုန်းနှင့်လျှောက်လွှာကိုလစဉ်အရစ်ကျပမာဏအဖြစ်စုစုပေါင်းကုန်ကျစရိတ်ကိုတွက်ချက်ကြမည်အမည်ခံရိုက်ထည့်ရန်လိုအပ်ပါသည်။ ဒုတိယ mode ထဲမှာသင် (တခါတရံကုန်သည်တို့ကပေးအပ်လှူဒါန်း) လစဉ်အရစ်ကျ၏ပမာဏကိုရိုက်ထည့်ရန်လိုခြင်း, လျှောက်လွှာနှစ်စဉ်ရာခိုင်နှုန်းအဖြစ်အားလုံးကုန်ကျစရိတ်များတွက်ချက်မည်။</string>
+<string name="initial_value">Initial value ကို</string>
+<string name="instructions">ညွှန်ကြားချက်များ</string>
+<string name="leave_one_of_two">ရာခိုင်နှုန်း, အရစ်ကျ: များ၏အချည်းနှီးတချန်ထားပါ။ အောက်တွင်ညွှန်ကြားချက်များကိုကြည့်ရှုပါ။</string>
+<string name="leave_two_empty">အချည်းနှီးသောအတိအကျကွက်လပ်နှစ်ခုကို Leave</string>
+<string name="LoanCalc">ချေးငွေ၏ကုန်ကျစရိတ်များ</string>
+<string name="loan_amt">ချေးငွေပမာဏ</string>
+<string name="menu_title">သင်တွက်ချက်ဖို့ဘာလိုချင်သလဲ?</string>
+<string name="msg_from_dev">Developer တွေထံမှမက်ဆေ့ခ်ျကို</string>
+<string name="ok">အိုကေ</string>
+<string name="opinion">သဘော</string>
+<string name="other_fees">အခြားအဖိုးအခများ</string>
+<string name="payments">အရစ်ကျအရေအတွက်</string>
+<string name="payment_amount">အရစ်ကျပမာဏ</string>
+<string name="percent">ရာခိုင်နှုန်း</string>
+<!-- as in percentage rate -->
+<string name="percentage">ရာခိုင်နှုန်း</string>
+<string name="price_unit">တစ်ယူနစ်စျေးနှုန်း</string>
+<string name="question">မေးခွန်း</string>
+<!-- imperative -->
+<string name="rate_app">ဒီ application ကကောဘယ်လောက်ရှိသလဲ!</string>
+<string name="regular_percent">ပုံမှန်ရာခိုင်နှုန်း</string>
+<string name="results">ရလဒ်များကို</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">ရလဒ်တန်ဖိုး</string>
+<string name="saved_amount">ကယ်တင်ခြင်းသို့ရောက်သောငွေပမာဏ</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">ညွှန်ကြားချက်များအဘို့ဆင်း scroll</string>
+<string name="send">ပေးပို့</string>
+<string name="small_price">စျေးနှုန်း</string>
+<string name="small_product">အသေးစားထုတ်ကုန်</string>
+<string name="small_units">ယူနစ်အရေအတွက်သို့မဟုတ်</string>
+<string name="submit">ရေတွက်</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">အဆိုပါ နှစ်မှစ. ငွေ​​ပမာဏ</string>
+<string name="thanks">ကျေးဇူးတင်ပါသည်!</string>
+<string name="tip">Gratuity ပမာဏ</string>
+<string name="tip_amount">Gratuity ပမာဏ</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">ရာခိုင်နှုန်းနှုန်းကို</string>
+<string name="total_cost">စုစုပေါင်းကုန်ကျစရိတ်</string>
+<string name="total_pay">ဆပ်ဖို့ Total ကုမ္ပဏီ</string>
+<string name="total_repay">ပြန်ဆပ်ဖို့ Total ကုမ္ပဏီ</string>
+<string name="would_cost">ဖြစ်နိုင်ချေကုန်ကျစရိတ်</string>
+</resources>

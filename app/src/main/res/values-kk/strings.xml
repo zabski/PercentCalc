@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Кейін бағасы</string>
+<string name="annual_percent_rate">Жылдық пайыздық ставка</string>
+<string name="app_name">Пайыздық калькулятор</string>
+<string name="app_name2">Пайыздық және жеңілдіктер</string>
+<string name="app_name3">Жеңілдіктер калькулятор</string>
+<string name="app_name4">Пайыздық жеңілдіктер және калькулятор</string>
+<string name="before_price">Бұрын Бағасы</string>
+<string name="big_product">Ірі өнім</string>
+<string name="bill_amount">Алған сомасы</string>
+<string name="bug">Қателік</string>
+<string name="cancel">Күшін жою</string>
+<string name="choose_currency">Валюта таңдау</string>
+<string name="clear">Ашық барлық</string>
+<string name="commission">Комиссия</string>
+<string name="compare_result">Салыстыру нәтижелері</string>
+<string name="cost_percent">Қарыз пайыз ретінде құны</string>
+<string name="del">Жою</string>
+<string name="discount">Жеңілдік</string>
+<string name="discount_rate">Жеңілдік ставкасы</string>
+<string name="feedback">Бізге жазу!</string>
+<string name="feedback_prompt">Привет, сіз біз сіздің тәжірибесін жетілдіре аласыз, сондықтан бізге кейбір нәтиже беруге келеді?</string>
+<string name="fill_all_non_framed">Сіз барлық емес жақтаулы өрістерін толтыру керек</string>
+<string name="fill_in">Барлық кіріс өрістерді толтырыңыз</string>
+<string name="fill_in_bill">Алған сомасы: Сіз толтыру қажет</string>
+<string name="fill_in_compulsory">Барлық қажетті өрістерді толтырыңыз</string>
+<string name="fill_in_xor">Бос дәл бір өрісті қалдырыңыз</string>
+<string name="help_translate">Осы қолданбаны аударуға көмектесу</string>
+<string name="hint_after_price">Жеңілдік кейін Бағасы. Басқаша айтқанда, бұл неғұрлым төмен бағасы болып табылады.</string>
+<string name="hint_amount">Сіздің қарыз сомасы. Сатып сіз өнімнің бағасына Әдетте тең. Бұл керек аймақ.</string>
+<string name="hint_apr">Жылдық пайыздық мөлшерлеме (APR) - жалпы құны, соның ішінде несиенің жылдық тиімді сыйақы мөлшерлемесі.</string>
+<string name="hint_before_price">Жеңілдік бұрын Бағасы. Басқаша айтқанда, бұл жоғары баға болып табылады.</string>
+<string name="hint_bill_amount">Сіздің алған төлеуге жалпы сомасы.</string>
+<string name="hint_commission">Несиені пайызбен комиссия (немесе несие комиссия). Белгілі емес болса, бос қалдырыңыз.</string>
+<string name="hint_cost_percent">(Жоғарыда көрсетілгендей) жалпы құны Несиенің пайыздық ретінде көрсетілген.</string>
+<string name="hint_discount_rate">Бұл пайызбен дисконттың мөлшерлемесі болып табылады.</string>
+<string name="hint_initial_amount">Пайыздық болуы (немесе) болды, онда бастапқы сома есептелді.</string>
+<string name="hint_install">Ай сайынғы төлемдер санының Әдетте тең. Бұл керек аймақ.</string>
+<string name="hint_interest">Сіздің несие номиналды (жылдық) пайыздық мөлшерлеме дегеніміз не? Бұл өрісті бос қалса, сіз «Кезектi» толтыру қажет болады</string>
+<string name="hint_other_fees">Заем сомасының тәуелді емес барлық басқа алымдар. Белгілі емес болса, бос қалдырыңыз.</string>
+<string name="hint_payment">Сіздің (ай сайын) жарна әрбір сомасы. Сіз бос «үлесі» солға егер Сіз осы саладағы толтыру қажет емес. Бос қалдырылған болса, ол батырмасын басқаннан кейін есептелетін болады.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Екі өнімдер үшін бір бірлігінің бағасы. Ол және т.б. 1г, 1мл, 1oz, 1 тармақ болуы мүмкін</string>
+<string name="hint_result_amount">Бастапқы құнының пайыздық есептеу нәтижесінде алынған сома.</string>
+<string name="hint_saved_amount">Сіз дисконтталған баға бойынша сатып алу арқылы үнемдеу ақша сомасы.</string>
+<string name="hint_saved_bigger">Сіз үлкен өнімді сатып алу арқылы құтқарады ақша сомасы. Оң мәні үлкен өнім жақсы мәміле екендігін көрсетеді. Теріс мән аз өнім жақсы мәміле екендігін көрсетеді.</string>
+<string name="hint_simple_percent">Сіз «Бастапқы құны» жүзеге есептеу келетін үлесі,</string>
+<string name="hint_small_price">Берілген өнімнің бағасы.</string>
+<string name="hint_small_units">Берілген өнімнің бірлік саны, ол көлем, салмақ немесе контейнерде элементтердің саны болуы мүмкін.</string>
+<string name="hint_tip_amount">Сіз төлеуге дайын ұшы сомасы.</string>
+<string name="hint_tip_percentage">Сіз төлеуге келсе ұшы пайыздық мөлшерлемесі.</string>
+<string name="hint_total_cost">Өршиді қызығушылық және барлық алымдарды қоса алғанда, қарыз жалпы құны.</string>
+<string name="hint_total_repay">Кредитордың өтелген қажет жалпы сомасы.</string>
+<string name="hint_total_to_pay">Вексель плюс ұшты сомасына тең төлеуге сізге қажет (немесе келеді) жалпы сомасы.</string>
+<string name="hint_would_cost">Бірлігіне, оның бағасын предполагая үлкен өнімнің гипотетикалық бағасы аз өнім тең болды.</string>
+<string name="information_1">Сіз сауда, ал өтем немесе жеңілдік көрген кезде, сіз сақтауға болады қанша тексеруге болады, немесе өнімнің бастапқы бағасы қандай болды. Шын мәнінде, сіз бос олардың кен орындарын қалдырып құндылықтарды кез келген есептеуге болады. Сіз бос дәл екі өріс қалдыру керек. Сіз 25% жеңілдік бар, бастапқы бағасы ағымдағы бағасы білуге ​​және сен құтқарасың қанша және «жеңілдік» «алдында» толтыру қажет 299 болды, бұл елестетіп көріңізші.</string>
+<string name="information_2">Бұл оңай құралы арқасында, сіз үлкен өнімді сатып сізге біраз ақша және қанша үнемдеуге болады ма біле аласыз. Сіз 2.79 және 7,49 құны үлкен бөтелке (1,5 литр) құны кішкене бөтелкелер (0,5 литр) сусындарды бар екенін, елестетіп көріңізші. Жақсы ұсыныс қандай болып табылады? Барлық сізге керек 4 енгізу өрістері мен баспасөз «Есептеу» толтыру болып табылады.</string>
+<string name="information_3">Сіз сауда, ал өтем немесе жеңілдік көрген кезде, сіз сақтауға болады қанша тексеруге болады, немесе өнімнің бастапқы бағасы қандай болды. Шын мәнінде, сіз бос олардың кен орындарын қалдырып құндылықтарды кез келген есептеуге болады. Сіз бос дәл екі өріс қалдыру керек. Сіз 25% жеңілдік бар, бастапқы бағасы ағымдағы бағасы білуге ​​және сен құтқарасың қанша және «жеңілдік» «алдында» толтыру қажет 299 болды, бұл елестетіп көріңізші.</string>
+<string name="information_4">Бұл оңай құралы арқасында, сіз үлкен өнімді сатып сізге біраз ақша және қанша үнемдеуге болады ма біле аласыз. Сіз 2.79 және 7,49 құны үлкен бөтелке (1,5 литр) құны кішкене бөтелкелер (0,5 литр) сусындарды бар екенін, елестетіп көріңізші. Жақсы ұсыныс қандай болып табылады? Барлық сізге керек 4 енгізу өрістері мен баспасөз «Есептеу» толтыру болып табылады.</string>
+<string name="information_5">Егер сіз сатып алу үшін несие алуға жоспарласаңыз, барлық тартылған шығындарды, сондай-ақ тиімді (нақты) жылдық пайыздық ставканы есептеу болады. Ол екі режимдерде жұмыс істейді. Бірінші, сіз (жылдық) пайыздық кредитор көзделген ставка мен қолдану айлық төлемдердің мөлшерін, сондай-ақ жалпы шығындарды есептеуге болады номиналды енгізу керек. Екінші режимінде (кейде көпес ұсынылған) айлық жарна сомасын енгізу қажет, және бағдарлама жылдық пайыздық, сондай-ақ барлық шығындарды есептеп береді.</string>
+<string name="initial_value">Бастапқы құны</string>
+<string name="instructions">Нұсқаулықтар</string>
+<string name="leave_one_of_two">Пайызбен, жарна: бос біреуін қалдырыңыз. Төмендегі нұсқауларды қараңыз.</string>
+<string name="leave_two_empty">Бос дәл екі өрістерді қалдырыңыз</string>
+<string name="LoanCalc">Қарыз бойынша шығындар</string>
+<string name="loan_amt">Несие сомасы</string>
+<string name="menu_title">Сіз есептеу үшін не келеді?</string>
+<string name="msg_from_dev">Әзірлеуші ​​жолдауы</string>
+<string name="ok">ЖАҚСЫ</string>
+<string name="opinion">Пікір</string>
+<string name="other_fees">Басқа алымдар</string>
+<string name="payments">Төлемдер саны</string>
+<string name="payment_amount">Жарнаның мөлшері</string>
+<string name="percent">Пайыз</string>
+<!-- as in percentage rate -->
+<string name="percentage">Пайыз</string>
+<string name="price_unit">Бірлік бағасы</string>
+<string name="question">Сұрақ</string>
+<!-- imperative -->
+<string name="rate_app">Осы қолданбаны бағалаңыз!</string>
+<string name="regular_percent">Тұрақты пайыз</string>
+<string name="results">Нәтижелер</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Нәтиже мәні</string>
+<string name="saved_amount">Сақталған сома</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Нұсқауларды алу үшін төмен жылжыңыз</string>
+<string name="send">Жіберу</string>
+<string name="small_price">Баға</string>
+<string name="small_product">Шағын өнім</string>
+<string name="small_units">Бірліктер саны немесе</string>
+<string name="submit">Есептеп шығару</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Мақсатты сомасы</string>
+<string name="thanks">Рақмет сізге!</string>
+<string name="tip">Чаевые сомасы</string>
+<string name="tip_amount">Чаевые сомасы</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Пайыздық мөлшерлемесі</string>
+<string name="total_cost">Жалпы құны</string>
+<string name="total_pay">Жалпы сомасы</string>
+<string name="total_repay">Өтеуге Барлығы</string>
+<string name="would_cost">Гипотетикалық құны</string>
+</resources>

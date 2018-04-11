@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">मूल्य पछि</string>
+<string name="annual_percent_rate">वार्षिक प्रतिशत दर</string>
+<string name="app_name">प्रतिशत को calculator</string>
+<string name="app_name2">प्रतिशत र छूट</string>
+<string name="app_name3">छूट को calculator</string>
+<string name="app_name4">प्रतिशत र छूट calculator</string>
+<string name="before_price">मूल्य अघि</string>
+<string name="big_product">ठूलो उत्पादन</string>
+<string name="bill_amount">रसिद राशि</string>
+<string name="bug">त्रुटि</string>
+<string name="cancel">रद्द</string>
+<string name="choose_currency">मुद्रा छान्नुहोस्</string>
+<string name="clear">स्पष्ट सबै</string>
+<string name="commission">आयोग</string>
+<string name="compare_result">तुलना परिणाम</string>
+<string name="cost_percent">ऋण प्रतिशत रूपमा लागत</string>
+<string name="del">मेट्नुहोस्</string>
+<string name="discount">छूट</string>
+<string name="discount_rate">छूट को दर</string>
+<string name="feedback">पोस्टपेड!</string>
+<string name="feedback_prompt">नमस्ते, तपाईं हामी आफ्नो अनुभव सुधार गर्न सकोस् भनेर केही प्रतिक्रिया दिन चाहनुहुन्छ?</string>
+<string name="fill_all_non_framed">तपाईं सबै गैर-तैयार क्षेत्रहरु भर्नैपर्छ</string>
+<string name="fill_in">सबै आगत क्षेत्रहरु मा भर कृपया</string>
+<string name="fill_in_bill">तपाईं मा भर्नैपर्छ: रसिद को राशि</string>
+<string name="fill_in_compulsory">सबै आवश्यक क्षेत्रहरु मा भरें</string>
+<string name="fill_in_xor">खाली ठीक एक क्षेत्र छोड</string>
+<string name="help_translate">यस आवेदन अनुवाद गर्न मद्दत</string>
+<string name="hint_after_price">छूट पछि मूल्य। अर्को शब्दमा, यो कम मूल्य छ।</string>
+<string name="hint_amount">आफ्नो ऋण को राशि। तपाईं खरीद गर्न चाहनुहुन्छ जो उत्पादन, को मूल्य सामान्यतया बराबर। यो क्षेत्र आवश्यक छ।</string>
+<string name="hint_apr">वार्षिक प्रतिशत दर (वैशाख) - कुल लागत सहित ऋण प्रभावी वार्षिक ब्याज दर,।</string>
+<string name="hint_before_price">छूट अघि मूल्य। अर्को शब्दमा, यो उच्च मूल्य हो।</string>
+<string name="hint_bill_amount">कुल राशि आफ्नो रसीद मा तिर्न।</string>
+<string name="hint_commission">आयोग (वा ऋण शुल्क) ऋण को प्रतिशत छ। ज्ञात छैन भने, खाली छोड्नुहोस्।</string>
+<string name="hint_cost_percent">कुल लागत (रूपमा माथि) ऋण को प्रतिशत रूपमा व्यक्त गरे।</string>
+<string name="hint_discount_rate">यो प्रतिशत रूपमा छूट को दर छ।</string>
+<string name="hint_initial_amount">प्रतिशत हुन (वा थियो) हुनेछ जो देखि प्रारंभिक राशि गणना।</string>
+<string name="hint_install">मासिक भुक्तानी को संख्या सामान्यतया बराबर। यो क्षेत्र आवश्यक छ।</string>
+<string name="hint_interest">आफ्नो ऋण को नाममात्र (वार्षिक) ब्याज दर के हो? यस क्षेत्र खाली छोड्न छ भने, तपाईं "किस्त" मा भर्नुपर्नेछ</string>
+<string name="hint_other_fees">ऋण को राशि मा निर्भर छैनन् कि अन्य सबै शुल्क। ज्ञात छैन भने, खाली छोड्नुहोस्।</string>
+<string name="hint_payment">आफ्नो (मासिक) installments प्रत्येक राशि। तपाईं "प्रतिशतमा" खाली छोडेर सम्म तपाईं, यो क्षेत्र मा भर्न आवश्यकता छैन। खाली छोडे भने, यो बटन थिचेर पछि गणना गरिनेछ।</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">दुवै उत्पादनहरु को लागि एक एकाइ को मूल्य। यो आदि 1g, 1ml, 1oz, 1 वस्तु या त हुन सक्छ</string>
+<string name="hint_result_amount">प्रारम्भिक मान को प्रतिशत गणना देखि परिणामस्वरूप छ कि राशि।</string>
+<string name="hint_saved_amount">तपाईं छूट मूल्य मा खरीद गरेर बचत छन् कि मुद्रा को राशि।</string>
+<string name="hint_saved_bigger">तपाईं बडा उत्पादन खरीद द्वारा बचाउनु हुनेछ भनेर पैसा को राशि। सकारात्मक मूल्य बडा उत्पादन राम्रो सम्झौता हो कि, सङ्केत गर्छ। नकारात्मक मूल्य साना उत्पादन राम्रो सम्झौता हो कि, सङ्केत गर्छ।</string>
+<string name="hint_simple_percent">प्रतिशतमा, तपाईं "सुरुकोमान" को बाहिर गणना गर्न चाहनुहुन्छ कि</string>
+<string name="hint_small_price">दिइएको उत्पादन को मूल्य।</string>
+<string name="hint_small_units">दिइएको उत्पादन मा एकाइहरूको सङ्ख्या, यो मात्रा, वजन वा कन्टेनर मा आइटम नम्बर या त हुन सक्छ।</string>
+<string name="hint_tip_amount">टिप को राशि तपाईं तिर्न तयार हुन्छन्।</string>
+<string name="hint_tip_percentage">तपाईं चुकाएँ टिप प्रतिशतमा दर।</string>
+<string name="hint_total_cost">झनै बढ्यो चासो र सबै शुल्क सहित ऋण कुल लागत,।</string>
+<string name="hint_total_repay">आवश्यकता हुनेछ कुल राशि ऋणदाता गर्न भइ सकेको।</string>
+<string name="hint_total_to_pay">बिल प्लस टिप राशि बराबर तपाईं आवश्यकता (वा चाहनुहुन्छ) तिर्न भनेर कुल राशि,।</string>
+<string name="hint_would_cost">प्रति एकाइ यसको मूल्य अड्कल काट्ने बडा उत्पादन को काल्पनिक मूल्य साना उत्पादन को बराबर थियो।</string>
+<string name="information_1">किनमेल गर्दा तपाईं एक छूट वा छूट देख्न जब, तपाईं बचत गर्न सक्नुहुन्छ कति, जाँच गर्न सक्छन्, या उत्पादन को मूल मूल्य के थियो। वास्तवमा, तपाईं खाली आफ्नो खेत छोडेर गरेर मान को कुनै पनि गणना गर्न सक्छन्। तपाईं खाली ठीक दुई क्षेत्रहरु छोड्ने छ। तपाईं 25% को एक छूट छ कि, कल्पना गर्नुहोस्, र मूल मूल्य तपाईं वर्तमान मूल्य र कसरी धेरै बचत हुनेछ पत्ता लगाउन र "छूट" "पहिले" भर्नुपर्नेछ 299. थियो।</string>
+<string name="information_2">यस सजिलो उपकरण धन्यवाद, तपाईं एक ठूलो उत्पादन खरीद तपाईं केही पैसा र कति बचत हुनेछ कि बाहिर पाउन सक्छन्। तपाईं 2.79 लागत जो एक सानो बोतल (0.5 लिटर) र 7.49 लागत जो एक ठूलो बोतल (1.5 लिटर) मा एक पेय छ कि, कल्पना गर्नुहोस्। एक राम्रो प्रस्ताव कुन हो? तपाईं सबै को आवश्यकता 4 आगत क्षेत्रहरु भर्न र "को गणना" थिच्नु हो।</string>
+<string name="information_3">किनमेल गर्दा तपाईं एक छूट वा छूट देख्न जब, तपाईं बचत गर्न सक्नुहुन्छ कति, जाँच गर्न सक्छन्, या उत्पादन को मूल मूल्य के थियो। वास्तवमा, तपाईं खाली आफ्नो खेत छोडेर गरेर मान को कुनै पनि गणना गर्न सक्छन्। तपाईं खाली ठीक दुई क्षेत्रहरु छोड्ने छ। तपाईं 25% को एक छूट छ कि, कल्पना गर्नुहोस्, र मूल मूल्य तपाईं वर्तमान मूल्य र कसरी धेरै बचत हुनेछ पत्ता लगाउन र "छूट" "पहिले" भर्नुपर्नेछ 299. थियो।</string>
+<string name="information_4">यस सजिलो उपकरण धन्यवाद, तपाईं एक ठूलो उत्पादन खरीद तपाईं केही पैसा र कति बचत हुनेछ कि बाहिर पाउन सक्छन्। तपाईं 2.79 लागत जो एक सानो बोतल (0.5 लिटर) र 7.49 लागत जो एक ठूलो बोतल (1.5 लिटर) मा एक पेय छ कि, कल्पना गर्नुहोस्। एक राम्रो प्रस्ताव कुन हो? तपाईं सबै को आवश्यकता 4 आगत क्षेत्रहरु भर्न र "को गणना" थिच्नु हो।</string>
+<string name="information_5">तपाईं आफ्नो खरिदका लागि एक ऋण लिन योजना भने, तपाईं प्रभावकारी (वास्तविक) वार्षिक प्रतिशत दर साथै संलग्न सबै लागत को गणना गर्न सक्छन्। यो दुई मोड मा काम गर्दछ। पहिलो, तपाईं ऋणदाता र मासिक installments को राशि साथै कुल लागत गणना हुनेछ आवेदन द्वारा प्रदान नाममात्र (वार्षिक) प्रतिशत दर प्रवेश गर्न आवश्यक छ। दोस्रो मोडमा, तपाईँले (कहिले काँही एक व्यापारीले प्रस्तुत) मासिक किस्त को राशि प्रवेश गर्न आवश्यक छ, र आवेदन वार्षिक प्रतिशत साथै सबै लागत गणना हुनेछ।</string>
+<string name="initial_value">सुरुकोमान</string>
+<string name="instructions">निर्देश</string>
+<string name="leave_one_of_two">प्रतिशत, किस्त: को खाली एक छोड। तल निर्देशनहरू हेर्नुहोस्।</string>
+<string name="leave_two_empty">ठीक दुई खालि छोड्नुहोस्</string>
+<string name="LoanCalc">ऋण को लागत</string>
+<string name="loan_amt">ऋण को राशि</string>
+<string name="menu_title">के तपाईं गणना गर्न चाहनुहुन्छ?</string>
+<string name="msg_from_dev">डेभलपर देखि सन्देश</string>
+<string name="ok">ठीक</string>
+<string name="opinion">जनमत</string>
+<string name="other_fees">अन्य शुल्क</string>
+<string name="payments">Installments को संख्या</string>
+<string name="payment_amount">किस्त को राशि</string>
+<string name="percent">प्रतिशत</string>
+<!-- as in percentage rate -->
+<string name="percentage">प्रतिशत</string>
+<string name="price_unit">प्रति एकाइ मूल्य</string>
+<string name="question">प्रश्न</string>
+<!-- imperative -->
+<string name="rate_app">यस आवेदन दर!</string>
+<string name="regular_percent">नियमित प्रतिशत</string>
+<string name="results">परिणाम</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">परिणाम मूल्य</string>
+<string name="saved_amount">मुक्ति राशि</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">निर्देशन तल स्क्रोल लागि</string>
+<string name="send">पठाउनुहोस्</string>
+<string name="small_price">मूल्य</string>
+<string name="small_product">लघु उत्पादन</string>
+<string name="small_units">यूनिट्स वा मात्रा</string>
+<string name="submit">को गणना</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">लक्ष्य राशि</string>
+<string name="thanks">धन्यवाद!</string>
+<string name="tip">घेरिएको परिधिभित्रको भुइँ उजाड को राशि</string>
+<string name="tip_amount">घेरिएको परिधिभित्रको भुइँ उजाड को राशि</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">प्रतिशतमा दर</string>
+<string name="total_cost">कुल लागत</string>
+<string name="total_pay">तिर्न कुल</string>
+<string name="total_repay">चुक्ता कुल</string>
+<string name="would_cost">काल्पनिक लागत</string>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">ભાવ બાદ</string>
+<string name="annual_percent_rate">વાર્ષિક ટકાવારી દર</string>
+<string name="app_name">ટકાવારી કેલ્ક્યુલેટર</string>
+<string name="app_name2">ટકાવારી અને ડિસ્કાઉન્ટ</string>
+<string name="app_name3">કપાત ની કેલ્ક્યુલેટર</string>
+<string name="app_name4">ટકાવારી અને ડિસ્કાઉન્ટ કેલ્ક્યુલેટર</string>
+<string name="before_price">ભાવ પહેલા</string>
+<string name="big_product">મોટા ઉત્પાદન</string>
+<string name="bill_amount">રસીદ જથ્થો</string>
+<string name="bug">ભૂલ</string>
+<string name="cancel">રદ કરો</string>
+<string name="choose_currency">કરન્સી પસંદ</string>
+<string name="clear">સ્પષ્ટ બધા</string>
+<string name="commission">કમિશન</string>
+<string name="compare_result">સરખામણી પરિણામો</string>
+<string name="cost_percent">લોન ટકાવારી પ્રમાણે ખર્ચ</string>
+<string name="del">કાઢી</string>
+<string name="discount">ડિસ્કાઉન્ટ</string>
+<string name="discount_rate">ડિસ્કાઉન્ટ દર</string>
+<string name="feedback">અમને લખો!</string>
+<string name="feedback_prompt">હાય, તમે અમને અમે તમારા અનુભવ સુધારી શકે છે કે જેથી કેટલાક પ્રતિસાદ આપવા માંગો છો?</string>
+<string name="fill_all_non_framed">તમે બધા બિન-ફ્રેમવાળા ક્ષેત્રો ભરવું આવશ્યક</string>
+<string name="fill_in">બધા ઇનપુટ ક્ષેત્રો ભરો કૃપા કરીને</string>
+<string name="fill_in_bill">તમને ભરવા જોઈએ: રસીદ રકમ</string>
+<string name="fill_in_compulsory">બધા જરૂરી ક્ષેત્રો ભરો કૃપા કરીને</string>
+<string name="fill_in_xor">ખાલી બરાબર એક ક્ષેત્ર છોડી</string>
+<string name="help_translate">આ એપ્લિકેશન અનુવાદિત મદદ</string>
+<string name="hint_after_price">ડિસ્કાઉન્ટ પછી ભાવ. અન્ય શબ્દોમાં, આ નીચલા ભાવ છે.</string>
+<string name="hint_amount">તમારી લોન જથ્થો. તમે ખરીદી કરવા માંગો છો, જે ઉત્પાદન, ના ભાવ સામાન્ય રીતે સમાન. આ ક્ષેત્ જરૂરી છે.</string>
+<string name="hint_apr">વાર્ષિક ટકાવારી દર (એટલી) - કુલ ખર્ચ સહિત લોનની અસરકારક વાર્ષિક વ્યાજ દર,.</string>
+<string name="hint_before_price">ડિસ્કાઉન્ટ પહેલાં ભાવ. અન્ય શબ્દોમાં, આ ઊંચા ભાવ છે.</string>
+<string name="hint_bill_amount">કુલ જથ્થો તમારી રસીદ પર ચૂકવવા.</string>
+<string name="hint_commission">કમિશન (અથવા લોન ફી) લોનની ટકાવારી તરીકે. જાણીતા નહિં, તો ખાલી છોડી દો.</string>
+<string name="hint_cost_percent">કુલ ખર્ચ (ઉપર) લોનની ટકાવારી તરીકે વ્યક્ત કરી હતી.</string>
+<string name="hint_discount_rate">આ ટકાવારી તરીકે ડિસ્કાઉન્ટ ના દર છે.</string>
+<string name="hint_initial_amount">ટકાવારી હોઈ છે (અથવા હતો) કરશે કે જેમાંથી પ્રારંભિક જથ્થો ગણતરી.</string>
+<string name="hint_install">માસિક ચૂકવણી સંખ્યા સામાન્ય રીતે સમાન. આ ક્ષેત્ જરૂરી છે.</string>
+<string name="hint_interest">તમારી લોન ના નજીવી (વાર્ષિક) વ્યાજ દર શું છે? આ ક્ષેત છોડેલી છે, તો, તમે "હપતો" ભરવા માટે જરૂર પડશે</string>
+<string name="hint_other_fees">લોનની રકમ પર આધાર રાખે નથી કે તમામ અન્ય ફી. જાણીતા નહિં, તો ખાલી છોડી દો.</string>
+<string name="hint_payment">તમારા (માસિક) હપતાથી દરેક જથ્થો. જો તમે "ટકાવારી" ખાલી છોડી જ્યાં સુધી તમે, તો આ ક્ષેત્ર ભરવા માટે જરૂર નથી. ખાલી છોડી, તે બટન દબાવીને પછી ગણતરી કરવામાં આવશે.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">બંને ઉત્પાદનો માટે એક એકમ ભાવમાં. તે વગેરે 1 જી, 1ml, 1oz, 1 વસ્તુ ક્યાં બની શકે</string>
+<string name="hint_result_amount">પ્રારંભિક મૂલ્ય ટકાવારી ગણવા કારણે છે કે જે રકમ.</string>
+<string name="hint_saved_amount">તમે ડિસ્કાઉન્ટેડ ભાવે ખરીદી દ્વારા સાચવવામાં આવે છે કે મની જથ્થો.</string>
+<string name="hint_saved_bigger">તમે મોટા ઉત્પાદન ખરીદી દ્વારા બચાવે છે કે મની જથ્થો. હકારાત્મક કિંમત મોટી પ્રોડક્ટ વધુ સારી સોદો છે કે, સૂચવે છે. નકારાત્મક કિંમત નાના ઉત્પાદન વધુ સારી સોદો છે કે, સૂચવે છે.</string>
+<string name="hint_simple_percent">ટકાવારી, તમે "પ્રારંભિક કિંમત \'બહાર ગણતરી માટે માંગો છો તે</string>
+<string name="hint_small_price">આપેલ ઉત્પાદન કિંમત.</string>
+<string name="hint_small_units">આપેલ ઉત્પાદન એકમો નંબર, તેને વોલ્યુમ, વજન અથવા પાત્રમાં વસ્તુઓની સંખ્યા ક્યાં હોઇ શકે છે.</string>
+<string name="hint_tip_amount">ટીપ જથ્થો તમે ચૂકવણી કરવા માટે તૈયાર છે.</string>
+<string name="hint_tip_percentage">તમે ચૂકવણી કરવા માંગો ટોચ ટકાવારી દર.</string>
+<string name="hint_total_cost">ચક્રવૃદ્ધિ વ્યાજ અને બધા ફી સહિત લોનની કુલ કિંમત,.</string>
+<string name="hint_total_repay">જરૂર પડશે કુલ જથ્થો પૈસા ધીરનાર માટે પાછી આપવામાં.</string>
+<string name="hint_total_to_pay">બિલ વત્તા ટીપ જથ્થો બરાબર તમને જરૂર છે (અથવા માંગો) ચૂકવવાની કે કુલ જથ્થો,.</string>
+<string name="hint_would_cost">એકમ દીઠ તેની કિંમત ધારી રહ્યા છીએ મોટી ઉત્પાદન અનુમાનિત કિંમત નાના ઉત્પાદન કે બરાબર હતું.</string>
+<string name="information_1">શોપિંગ કરતી વખતે તમે એક રિબેટ અથવા ડિસ્કાઉન્ટ જોવા જ્યારે પણ, તમે સંગ્રહી શકો છો કેટલી, શકો છો, અથવા ઉત્પાદન ની મૂળ કિંમત શું હતું. હકીકતમાં, તમે ખાલી તેમના ક્ષેત્રો છોડીને દ્વારા કિંમતો કોઇ ગણતરી કરી શકે. તમને ખાલી બરાબર બે ક્ષેત્રો રજા હોય. તમે 25% ની ડિસ્કાઉન્ટ છે, કલ્પના, અને મૂળ ભાવ તમે વર્તમાન ભાવ અને તમને કેટલી બચાવે છે તે જાણવા માટે અને "ડિસ્કાઉન્ટ" "પહેલા" ભરવાની જરૂર 299. હતી.</string>
+<string name="information_2">આ સરળ સાધન માટે આભાર, તમે એક મોટી ઉત્પાદન ખરીદી તમે કેટલાક પૈસા અને કેટલી બચાવે છે કે કેમ તે જાણવા શકે છે. તમે 2.79 ખર્ચ જે એક નાની બોટલ (0.5 લિટર) અને 7.49 ખર્ચ જે મોટી બોટલ (1.5 લિટર) માં એક પીણું હોય છે, કલ્પના. એક સારી ઓફર જે એક છે? તમે જરૂર 4 ઇનપુટ ક્ષેત્રો ભરો અને "ગણતરી" દબાવો છે.</string>
+<string name="information_3">શોપિંગ કરતી વખતે તમે એક રિબેટ અથવા ડિસ્કાઉન્ટ જોવા જ્યારે પણ, તમે સંગ્રહી શકો છો કેટલી, શકો છો, અથવા ઉત્પાદન ની મૂળ કિંમત શું હતું. હકીકતમાં, તમે ખાલી તેમના ક્ષેત્રો છોડીને દ્વારા કિંમતો કોઇ ગણતરી કરી શકે. તમને ખાલી બરાબર બે ક્ષેત્રો રજા હોય. તમે 25% ની ડિસ્કાઉન્ટ છે, કલ્પના, અને મૂળ ભાવ તમે વર્તમાન ભાવ અને તમને કેટલી બચાવે છે તે જાણવા માટે અને "ડિસ્કાઉન્ટ" "પહેલા" ભરવાની જરૂર 299. હતી.</string>
+<string name="information_4">આ સરળ સાધન માટે આભાર, તમે એક મોટી ઉત્પાદન ખરીદી તમે કેટલાક પૈસા અને કેટલી બચાવે છે કે કેમ તે જાણવા શકે છે. તમે 2.79 ખર્ચ જે એક નાની બોટલ (0.5 લિટર) અને 7.49 ખર્ચ જે મોટી બોટલ (1.5 લિટર) માં એક પીણું હોય છે, કલ્પના. એક સારી ઓફર જે એક છે? તમે જરૂર 4 ઇનપુટ ક્ષેત્રો ભરો અને "ગણતરી" દબાવો છે.</string>
+<string name="information_5">તમે તમારા ખરીદીઓ માટે લોન લેવા માટે યોજના ઘડી રહ્યા હોય, તો તમે અસરકારક (વાસ્તવિક) વાર્ષિક ટકાવારી દર તેમજ સામેલ તમામ ખર્ચ ગણતરી કરી શકે. તે બે સ્થિતિઓ માં કામ કરે છે. પ્રથમ, તમે પૈસા ધીરનાર અને માસિક હપતાથી ની રકમ સાથે સાથે કુલ ખર્ચ ગણતરી કરશે જો કાર્યક્રમ દ્વારા પૂરી નજીવી (વાર્ષિક) દર આપવાના. બીજા સ્થિતિમાં, તમે (ક્યારેક એક વેપારી દ્વારા રજૂ) માસિક હપતો જથ્થો દાખલ કરવાની જરૂર છે અને જો કાર્યક્રમ વાર્ષિક ટકાવારી સાથે સાથે તમામ ખર્ચ ગણતરી કરશે.</string>
+<string name="initial_value">પ્રારંભિક કિંમત</string>
+<string name="instructions">સૂચનો</string>
+<string name="leave_one_of_two">ટકાવારી હપતો: ખાલી એક રજા. નીચે સૂચનો જુઓ.</string>
+<string name="leave_two_empty">બરાબર બે ક્ષેત્રો ખાલી છોડી</string>
+<string name="LoanCalc">લોનની ખર્ચ</string>
+<string name="loan_amt">લોનની રકમ</string>
+<string name="menu_title">શું તમે ગણતરી કરવા માંગો છો?</string>
+<string name="msg_from_dev">ડેવલપર પાસેથી સંદેશ</string>
+<string name="ok">ઓકે</string>
+<string name="opinion">અભિપ્રાય</string>
+<string name="other_fees">અન્ય ફી</string>
+<string name="payments">હપતાથી સંખ્યા</string>
+<string name="payment_amount">હપતા રકમ</string>
+<string name="percent">ટકા</string>
+<!-- as in percentage rate -->
+<string name="percentage">ટકાવારી</string>
+<string name="price_unit">એકમ દીઠ ભાવ</string>
+<string name="question">પ્રશ્ન</string>
+<!-- imperative -->
+<string name="rate_app">આ એપ્લિકેશન દર!</string>
+<string name="regular_percent">નિયમિત ટકા</string>
+<string name="results">પરિણામો</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">પરિણામે કિંમત</string>
+<string name="saved_amount">સાચવી જથ્થો</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">સૂચનો સરકાવો માટે</string>
+<string name="send">મોકલો</string>
+<string name="small_price">ભાવ</string>
+<string name="small_product">નાના ઉત્પાદન</string>
+<string name="small_units">એકમો કે જથ્થામાં</string>
+<string name="submit">ગણતરી</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">લક્ષ્ય જથ્થો</string>
+<string name="thanks">આભાર!</string>
+<string name="tip">ગ્રેચ્યુઈટી રકમ</string>
+<string name="tip_amount">ગ્રેચ્યુઈટી રકમ</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">ટકાવારી દર</string>
+<string name="total_cost">કુલ ખર્ચ</string>
+<string name="total_pay">ચૂકવવાની કુલ</string>
+<string name="total_repay">ચૂકવવું કુલ</string>
+<string name="would_cost">અનુમાનિત ખર્ચ</string>
+</resources>

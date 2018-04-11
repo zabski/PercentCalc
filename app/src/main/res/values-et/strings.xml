@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Hind pärast</string>
+<string name="annual_percent_rate">Aastaintress</string>
+<string name="app_name">Kalkulaatori protsendi</string>
+<string name="app_name2">Protsent ja allahindlused</string>
+<string name="app_name3">Kalkulaatori allahindlusi</string>
+<string name="app_name4">Kalkulaatori protsendi ja allahindlused</string>
+<string name="before_price">Hind enne</string>
+<string name="big_product">Suur toode</string>
+<string name="bill_amount">Summa kättesaamist</string>
+<string name="bug">Viga</string>
+<string name="cancel">Tühistama</string>
+<string name="choose_currency">Vali valuuta</string>
+<string name="clear">Puhasta kõik</string>
+<string name="commission">Komisjon</string>
+<string name="compare_result">Tulemused võrdlus</string>
+<string name="cost_percent">Kulude protsendina laenu</string>
+<string name="del">Kustutama</string>
+<string name="discount">Allahindlus</string>
+<string name="discount_rate">Diskontomäär</string>
+<string name="feedback">Kirjuta meile!</string>
+<string name="feedback_prompt">Tere, soovite anda meile tagasisidet, et saaksime parandada oma kogemusi?</string>
+<string name="fill_all_non_framed">Te peate täitma kõik mitte-raamitud väljad</string>
+<string name="fill_in">Palun täitke kõik input väljad</string>
+<string name="fill_in_bill">Te peate täitma: summa kättesaamist</string>
+<string name="fill_in_compulsory">Palun täitke kõik nõutud väljad</string>
+<string name="fill_in_xor">Jäta täpselt üks tühjaks</string>
+<string name="help_translate">Aidake tõlkida see rakendus</string>
+<string name="hint_after_price">Hind pärast soodustust. Teisisõnu, see on madalam hind.</string>
+<string name="hint_amount">Summa oma laenu. Tavaliselt on võrdne toote hind, mida soovite osta. See väli on kohustuslik.</string>
+<string name="hint_apr">Kulukuse aastamäära (APR) - Efektiivne aastane intressimäär laenu, sealhulgas kogumaksumusest.</string>
+<string name="hint_before_price">Hind enne. Teisisõnu, see on kõrgem hind.</string>
+<string name="hint_bill_amount">Kogusumma maksta oma kättesaamisest.</string>
+<string name="hint_commission">Komisjon (või laenu eest) protsentides laenu. Kui ei ole teada, jäta tühjaks.</string>
+<string name="hint_cost_percent">Kulud kokku (nagu eespool) väljendatuna protsentides laenu.</string>
+<string name="hint_discount_rate">See on Diskontomäär protsentides.</string>
+<string name="hint_initial_amount">Esialgne summa, millest protsent on (või oli) arvutada.</string>
+<string name="hint_install">Tavaliselt võrdne arv igakuised maksed. See väli on kohustuslik.</string>
+<string name="hint_interest">Mis on nominaalne (aastane) intressimäära oma laenu? Kui see väli tühjaks, siis on vaja täita "järelmaksuga"</string>
+<string name="hint_other_fees">Kõik muud tasud, mis ei sõltu laenusummast. Kui ei ole teada, jäta tühjaks.</string>
+<string name="hint_payment">Summa iga oma (kuus) kaupa. Sa ei pea täitma selles valdkonnas, kui sa lahkusid "protsent" tühjaks. Kui jätta tühjaks, siis arvutatakse pärast nupu vajutamist.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Hinnad ühe ühiku nii tooteid. See võib olla kas 1 g, 1 ml, 1oz, 1 tk jne</string>
+<string name="hint_result_amount">Summa, mis tulenevad arvutamisel protsent algsest väärtusest.</string>
+<string name="hint_saved_amount">Summa raha, et teil on kokkuhoid ostes diskonteeritud hinnaga.</string>
+<string name="hint_saved_bigger">Rahasumma, et säästad ostes suurem toodet. Positiivne väärtus näitab, et suurem toode on parem tegeleda. Negatiivne väärtus näitab, et mida väiksem toode on parem tegeleda.</string>
+<string name="hint_simple_percent">Protsent, mida soovite arvutada välja "Initial value"</string>
+<string name="hint_small_price">Hind antud toodet.</string>
+<string name="hint_small_units">Osakute arv antud toote, see võib olla kas mahu, kaalu või arvu punkte konteinerisse.</string>
+<string name="hint_tip_amount">Summa tip olete nõus maksma.</string>
+<string name="hint_tip_percentage">Kulukuse tip soovite maksta.</string>
+<string name="hint_total_cost">Kogumaksumus laenu, sealhulgas lisanduvad intressid ja tasud.</string>
+<string name="hint_total_repay">Kokku summa, mis tuleb tagasi maksta laenuandjale.</string>
+<string name="hint_total_to_pay">Kogusumma, et sa pead (või taha) maksta, on võrdne arve pluss tip summa.</string>
+<string name="hint_would_cost">Hüpoteetiline hind suurem toodet eeldades selle ühikuhinna oli võrdne väiksem toode.</string>
+<string name="information_1">Kui näed tagasimakse või soodushinnaga samas shopping, saate vaadata, kui palju võite salvestada, või mida algne toote hind oli. Tegelikult saab arvutada ükskõik milline väärtus, jättes oma valdkonnas tühi. Sa pead lahkuma täpselt kaks väljad tühjaks. Kujutage ette, et teil on soodustus 25%, ja algne hind oli 299. peate täitma "enne" ja "allahindlus", et teada saada praeguse hinnaga ja kui palju säästate.</string>
+<string name="information_2">Tänu sellele lihtne tööriist, saate teada, kas osta suurem toodet säästab raha ja kui palju. Kujutage ette, et sul on jooki väike pudel (0,5 liitrit), mis maksab 2,79 ja suure pudeli (1,5 liitrit), mis maksab 7,49. Kumb on parem pakkumine? Kõik, mida vajame, on täita 4 Sisestusväljade ja vajuta "arvutada".</string>
+<string name="information_3">Kui näed tagasimakse või soodushinnaga samas shopping, saate vaadata, kui palju võite salvestada, või mida algne toote hind oli. Tegelikult saab arvutada ükskõik milline väärtus, jättes oma valdkonnas tühi. Sa pead lahkuma täpselt kaks väljad tühjaks. Kujutage ette, et teil on soodustus 25%, ja algne hind oli 299. peate täitma "enne" ja "allahindlus", et teada saada praeguse hinnaga ja kui palju säästate.</string>
+<string name="information_4">Tänu sellele lihtne tööriist, saate teada, kas osta suurem toodet säästab raha ja kui palju. Kujutage ette, et sul on jooki väike pudel (0,5 liitrit), mis maksab 2,79 ja suure pudeli (1,5 liitrit), mis maksab 7,49. Kumb on parem pakkumine? Kõik, mida vajame, on täita 4 Sisestusväljade ja vajuta "arvutada".</string>
+<string name="information_5">Kui teil on kavas võtta laenu oma ostude eest saab arvutada kõik kulud, samuti tõhusa (real) krediidi kulukuse määra. See toimib kahel erineval viisil. Esimeses tuleb sisestada nominaalne (aastane) krediidi kulukuse ette laenuandja ja taotluse arvutab summa igakuiste osamaksetena ning kogukuludest. Teises olekus, pead sisestama igakuise maksena (mõnikord esitatud kaupmees), ja taotlus arvutab kulukuse samuti kõik kulud.</string>
+<string name="initial_value">Algväärtus</string>
+<string name="instructions">Juhendid</string>
+<string name="leave_one_of_two">Jäta tühjaks üks: protsent, järelmaksuga. Vaata juhiseid.</string>
+<string name="leave_two_empty">Jäta täpselt kaks väljade tühjaks</string>
+<string name="LoanCalc">Kulud laenu</string>
+<string name="loan_amt">Laenusumma</string>
+<string name="menu_title">Mida sa tahad, et arvutada?</string>
+<string name="msg_from_dev">Sõnum arendaja</string>
+<string name="ok">Korras</string>
+<string name="opinion">Arvamus</string>
+<string name="other_fees">Muud tasud</string>
+<string name="payments">Hulga osamaksetena</string>
+<string name="payment_amount">Summa osamakse</string>
+<string name="percent">Protsent</string>
+<!-- as in percentage rate -->
+<string name="percentage">Protsent</string>
+<string name="price_unit">Hind ühiku kohta</string>
+<string name="question">Küsimus</string>
+<!-- imperative -->
+<string name="rate_app">Hinda seda rakendust!</string>
+<string name="regular_percent">Regulaarne protsenti</string>
+<string name="results">Tulemused</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Tulemus väärtus</string>
+<string name="saved_amount">Salvestatud summa</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Juhised kerige alla</string>
+<string name="send">Saatma</string>
+<string name="small_price">Hind</string>
+<string name="small_product">Väike toode</string>
+<string name="small_units">Units või kogus</string>
+<string name="submit">Arvutama</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Target summa</string>
+<string name="thanks">Aitäh!</string>
+<string name="tip">Summa vaevatasu</string>
+<string name="tip_amount">Summa vaevatasu</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Protsendimäär</string>
+<string name="total_cost">Kulud kokku</string>
+<string name="total_pay">Kokku maksma</string>
+<string name="total_repay">Kokku tagastama</string>
+<string name="would_cost">Hüpoteetiline kulu</string>
+</resources>

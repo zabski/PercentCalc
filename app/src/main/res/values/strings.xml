@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en"
+    tools:ignore="MissingTranslation">
+    <integer name="ads">3</integer>
+    <integer name="fb_ads">1</integer>
+    <integer name="log">0</integer>
+    <integer name="ad_destroy">1</integer>
+    <string name="ad_debug">gone</string>
+    <string name="admob_app_id">ca-app-pub-4402674240600002~2088645375</string>
+    <string name="admob_inter_id">ca-app-pub-4402674240600002/7022190976</string>
+    <string name="admob_banner_1">ca-app-pub-4402674240600002/3497352977</string>
+    <string name="admob_express_large_id">ca-app-pub-4402674240600002/1496435774</string>
+    <string name="admob_express_medium_id">ca-app-pub-4402674240600002/7834223771</string>
+    <string name="admob_express_small_id">ca-app-pub-4402674240600002/7042148179</string>
+    <string name="admob_express_small_id2">ca-app-pub-4402674240600002/7435235775</string>
+    <string name="facebook_app_id">303574029812951</string>
+    <string name="facebook_banner_id">303574029812951_315520421951645</string>
+    <string name="facebook_native_id">303574029812951_330406863796334</string>
+    <string name="facebook_inter_id">303574029812951_308626859307668</string>
+    <string name="amazon_app_id">8fa118947f124898a0e6a443222d737d</string>
+    <string name="remove_ads_item">perccalc_remove_ads</string>
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+    <string name="after_price">After Price</string>
+    <string name="annual_percent_rate">Annual Percentage Rate</string>       
+    <string name="app_name">Assistant of Shopping</string>
+    <string name="app_name2">Percentage Calculator</string>
+    <string name="before_price">Before Price</string>
+    <string name="big_product">Large Product</string>
+    <string name="bill_amount">Bill Amount</string>    
+	<string name="bug">Error</string>   
+    <string name="cancel">Cancel</string>
+    <string name="choose_currency">Choose currency</string>
+    <string name="clear">Clear All</string>
+    <string name="commission">Commission</string>
+    <string name="compare_result">Results of Comparison</string>
+	<string name="cost_percent">Cost as % of loan</string>
+    <string name="del">Delete</string>       
+    <string name="discount">Discount</string>
+    <string name="discount_rate">Discount rate</string>
+    <string name="feedback">Write to us</string>
+    <string name="feedback_prompt">Hi, would you like to give us some feedback so that we can improve your experience?</string>
+    <string name="fill_all_non_framed">You must fill all non-framed fields</string>   
+    <string name="fill_in">Please fill in all input fields</string>
+    <string name="fill_in_bill">You must fill in Bill Amount</string>
+    <string name="fill_in_compulsory">Please fill in all required fields</string> 
+    <string name="fill_in_xor">Leave exactly one field empty</string>
+    <string name="help_translate">Help translate this app</string>
+    <string name="hint_after_price">Price after discount. In other words, this is the lower price.</string>
+    <string name="hint_amount">The amount of your loan. Usually equal to price of the product you want to purchase. This field is required.</string>
+	<string name="hint_apr">Annual Percentage Rate (APR) - Effective annual interest rate of the loan including total cost.</string>
+    <string name="hint_before_price">Price before discount. In other words, this is the higher price.</string>
+    <string name="hint_bill_amount">The total amount to pay on your bill.</string>
+    <string name="hint_commission">Commission (or loan fee) as % of loan amount. If not known, leave blank.</string>
+    <string name="hint_cost_percent">Total cost (as above) expressed as percent of loan amount.</string>
+    <string name="hint_discount_rate">This is rate of discount as percentage.</string>
+    <string name="hint_initial_amount">The initial amount from which percentage will be (or was) calculated.</string>
+    <string name="hint_install">Usually equal to the number of monthly payments. This field is required.</string>    
+    <string name="hint_interest">What is the nominal (annual) interest rate of your loan? If this field is left blank, you will need to fill in "Installment Amount"</string>
+    <string name="hint_other_fees">All other fees that are not dependent on loan amount. If not known, leave blank.</string>
+    <string name="hint_payment">The amount of each of your (monthly) installment. You do not need to fill in this field, unless you left "Percentage rate" blank. If left blank, it will be calculated after pressing the button.</string>
+	<string name="hint_price_of_unit">Prices of one unit for both products. It can be either 1g, 1ml, 1oz, 1 item etc.</string>
+    <string name="hint_result_amount">The amount that results from calculating percentage of initial value.</string>
+    <string name="hint_saved_amount">The amount of money that you are saving by buying at discounted price.</string>
+    <string name="hint_saved_bigger">Amount of money that you will save by buying the bigger product. Positive value indicates bigger product is a better deal, negative value indicates smaller product is a better deal.</string>
+    <string name="hint_simple_percent">Percentage that you want to calculate out of "Initial Value"</string>
+	<string name="hint_small_price">The price of the given product.</string>    
+	<string name="hint_small_units">Number of units in the given product, it can be either volume, weight or number of items in container.</string>
+    <string name="hint_tip_amount">The amount of tip you are willing to pay.</string>
+    <string name="hint_tip_percentage">Percentage rate of the tip you want to pay.</string>
+    <string name="hint_total_cost">Total cost of the loan, Including compound interest and all fees.</string>
+    <string name="hint_total_repay">Total amount that will need to be repaid to the lender.</string>
+    <string name="hint_total_to_pay">Total amount that you need (or want) to pay, equal to bill plus tip amount.</string>
+    <string name="hint_would_cost">Hypothetical price of the bigger product assuming its price per unit was equal to that of the smaller product.</string>
+    <string name="info">Information</string> 
+    <string name="information_1">With this easy tool you can calculate simple percentage of a number. You can find either of the three values by leaving this field blank. For example, you what to know, of what number 7% is equal to 35. You will need to fill "Percentage" (with 7) and "Result" (with 35). Click "Calculate", The "Initial Amount" will show value that was looked for. The same can be done for each of the fields. The result will be encircled by a blue frame.</string>
+<string name="information_2">It lets you calculate the amount of tip and full amount to pay in a bar or restaurant. You will need to enter value of the bill received, that you received. Out of the remaining fields, you need to fill just one, leaving exactly two empty. For example, you received a bill for 46, but you only have a banknote of 50. You need to fill "Total to Pay" with 50 and press "Calculate". Tip amount and percentage value of your tip will be displayed. This can be done for any two fields. All result values are encircled with blue frames.</string>
+<string name="information_3">Anytime you see a sale or discount offer while shopping, you can check how much you can save, or what the original price of the product was. In fact, you can calculate any of the values by leaving their fields empty. You have to leave exactly two fields empty. Let\'s say you have a discount of 25%, and the original price was 299. You need to fill "Before Price" and "Discount rate" to find out the current price and how much you will save.</string>
+<string name="information_4">Here you can find out whether buying a bigger product will save you some money and how much. Imagine you have a drink in a small bottle (0.5l) for 3.49 and a large bottle (1.5l) for 7.99. Which one is a better deal? All you need is to fill 4 input fields and press "Calculate".</string>
+<string name="information_5">If you plan to take a loan for your purchases, you can calculate all costs involved as well as effective (real) Annual Percentage Rate. It works in two modes. In the first, you need to enter nominal (annual) percentage rate provided by the lender and the application will calculate amount of monthly installments as well as total costs. In the second mode, you need to enter amount of monthly installment (sometimes presented by a merchant), and the application will calculate annual percentage as well as all costs.</string>          	
+    <string name="initial_value">Initial value</string>    
+    <string name="instructions">Instructions</string>
+    <string name="leave_one_of_two">Leave empty one of: Percentage, Installment Amount. See instructions below.</string>
+    <string name="leave_two_empty">Leave exactly two fields empty</string>   
+    <string name="LoanCalc">Costs of loan</string>
+    <string name="loan_amt">Amount of Loan</string>
+    <string name="menu_title">What do you want to calculate?</string>
+    <string name="msg_from_dev">Message from developer</string>
+    <string name="ok">OK</string>  		
+    <string name="opinion">Opinion</string>
+    <string name="other_fees">Other Fees</string>
+    <string name="payments">Number of installments</string>
+    <string name="payment_amount">Installment Amount</string>    
+    <string name="percent">Percent</string>
+    <string name="percentage">Percentage</string>
+    <string name="price_unit">Price per Unit</string>
+    <string name="question">Question</string>
+    <string name="rate_app">Rate this app!</string>    
+    <string name="regular_percent">Simple Percent</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="results">Results</string>
+    <!-- value being a result of some calculations -->
+    <string name="result_amount">Result Value</string>
+    <string name="result_value">Result Value</string>
+    <string name="saved_amount">Saved Amount</string>        
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">For instructions scroll down</string>
+    <string name="send">Send</string>
+    <string name="small_price">Price</string>    
+    <string name="small_product">Small Product</string>
+    <string name="small_units">Units or Quantity</string>
+    <string name="submit">Calculate</string>
+    <string name="target_amount">Target Amount</string>    
+    <string name="thanks">Thank you!</string>
+    <string name="tip">Tip</string>
+    <string name="tip_amount">Tip Amount</string>
+    <!-- percentage rate of a tip -->
+    <string name="tip_percentage">Tip Percentage Rate</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="total_pay">Total to Pay</string>   
+
+ 
+	    
+	<string name="loan_costs">Costs of loan</string>
+	
+	<string name="total_repay">Total to repay</string>
+    <string name="would_cost">Would be cost</string>	
+    <string name="currency"></string>
+	<!-- Time descriptive forms -->
+    <string name="years">years</string>
+    <string name="months">months</string>    
+    <string name="days">days</string>
+    <string-array name="kapitalizacja">
+        <item>Daily</item>
+        <item>Weekly</item>        
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <item>Semiannual</item>
+        <item>Yearly</item>
+    </string-array>   
+     
+    <string-array name="okres">
+        <item>@string/months</item>
+        <item>@string/years</item>
+    </string-array>     	    	
+	<!--
+    <string name="pre_currency"></string>   
+    <string name="ok">OK</string>  		
+    <string name="cancel">Cancel</string-->
+    <!-- Below are UI action options, and should be in imperative form -->	  		
+    
+    <!-- 
+       <string name="settings">Settings</string> 
+    <string name="required_period">Required period of saving</string>
+        <string name="leave_one_empty">Leave one field empty in each section</string>
+    
+        <string name="hint_big_units">Number of units in the bigger product, it can be either volume, weight or number of items in container.</string>
+    <string name="hint_big_price">The price of the bigger product.</string>
+        <string name="hint_compounded">Period at which the interest of your savings is added to the principal amount. It depends on your bank and/or pension/saving plan regulation. May take values: yearly, monthly and daily.</string>
+        <string name="hint_deposit">How much can you deposit to your saving account each month?</string>
+    <string name="hint_dep_period">How often will you deposit money to your saving account?</string>
+    <string name="hint_principal">How much do you have now?</string>
+    <string name="hint_target">How much do you want to save?</string>
+    <string name="hint_period">How long do you plan to save?</string>
+    <string name="hint_percent">At what percentage rate will you save? If you fill this field, you must leave "Installment amount" blank.</string>
+    
+       	<string name="show">Show</string>
+   	<string name="go">Go</string>
+    <string name="exit">Exit</string>	
+        <string name="period">Period of saving</string>
+    <string name="saving">Monthly deposit</string>    
+    <string name="capitalization">Interest compounded</string>
+    <string name="deposit_period">Frequency of deposits</string>
+        <string name="total_deposit">Total Deposit</string>
+        <string name="saved_amount">Saved Amount</string>
+	<string name="title_activity_loan_calc">LoanCalc</string>
+	<string name="enter_here">here</string>      
+    <string name="need_percentage">You need to save at percentage rate (per year)</string>
+    <string name="need_gain">You need to earn</string>       
+    <string name="period_deposit">Each period you need to save</string>
+    <string name="total">Saved Amount</string>
+    <string name="profit">Profit / as % of total deposit</string> 	
+    <string name="each_month">(to be paid each month)</string>
+        <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>   
+	<string name="profit_percent">as % of total depoist</string>    	
+    <string name="that_is">that is</string>
+    <string name="of_deposit">of total deposit</string>            
+    <string name="config">Config</string>
+    <string name="help">Help</string>
+    <string name="month">month</string>       
+	-->
+		<!-- Activity titles 
+    <string name="deposit_calc">Calculate deposit amount</string>
+    <string name="savings_calc">Calculate savings amount</string>
+    <string name="period_calc">Calculate saving period</string>
+    <string name="intrest_calc">Calculate interest rate</string>
+    <string name="loan_calc">Calculate loan installments</string>  
+    -->
+	 
+<string-array name="symbols">
+<item>$</item>
+<item>€</item>
+<item>£</item>
+<item>¥</item>
+<item>元</item>
+<item>₹</item>
+<item>₩</item>
+<item>ل.س</item>
+<item>ج.م</item>
+<item>.د.ب</item>
+<item>؋</item>
+<item>৳</item>
+<item>฿</item>
+<item>៛</item>
+<item>₡</item>
+<item>₦</item>
+<item>₪</item>
+<item>₫</item>
+<item>₭</item>
+<item>₮</item>
+<item>₱</item>
+<item>₲</item>
+<item>₴</item>
+<item>₵</item>
+<item>Ar</item>
+<item>B/.</item>
+<item>Br</item>
+<item>Bs F</item>
+<item>Bs.</item>
+<item>C$</item>
+<item>D</item>
+<item>Db</item>
+<item>Esc</item>
+<item>Fr</item>
+<item>ƒ</item>
+<item>ƒ</item>
+<item>G</item>
+<item>K</item>
+<item>Kč</item>
+<item>KM</item>
+<item>kn</item>
+<item>kr</item>
+<item>Kz</item>
+<item>L</item>
+<item>Le</item>
+<item>Ls</item>
+<item>Lt</item>
+<item>m</item>
+<item>MK</item>
+<item>MTn</item>
+<item>Nfk</item>
+<item>Nu.</item>
+<item>P</item>
+<item>Q</item>
+<item>R</item>
+<item>R$</item>
+<item>RM</item>
+<item>Rp</item>
+<item>₨</item>
+<item>S/.</item>
+<item>Sh</item>
+<item>T</item>
+<item>T$</item>
+<item>TL</item>
+<item>UM</item>
+<item>Vt</item>
+<item>ZK</item>
+<item>zł</item>
+<item>ден</item>
+<item>дин.</item>
+<item>din.</item>
+<item>ЅМ</item>
+<item>лв</item>
+<item>р.</item>
+<item>ლ</item>
+<item>դր.</item>
+<item>դր.</item>
+<item>د.إ</item>
+<item>د.ا</item>
+<item>د.ت</item>
+<item>د.ج</item>
+<item>د.ك</item>
+<item>د.م.</item>
+<item>ر.س</item>
+<item>ر.ع.</item>
+<item>ر.ق</item>
+<item>﷼</item>
+<item>﷼</item>
+<item>ع.د</item>
+<item>ل.د</item>
+<item>ل.ل</item>
+<item>ރ.</item>
+<item>₸</item>
+</string-array>
+</resources>

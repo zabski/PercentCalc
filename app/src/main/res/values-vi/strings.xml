@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Giá sau</string>
+<string name="annual_percent_rate">Tỷ lệ Tỷ lệ hàng năm</string>
+<string name="app_name">Tính tỷ lệ phần trăm</string>
+<string name="app_name2">Tỷ lệ phần trăm và giảm giá</string>
+<string name="app_name3">Tính các khoản chiết khấu</string>
+<string name="app_name4">Tính tỷ lệ phần trăm và giảm giá</string>
+<string name="before_price">Giá trước</string>
+<string name="big_product">Sản phẩm lớn</string>
+<string name="bill_amount">Số tiền nhận</string>
+<string name="bug">Lỗi</string>
+<string name="cancel">Hủy bỏ</string>
+<string name="choose_currency">Chọn loại tiền tệ</string>
+<string name="clear">Xóa tất cả</string>
+<string name="commission">Hoa hồng</string>
+<string name="compare_result">Kết quả so sánh</string>
+<string name="cost_percent">Chi phí theo phần trăm của khoản vay</string>
+<string name="del">Xóa bỏ</string>
+<string name="discount">Giảm giá</string>
+<string name="discount_rate">Tỷ lệ chiết khấu</string>
+<string name="feedback">Viết thư cho chúng tôi!</string>
+<string name="feedback_prompt">Hi, bạn muốn cung cấp cho chúng tôi một số thông tin phản hồi để chúng tôi có thể cải thiện kinh nghiệm của bạn?</string>
+<string name="fill_all_non_framed">Bạn phải điền vào tất cả các lĩnh vực không được đóng khung</string>
+<string name="fill_in">Hãy điền vào tất cả các lĩnh vực đầu vào</string>
+<string name="fill_in_bill">Bạn phải điền vào: Số tiền nhận</string>
+<string name="fill_in_compulsory">Hãy điền vào tất cả các lĩnh vực cần thiết</string>
+<string name="fill_in_xor">Để lại chính xác một lĩnh vực có sản phẩm nào</string>
+<string name="help_translate">Giúp dịch sang ứng dụng này</string>
+<string name="hint_after_price">Giá sau khi giảm giá. Nói cách khác, đây là mức giá thấp hơn.</string>
+<string name="hint_amount">Các khoản tiền cho vay của bạn. Thường bằng với giá của sản phẩm, mà bạn muốn mua. Lĩnh vực này là cần thiết.</string>
+<string name="hint_apr">Tỷ lệ hàng năm Tỷ lệ phần trăm (APR) - Lãi suất năm thực tế của khoản vay, bao gồm tổng chi phí.</string>
+<string name="hint_before_price">Giá chưa tính hạ giá. Nói cách khác, đây là mức giá cao hơn.</string>
+<string name="hint_bill_amount">Tổng số tiền phải trả khi nhận của bạn.</string>
+<string name="hint_commission">Ủy ban (hoặc phí vay) là tỷ lệ phần trăm của khoản vay. Nếu không biết, để trống.</string>
+<string name="hint_cost_percent">Tổng chi phí (như trên) thể hiện như tỷ lệ cho vay.</string>
+<string name="hint_discount_rate">Đây là tỷ lệ chiết khấu là tỷ lệ phần trăm.</string>
+<string name="hint_initial_amount">Số tiền ban đầu mà từ đó tỷ lệ phần trăm sẽ được (hay là) tính toán.</string>
+<string name="hint_install">Thường bằng với số tiền trả hàng tháng. Lĩnh vực này là cần thiết.</string>
+<string name="hint_interest">Danh nghĩa (hàng năm) lãi suất cho vay của bạn là gì? Nếu lĩnh vực này được để trống, bạn sẽ cần phải điền vào "góp"</string>
+<string name="hint_other_fees">Tất cả các chi phí khác mà không phải phụ thuộc vào các khoản tiền cho vay. Nếu không biết, để trống.</string>
+<string name="hint_payment">Số tiền của mỗi bạn (hàng tháng) trả góp. Bạn không cần phải điền vào lĩnh vực này, trừ khi bạn rời "Tỷ lệ" trống. Nếu để trống, nó sẽ được tính sau khi nhấn nút.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Giá của một đơn vị cho cả hai sản phẩm. Nó có thể là 1g, 1ml, 1oz, 1 item vv</string>
+<string name="hint_result_amount">Số tiền mà là kết quả từ việc tính toán tỷ lệ phần trăm của giá trị ban đầu.</string>
+<string name="hint_saved_amount">Số tiền mà bạn đang tiết kiệm bằng cách mua tại mức giá giảm giá.</string>
+<string name="hint_saved_bigger">Số tiền mà bạn sẽ tiết kiệm bằng cách mua các sản phẩm lớn hơn. Giá trị tích cực cho thấy, các sản phẩm lớn hơn là một thỏa thuận tốt hơn. Giá trị âm cho thấy, các sản phẩm nhỏ hơn là một thỏa thuận tốt hơn.</string>
+<string name="hint_simple_percent">Tỷ lệ phần trăm, mà bạn muốn tính toán ra các "giá trị ban đầu"</string>
+<string name="hint_small_price">Giá của các sản phẩm nhất định.</string>
+<string name="hint_small_units">Số đơn vị trong các sản phẩm nhất định, nó có thể là khối lượng, trọng lượng hoặc số lượng các mặt hàng trong container.</string>
+<string name="hint_tip_amount">Lượng mẹo mà bạn sẵn sàng trả.</string>
+<string name="hint_tip_percentage">Tỷ lệ phần trăm của các mẹo mà bạn muốn trả.</string>
+<string name="hint_total_cost">Tổng chi phí của khoản vay, kể cả lãi suất kép và tất cả các chi phí.</string>
+<string name="hint_total_repay">Tổng số tiền mà sẽ cần phải được hoàn trả cho người cho vay.</string>
+<string name="hint_total_to_pay">Tổng số tiền mà bạn cần (hoặc muốn) để thanh toán, bằng vào hóa đơn cộng với số tiền tip.</string>
+<string name="hint_would_cost">Giá giả của sản phẩm lớn hơn giả định giá của nó trên một đơn vị là tương đương với các sản phẩm nhỏ hơn.</string>
+<string name="information_1">Bất cứ khi nào bạn nhìn thấy một khoản giảm giá hoặc giảm giá khi mua sắm, bạn có thể kiểm tra, có bao nhiêu bạn có thể tiết kiệm, hoặc những gì giá gốc của sản phẩm là. Trong thực tế, bạn có thể tính toán bất kỳ giá trị bằng cách rời khỏi lĩnh vực của họ trống rỗng. Bạn có để lại hai lĩnh vực chính xác rỗng. Hãy tưởng tượng, bạn có một mức chiết khấu 25%, và giá gốc là 299. Bạn cần phải điền vào "trước" và "giảm giá" để tìm ra mức giá hiện tại và bao nhiêu bạn sẽ tiết kiệm được.</string>
+<string name="information_2">Nhờ công cụ này dễ dàng, bạn có thể tìm hiểu xem liệu việc mua một sản phẩm lớn hơn sẽ giúp bạn tiết kiệm một số tiền và bao nhiêu. Hãy tưởng tượng, bạn có một thức uống trong một chai nhỏ (0,5 lít) có giá 2,79 và một chai lớn (1,5 lít) có giá 7.49. Mà một trong những là một đề nghị tốt hơn? Tất cả bạn cần là để điền vào 4 lĩnh vực đầu vào và nhấn "tính toán".</string>
+<string name="information_3">Bất cứ khi nào bạn nhìn thấy một khoản giảm giá hoặc giảm giá khi mua sắm, bạn có thể kiểm tra, có bao nhiêu bạn có thể tiết kiệm, hoặc những gì giá gốc của sản phẩm là. Trong thực tế, bạn có thể tính toán bất kỳ giá trị bằng cách rời khỏi lĩnh vực của họ trống rỗng. Bạn có để lại hai lĩnh vực chính xác rỗng. Hãy tưởng tượng, bạn có một mức chiết khấu 25%, và giá gốc là 299. Bạn cần phải điền vào "trước" và "giảm giá" để tìm ra mức giá hiện tại và bao nhiêu bạn sẽ tiết kiệm được.</string>
+<string name="information_4">Nhờ công cụ này dễ dàng, bạn có thể tìm hiểu xem liệu việc mua một sản phẩm lớn hơn sẽ giúp bạn tiết kiệm một số tiền và bao nhiêu. Hãy tưởng tượng, bạn có một thức uống trong một chai nhỏ (0,5 lít) có giá 2,79 và một chai lớn (1,5 lít) có giá 7.49. Mà một trong những là một đề nghị tốt hơn? Tất cả bạn cần là để điền vào 4 lĩnh vực đầu vào và nhấn "tính toán".</string>
+<string name="information_5">Nếu bạn có kế hoạch để có một khoản vay cho mua hàng của bạn, bạn có thể tính toán tất cả các chi phí liên quan cũng như hiệu quả (thực) thường niên Percentage Rate. Nó hoạt động ở hai chế độ. Trong lần đầu tiên, bạn cần phải nhập danh nghĩa (hàng năm) tỷ lệ phần trăm được cung cấp bởi người cho vay và ứng dụng sẽ tính toán số tiền trả góp hàng tháng cũng như tổng chi phí. Trong chế độ thứ hai, bạn cần nhập số lượng góp hàng tháng (đôi khi được trình bày bởi một thương gia), và các ứng dụng sẽ tính toán tỷ lệ phần trăm hàng năm cũng như tất cả các chi phí.</string>
+<string name="initial_value">Giá trị ban đầu</string>
+<string name="instructions">Hướng dẫn</string>
+<string name="leave_one_of_two">Để lại một sản phẩm nào của: tỷ lệ phần trăm, trả góp. Xem hướng dẫn bên dưới.</string>
+<string name="leave_two_empty">Để lại đúng hai lĩnh vực có sản phẩm nào</string>
+<string name="LoanCalc">Chi phí cho vay</string>
+<string name="loan_amt">Số tiền cho vay</string>
+<string name="menu_title">Điều gì làm bạn muốn tính toán?</string>
+<string name="msg_from_dev">Thông điệp từ nhà phát triển</string>
+<string name="ok">Tốt</string>
+<string name="opinion">Ý kiến</string>
+<string name="other_fees">Các chi phí khác</string>
+<string name="payments">Số lần</string>
+<string name="payment_amount">Số tiền trả góp</string>
+<string name="percent">Phần trăm</string>
+<!-- as in percentage rate -->
+<string name="percentage">Tỷ lệ phần trăm</string>
+<string name="price_unit">Giá cho mỗi đơn vị</string>
+<string name="question">Câu hỏi</string>
+<!-- imperative -->
+<string name="rate_app">Xếp hạng ứng dụng này!</string>
+<string name="regular_percent">Thường xuyên phần trăm</string>
+<string name="results">Kết quả</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Giá trị kết quả</string>
+<string name="saved_amount">Tiền tiết kiệm</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Để được hướng dẫn di chuyển xuống</string>
+<string name="send">Gởi</string>
+<string name="small_price">Giá</string>
+<string name="small_product">Sản phẩm nhỏ</string>
+<string name="small_units">Các đơn vị, số lượng</string>
+<string name="submit">Tính toán</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Số lượng mục tiêu</string>
+<string name="thanks">Cảm ơn bạn!</string>
+<string name="tip">Số tiền Tip</string>
+<string name="tip_amount">Số tiền Tip</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Tỷ lệ phần trăm</string>
+<string name="total_cost">Tổng chi phí</string>
+<string name="total_pay">Tổng số trả</string>
+<string name="total_repay">Tổng số trả nợ</string>
+<string name="would_cost">Chi phí giả</string>
+</resources>

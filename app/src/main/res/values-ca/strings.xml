@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Preu després</string>
+<string name="annual_percent_rate">Taxa de Percentatge anual</string>
+<string name="app_name">Calculadora de percentatge</string>
+<string name="app_name2">Percentatge i descomptes</string>
+<string name="app_name3">Calculadora de descomptes</string>
+<string name="app_name4">Calculadora de percentatge i descomptes</string>
+<string name="before_price">Preu abans</string>
+<string name="big_product">Gran producte</string>
+<string name="bill_amount">Quantitat de recepció</string>
+<string name="bug">Error</string>
+<string name="cancel">Cancel·la</string>
+<string name="choose_currency">Triar moneda</string>
+<string name="clear">Esborrar tots</string>
+<string name="commission">Comissió</string>
+<string name="compare_result">Resultats de la comparació</string>
+<string name="cost_percent">Cost com a percentatge del préstec</string>
+<string name="del">Esborrar</string>
+<string name="discount">Descompte</string>
+<string name="discount_rate">Taxa de descompte</string>
+<string name="feedback">Escriu-nos!</string>
+<string name="feedback_prompt">Hola, t\'agradaria que ens doni alguna informació perquè puguem millorar la seva experiència?</string>
+<string name="fill_all_non_framed">Ha d\'omplir tots els camps no emmarcat</string>
+<string name="fill_in">Si us plau, ompli tots els camps d\'entrada</string>
+<string name="fill_in_bill">Ha d\'omplir: Quantitat de recepció</string>
+<string name="fill_in_compulsory">Si us plau, ompli tots els camps requerits</string>
+<string name="fill_in_xor">Deixa exactament un camp buit</string>
+<string name="help_translate">Ajudeu a traduir aquesta aplicació</string>
+<string name="hint_after_price">Preu després del descompte. En altres paraules, aquest és el preu més baix.</string>
+<string name="hint_amount">La quantitat del seu préstec. En general, igual al preu del producte, el que vostè vol comprar. Aquest camp és obligatori.</string>
+<string name="hint_apr">Taxa de Percentatge anual (APR) - Taxa d\'interès anual efectiva del préstec, incloent el cost total.</string>
+<string name="hint_before_price">Preu sense descompte. En altres paraules, aquest és el preu més alt.</string>
+<string name="hint_bill_amount">L\'import total a pagar en la seva rebut.</string>
+<string name="hint_commission">Comissió (o quota del préstec) com a percentatge del préstec. Si no el coneix, deixi en blanc.</string>
+<string name="hint_cost_percent">Cost total (com anteriorment) expressada com a percentatge de préstec.</string>
+<string name="hint_discount_rate">Aquesta és la taxa de descompte en percentatge.</string>
+<string name="hint_initial_amount">L\'import inicial de la qual el percentatge serà (o era) calculat.</string>
+<string name="hint_install">En general, igual a la quantitat de pagaments mensuals. Aquest camp és obligatori.</string>
+<string name="hint_interest">Quina és la taxa d\'interès nominal (anual) del seu préstec? Si aquest camp es deixa en blanc, haurà d\'omplir "Quota"</string>
+<string name="hint_other_fees">Tots els altres càrrecs que no depenen de la quantitat de préstec. Si no el coneix, deixi en blanc.</string>
+<string name="hint_payment">L\'import de cadascuna de les seves quotes (mensuals). No cal omplir aquest camp, a menys que et vas "Percentatge" en blanc. Si es deixa en blanc, es calcula després de prémer el botó.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Els preus d\'una unitat per a tots dos productes. Pot ser 1 g, 1 ml, 1 oz, 1 element etc.</string>
+<string name="hint_result_amount">La quantitat que es resulti de calcular el percentatge del valor inicial.</string>
+<string name="hint_saved_amount">La quantitat de diners que vostè està estalviant mitjançant la compra a preu de descompte.</string>
+<string name="hint_saved_bigger">Quantitat de diners que va a estalviar comprant el producte més gran. Valor positiu indica que el producte més gran és un millor tracte. Valor negatiu indica que el producte més petit és un millor tracte.</string>
+<string name="hint_simple_percent">Percentatge, que desitja calcular de "Valor inicial"</string>
+<string name="hint_small_price">El preu del producte donat.</string>
+<string name="hint_small_units">Nombre d\'unitats del producte donat, pot ser tant volum, pes o nombre d\'articles en contenidors.</string>
+<string name="hint_tip_amount">La quantitat de punta que estan disposats a pagar.</string>
+<string name="hint_tip_percentage">Percentatge de la punta que voleu pagar.</string>
+<string name="hint_total_cost">El cost total del préstec, incloent interessos compostos i tots els càrrecs.</string>
+<string name="hint_total_repay">Import total que haurà de ser reintegrada a l\'entitat creditícia.</string>
+<string name="hint_total_to_pay">La quantitat total que vostè necessita (o vol) per pagar, igual al Tresor més propina.</string>
+<string name="hint_would_cost">Preu hipotètic del producte més gran assumint el seu preu per unitat era igual a la del producte més petit.</string>
+<string name="information_1">Cada vegada que vegi una rebaixa o descompte en anar de compres, es pot comprovar, quant pot estalviar, o el que el preu original del producte era. De fet, es pot calcular qualsevol dels valors deixant els seus camps buits. Has de sortir exactament dos camps buits. Imagina que tens un descompte del 25%, i el preu original de 299. Cal omplir "abans" i "descompte" per esbrinar el preu actual i quant va a estalviar.</string>
+<string name="information_2">Gràcies a aquesta senzilla eina, vostè pot saber si la compra d\'un producte més gran que li estalviarà una mica de diners i quant. Imagina que tens una beguda en una ampolla petita (0,5 litres), que costa 2,79 i una ampolla gran (1,5 litres), que costa 7,49. Quina és la millor oferta? Tot el que necessites és omplir abril camps d\'entrada i premi "calcular".</string>
+<string name="information_3">Cada vegada que vegi una rebaixa o descompte en anar de compres, es pot comprovar, quant pot estalviar, o el que el preu original del producte era. De fet, es pot calcular qualsevol dels valors deixant els seus camps buits. Has de sortir exactament dos camps buits. Imagina que tens un descompte del 25%, i el preu original de 299. Cal omplir "abans" i "descompte" per esbrinar el preu actual i quant va a estalviar.</string>
+<string name="information_4">Gràcies a aquesta senzilla eina, vostè pot saber si la compra d\'un producte més gran que li estalviarà una mica de diners i quant. Imagina que tens una beguda en una ampolla petita (0,5 litres), que costa 2,79 i una ampolla gran (1,5 litres), que costa 7,49. Quina és la millor oferta? Tot el que necessites és omplir abril camps d\'entrada i premi "calcular".</string>
+<string name="information_5">Si vostè planeja prendre un préstec per a les seves compres, es pot calcular tots els costos involucrats, així com efectius (real) Taxa de Percentatge anual. Funciona en dues maneres. En el primer, cal introduir nominal taxa de percentatge (anual) proporcionat pel prestador i l\'aplicació calcularà la quantitat de quotes mensuals, així com els costos totals. En el segon mode, cal ingressar una quantitat de quota mensual (de vegades presentat per un comerciant), i l\'aplicació calcularà el percentatge anual, així com totes les despeses.</string>
+<string name="initial_value">Valor inicial</string>
+<string name="instructions">Instruccions</string>
+<string name="leave_one_of_two">Deixa un buit de: percentatge, a terminis. Vegeu les instruccions de sota.</string>
+<string name="leave_two_empty">Deixa exactament dos camps buits</string>
+<string name="LoanCalc">Els costos de préstec</string>
+<string name="loan_amt">Quantia del préstec</string>
+<string name="menu_title">Què vols per calcular?</string>
+<string name="msg_from_dev">Missatge del desenvolupador</string>
+<string name="ok">OKAY</string>
+<string name="opinion">Opinió</string>
+<string name="other_fees">Altres càrrecs</string>
+<string name="payments">Nombre de quotes</string>
+<string name="payment_amount">Suma de la quota</string>
+<string name="percent">Per cent</string>
+<!-- as in percentage rate -->
+<string name="percentage">Percentatge</string>
+<string name="price_unit">Preu per unitat</string>
+<string name="question">Pregunta</string>
+<!-- imperative -->
+<string name="rate_app">Valoreu aquesta aplicació!</string>
+<string name="regular_percent">Cent regulars</string>
+<string name="results">Resultats</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Valor Resultat</string>
+<string name="saved_amount">Quantitat Saved</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Per obtenir instruccions desplaceu-vos cap avall</string>
+<string name="send">Enviar</string>
+<string name="small_price">Preu</string>
+<string name="small_product">Petit producte</string>
+<string name="small_units">Les participacions o quantitat</string>
+<string name="submit">Calcular</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Import objectiu</string>
+<string name="thanks">Gràcies!</string>
+<string name="tip">Suma de la gratuïtat</string>
+<string name="tip_amount">Suma de la gratuïtat</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Taxa de percentatge</string>
+<string name="total_cost">Cost total</string>
+<string name="total_pay">Total a pagar</string>
+<string name="total_repay">Total a pagar</string>
+<string name="would_cost">Cost hipotètic</string>
+</resources>

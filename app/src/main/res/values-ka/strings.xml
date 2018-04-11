@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">ფასი შემდეგ</string>
+<string name="annual_percent_rate">წლიური საპროცენტო განაკვეთი</string>
+<string name="app_name">კალკულატორი პროცენტული</string>
+<string name="app_name2">პროცენტული და ფასდაკლებები</string>
+<string name="app_name3">კალკულატორი ფასდაკლება</string>
+<string name="app_name4">კალკულატორი პროცენტული და ფასდაკლებები</string>
+<string name="before_price">ფასი ადრე</string>
+<string name="big_product">დიდი პროდუქტი</string>
+<string name="bill_amount">თანხის მიღების</string>
+<string name="bug">შეცდომა</string>
+<string name="cancel">გაუქმება</string>
+<string name="choose_currency">აირჩიეთ ვალუტა</string>
+<string name="clear">წმინდა ყველა</string>
+<string name="commission">კომისიის</string>
+<string name="compare_result">შედარების შედეგები</string>
+<string name="cost_percent">ღირებულება პროცენტი სესხის</string>
+<string name="del">წაშლა</string>
+<string name="discount">ფასდაკლება</string>
+<string name="discount_rate">განაკვეთი ფასდაკლება</string>
+<string name="feedback">მოგვწერეთ!</string>
+<string name="feedback_prompt">Hi, გსურთ, რომ მოგვცეს გარკვეული კავშირი ისე, რომ ჩვენ შეგვიძლია გააუმჯობესოს თქვენი გამოცდილება?</string>
+<string name="fill_all_non_framed">თქვენ უნდა შეავსოთ ყველა კარკასის მდგომარეობაში სფეროებში</string>
+<string name="fill_in">გთხოვთ შეავსოთ ყველა შეყვანის სფეროებში</string>
+<string name="fill_in_bill">თქვენ უნდა შეავსოთ თანხა მიღების</string>
+<string name="fill_in_compulsory">გთხოვთ შეავსოთ ყველა აუცილებელი ველი</string>
+<string name="fill_in_xor">დატოვე ზუსტად ერთი ველი ცარიელი</string>
+<string name="help_translate">თარგმნე ეს პროგრამა</string>
+<string name="hint_after_price">ფასი შემდეგ ფასდაკლებით. სხვა სიტყვებით, ეს არის იაფად.</string>
+<string name="hint_amount">თანხა თქვენი სესხის. როგორც წესი, ტოლია ფასი პროდუქტი, რომელიც თქვენ გსურთ შეიძინოთ. ამ სფეროში აუცილებელია.</string>
+<string name="hint_apr">წლიური განაკვეთი (APR) - ეფექტური საპროცენტო განაკვეთის შესახებ, მათ შორის, საერთო ღირებულება.</string>
+<string name="hint_before_price">ფასი ადრე ფასდაკლება. სხვა სიტყვებით, ეს არის მაღალი ფასი.</string>
+<string name="hint_bill_amount">საერთო თანხა უნდა გადაიხადოს თქვენი ქვითარი.</string>
+<string name="hint_commission">კომისიის (ან სესხის გადასახადი) წილი სესხი. თუ არ არის ცნობილი, დატოვეთ ცარიელი.</string>
+<string name="hint_cost_percent">საერთო ღირებულება (როგორც ზემოთ) გამოთქვა როგორც პროცენტი სესხის.</string>
+<string name="hint_discount_rate">ეს არის კურსი ფასდაკლებით პროცენტული.</string>
+<string name="hint_initial_amount">საწყისი თანხა, რომლის პროცენტული იქნება (ან იყო) გათვლილი.</string>
+<string name="hint_install">როგორც წესი, ტოლია რაოდენობის ყოველთვიური თანხის გადახდის. ამ სფეროში აუცილებელია.</string>
+<string name="hint_interest">რა არის ნომინალური (წლიური) საპროცენტო განაკვეთი სესხის? თუ ეს ველი არ ცარიელი, თქვენ უნდა შეავსოთ "განვადებით"</string>
+<string name="hint_other_fees">ყველა სხვა საზღაური, რომელიც არ არის დამოკიდებული სესხი. თუ არ არის ცნობილი, დატოვეთ ცარიელი.</string>
+<string name="hint_payment">თანხა თითოეული თქვენი (ყოველთვიური) განვადებით. თქვენ არ უნდა შეავსოთ ეს ველი, თუ თქვენ არ დატოვა "პროცენტული" ცარიელი. თუ მარცხენა ცარიელი, იქნება გათვლილი შემდეგ დაჭერით ღილაკს.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">ფასები ერთი ერთეული ორივე პროდუქცია. ეს შეიძლება იყოს 1g, 1 მლ, 1oz, 1 ცალი ა.შ.</string>
+<string name="hint_result_amount">თანხა, რომელიც შედეგად გაანგარიშების პროცენტული თავდაპირველი ღირებულება.</string>
+<string name="hint_saved_amount">თანხა, რომ თქვენ გადარჩენის ყიდვა დროს დისკონტირებული ფასი.</string>
+<string name="hint_saved_bigger">თანხა, რომ თქვენ დაზოგავთ ყიდვით უფრო დიდი პროდუქტი. დადებითი ღირებულება მიუთითებს, რომ დიდი პროდუქტი უკეთესი გარიგება. უარყოფითი მნიშვნელობა მიუთითებს, რომ პატარა პროდუქტი უკეთესი გარიგება.</string>
+<string name="hint_simple_percent">პროცენტული, რომ გსურთ გამოთვალოს გარეთ "პირველადი მნიშვნელობა"</string>
+<string name="hint_small_price">ფასი მოცემული პროდუქტი.</string>
+<string name="hint_small_units">რაოდენობის ერთეული მოცემული პროდუქტი, ეს შეიძლება იყოს მოცულობა, წონა და რაოდენობის საკითხი კონტეინერი.</string>
+<string name="hint_tip_amount">თანხის წვერი თქვენ მზად უნდა გადაიხადოს.</string>
+<string name="hint_tip_percentage">პროცენტული მაჩვენებელი tip გსურთ გადაიხადოთ.</string>
+<string name="hint_total_cost">საერთო ღირებულება სესხის, მათ შორის ღრმავდება ინტერესი და ყველა გადასახადი.</string>
+<string name="hint_total_repay">საერთო თანხა, რომელიც უნდა დაიფაროს იმ კრედიტორების.</string>
+<string name="hint_total_to_pay">საერთო თანხა, რომ თქვენ უნდა (ან მინდა) გადაიხადოს ტოლია კანონპროექტი პლუს წვერი თანხა.</string>
+<string name="hint_would_cost">ჰიპოთეტური ფასი უფრო დიდი პროდუქტი ვთქვათ მისი ერთეულის ფასი ტოლფასი იყო, რომ პატარა პროდუქტი.</string>
+<string name="information_1">როდესაც ხედავთ rebate ან ფასდაკლებით, ხოლო სავაჭრო, თქვენ შეგიძლიათ შეამოწმოთ, რამდენად შეგიძლიათ შეინახოთ, ან რა ორიგინალური ფასი პროდუქტი იყო. ფაქტობრივად, შეგიძლიათ გამოთვალოთ ნებისმიერ ღირებულებების მიერ ტოვებენ სფეროებში ცარიელია. თქვენ უნდა დატოვონ ზუსტად ორი სფეროებში ცარიელია. წარმოიდგინეთ, რომ თქვენ გაქვთ ფასდაკლება 25%, და მისი საწყისი ფასი შეადგენდა 299. თქვენ უნდა შეავსოთ "მანამდე" და "ფასდაკლება" გასარკვევად მიმდინარე ფასი და რამდენად გადარჩენა.</string>
+<string name="information_2">მადლობა ამ მარტივი ინსტრუმენტი, შეგიძლიათ გასარკვევად თუ არა ყიდვის დიდი პროდუქტი გიშველის ფული და რამდენი. წარმოიდგინეთ, რომ თქვენ გაქვთ სასმელი პატარა ბოთლი (0,5 ლიტრი), რომელიც ღირს 2.79 და დიდი ბოთლი (1,5 ლიტრი), რომელიც ღირს 7.49. რომელიც ერთი არის უკეთესი შეთავაზება? ყველა თქვენ უნდა შეავსოთ 4 შეყვანის სფეროებში და დააჭირეთ "გამოთვლა".</string>
+<string name="information_3">როდესაც ხედავთ rebate ან ფასდაკლებით, ხოლო სავაჭრო, თქვენ შეგიძლიათ შეამოწმოთ, რამდენად შეგიძლიათ შეინახოთ, ან რა ორიგინალური ფასი პროდუქტი იყო. ფაქტობრივად, შეგიძლიათ გამოთვალოთ ნებისმიერ ღირებულებების მიერ ტოვებენ სფეროებში ცარიელია. თქვენ უნდა დატოვონ ზუსტად ორი სფეროებში ცარიელია. წარმოიდგინეთ, რომ თქვენ გაქვთ ფასდაკლება 25%, და მისი საწყისი ფასი შეადგენდა 299. თქვენ უნდა შეავსოთ "მანამდე" და "ფასდაკლება" გასარკვევად მიმდინარე ფასი და რამდენად გადარჩენა.</string>
+<string name="information_4">მადლობა ამ მარტივი ინსტრუმენტი, შეგიძლიათ გასარკვევად თუ არა ყიდვის დიდი პროდუქტი გიშველის ფული და რამდენი. წარმოიდგინეთ, რომ თქვენ გაქვთ სასმელი პატარა ბოთლი (0,5 ლიტრი), რომელიც ღირს 2.79 და დიდი ბოთლი (1,5 ლიტრი), რომელიც ღირს 7.49. რომელიც ერთი არის უკეთესი შეთავაზება? ყველა თქვენ უნდა შეავსოთ 4 შეყვანის სფეროებში და დააჭირეთ "გამოთვლა".</string>
+<string name="information_5">თუ თქვენ აპირებთ აიღოს სესხი შესყიდვები, შეგიძლიათ გამოთვალოთ ყველა ხარჯები ჩართული, ისევე როგორც ეფექტური (real) წლიური საპროცენტო განაკვეთი. ის მუშაობს ორ რეჟიმში. პირველი, თქვენ უნდა მიუთითოთ ნომინალური (წლიური) საპროცენტო განაკვეთი უზრუნველყოფილი კრედიტორების და განაცხადის გამოთვლა რაოდენობის ყოველთვიურად, ისევე როგორც საერთო ხარჯები. მეორე რეჟიმი, თქვენ უნდა შეიყვანოთ თანხის შენატანი (ზოგჯერ წარმოდგენილი სავაჭრო), და განაცხადის გამოთვლა წლიური ისევე როგორც ყველა ხარჯებს.</string>
+<string name="initial_value">თავდაპირველი ღირებულება</string>
+<string name="instructions">ინსტრუქციები</string>
+<string name="leave_one_of_two">დატოვეთ ცარიელი ერთი: პროცენტული, შენატანი. იხილეთ ინსტრუქციას ქვემოთ.</string>
+<string name="leave_two_empty">დატოვე ზუსტად ორი სფეროებში ცარიელია</string>
+<string name="LoanCalc">ხარჯების სესხი</string>
+<string name="loan_amt">სესხის თანხა</string>
+<string name="menu_title">რა გინდათ გამოთვლა?</string>
+<string name="msg_from_dev">გზავნილი დეველოპერი</string>
+<string name="ok">OK</string>
+<string name="opinion">აზრი</string>
+<string name="other_fees">სხვა გადასახადი</string>
+<string name="payments">პუნქტების განვადებით</string>
+<string name="payment_amount">თანხის განვადებით</string>
+<string name="percent">პროცენტი</string>
+<!-- as in percentage rate -->
+<string name="percentage">პროცენტული</string>
+<string name="price_unit">ერთეულის ფასი</string>
+<string name="question">კითხვა</string>
+<!-- imperative -->
+<string name="rate_app">შეფასება ამ განაცხადს,</string>
+<string name="regular_percent">რეგულარული პროცენტი</string>
+<string name="results">შედეგები</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">შედეგი მნიშვნელობა</string>
+<string name="saved_amount">შენახული თანხა</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">ინსტრუქციები გადაფურცლეთ ქვემოთ</string>
+<string name="send">პირადი</string>
+<string name="small_price">ფასი</string>
+<string name="small_product">მცირე პროდუქტი</string>
+<string name="small_units">ერთეული ან რაოდენობა</string>
+<string name="submit">გამოვთვალოთ</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">სამიზნე ოდენობით</string>
+<string name="thanks">მადლობა!</string>
+<string name="tip">თანხის gratuity</string>
+<string name="tip_amount">თანხის gratuity</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">საპროცენტო განაკვეთი</string>
+<string name="total_cost">საერთო ღირებულება</string>
+<string name="total_pay">სულ გადაიხადოს</string>
+<string name="total_repay">სულ დაფარვა</string>
+<string name="would_cost">ჰიპოთეტური ღირებულება</string>
+</resources>

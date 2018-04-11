@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Cena pēc</string>
+<string name="annual_percent_rate">Gada procentu likme</string>
+<string name="app_name">Kalkulators ar procentiem</string>
+<string name="app_name2">Procentos un atlaides</string>
+<string name="app_name3">Kalkulators atlaides</string>
+<string name="app_name4">Kalkulators ar procentiem un atlaides</string>
+<string name="before_price">Cena līdz</string>
+<string name="big_product">Liels produkts</string>
+<string name="bill_amount">Summa saņemšanas</string>
+<string name="bug">Kļūda</string>
+<string name="cancel">Atcelt</string>
+<string name="choose_currency">Izvēlēties valūtu</string>
+<string name="clear">Notīrīt visu</string>
+<string name="commission">Komisija</string>
+<string name="compare_result">Rezultāti, salīdzinot</string>
+<string name="cost_percent">Izmaksas, kā procenti no aizdevuma</string>
+<string name="del">Izdzēst</string>
+<string name="discount">Atlaide</string>
+<string name="discount_rate">Diskonta likme</string>
+<string name="feedback">Rakstiet mums!</string>
+<string name="feedback_prompt">Sveiki, vai jūs vēlētos, lai dotu mums dažas atsauksmes, lai mēs varētu uzlabot savu pieredzi?</string>
+<string name="fill_all_non_framed">Jums ir aizpildīt visus negūst karkasa laukus</string>
+<string name="fill_in">Lūdzu, aizpildiet visas ievades laukus</string>
+<string name="fill_in_bill">Jums ir jāaizpilda: summa saņemšanu</string>
+<string name="fill_in_compulsory">Lūdzu, aizpildiet visus obligātos laukus</string>
+<string name="fill_in_xor">Atstāt tieši vienu lauku tukšu</string>
+<string name="help_translate">Palīdzēt tulkot šo pieteikumu</string>
+<string name="hint_after_price">Cena pēc atlaidi. Citiem vārdiem sakot, tas ir zemāka cena.</string>
+<string name="hint_amount">Jūsu kredīta summa. Parasti ir vienāds ar produktu cenu, kuru vēlaties iegādāties. Šis lauks ir vajadzīgs.</string>
+<string name="hint_apr">Gada procentu likme (GPL) - Efektīva gada procentu likme par aizdevuma, ieskaitot kopējām izmaksām.</string>
+<string name="hint_before_price">Cenu pirms atlaidi. Citiem vārdiem sakot, tas ir augstāka cena.</string>
+<string name="hint_bill_amount">Kopējā summa, kas jāmaksā par savu saņemšanu.</string>
+<string name="hint_commission">Komisija (vai aizdevums maksa) procentos no aizdevuma. Ja nav zināms, atstāt tukšu.</string>
+<string name="hint_cost_percent">Kopējās izmaksas (kā iepriekš), kas izteikts procentos no aizdevuma.</string>
+<string name="hint_discount_rate">Tas ir diskonta likme, kā procentos.</string>
+<string name="hint_initial_amount">Sākotnējā summa, no kuras procents būs (vai bija) aprēķina.</string>
+<string name="hint_install">Parasti ir vienāds ar skaitu ikmēneša maksājumiem. Šis lauks ir vajadzīgs.</string>
+<string name="hint_interest">Kas ir nominālā (gada) procentu likmi savu kredītu? Ja šis lauks nav aizpildīts, jums būs nepieciešams aizpildīt "uz nomaksu"</string>
+<string name="hint_other_fees">Visas citas komisijas, kas nav atkarīga no aizdevuma summas. Ja nav zināms, atstāt tukšu.</string>
+<string name="hint_payment">Par katru no jūsu (mēneša) maksājumos summa. Jums nav nepieciešams aizpildīt šajā jomā, ja vien tu aizgāji "Procenti" tukšu. Ja to atstāj tukšu, tas tiks aprēķināts pēc pogas nospiešanas.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Cenas vienu vienību par abiem produktiem. Tas var būt vai nu 1g, 1ml, 1oz, 1 postenis uc</string>
+<string name="hint_result_amount">Summa, ko iegūst, aprēķinot procentuāli no sākotnējās vērtības.</string>
+<string name="hint_saved_amount">Naudas summa, kas jums ir ietaupīt, pērkot par atlaidi.</string>
+<string name="hint_saved_bigger">Naudas summa, kas jums būs ietaupīt, pērkot lielāku produktu. Pozitīvās vērtības norāda, ka lielāks produkts ir labāk galā. Negatīva vērtība norāda, ka mazāks produkts ir labāk galā.</string>
+<string name="hint_simple_percent">Procentos, ka jūs vēlaties, lai aprēķinātu no "Sākotnējā vērtība"</string>
+<string name="hint_small_price">Dotā produkta cenu.</string>
+<string name="hint_small_units">Vienību skaits dotajā produktā, tas var būt vai nu tilpums, svars vai vienību skaitu konteinerā.</string>
+<string name="hint_tip_amount">No gala summa, ko jūs esat ar mieru maksāt.</string>
+<string name="hint_tip_percentage">Procentu likmi tip jūs vēlaties maksāt.</string>
+<string name="hint_total_cost">Kopējās izmaksas par aizdevumu, ieskaitot saliktos procentus un visu maksu.</string>
+<string name="hint_total_repay">Kopējā summa, kas būs jāatmaksā aizdevējam.</string>
+<string name="hint_total_to_pay">Kopējā summa, kas jums ir nepieciešams (vai vēlas) maksāt, kas vienāda ar rēķinu plus tip summu.</string>
+<string name="hint_would_cost">Hipotētisks cena lielāku produkta uzņemoties cenu par vienu vienību, bija tāda pati mazākā produktu.</string>
+<string name="information_1">Ikreiz, kad jūs redzat kādu atlaidi vai atlaidi, kamēr iepirkšanās, jūs varat pārbaudīt, cik daudz jūs varat ietaupīt, vai ko oriģinālu produkta cena bija. Patiesībā, jūs varat aprēķināt kāds no rezultātiem, atstājot savus laukus tukšs. Jums ir jāatstāj tieši divus laukus tukšs. Iedomājieties, ka jums ir atlaide 25% apmērā, un sākotnējā cena bija 299. Jums ir nepieciešams aizpildīt "pirms" un "atlaides", lai uzzinātu pašreizējo cenu un cik daudz jums ietaupīt.</string>
+<string name="information_2">Pateicoties šo viegli rīku, jūs varat uzzināt, vai iegādāties lielāku produktu ietaupīt naudu un cik daudz. Iedomājieties, ka jums ir dzēriens mazā pudelē (0,5 litri), kas maksā 2,79 un lielu pudeli (1,5 litri), kas maksā 7,49. Kuriem viens ir labāks piedāvājums? Viss, kas Jums nepieciešams, ir aizpildīt 4 ieejas laukus un nospiediet "aprēķināt".</string>
+<string name="information_3">Ikreiz, kad jūs redzat kādu atlaidi vai atlaidi, kamēr iepirkšanās, jūs varat pārbaudīt, cik daudz jūs varat ietaupīt, vai ko oriģinālu produkta cena bija. Patiesībā, jūs varat aprēķināt kāds no rezultātiem, atstājot savus laukus tukšs. Jums ir jāatstāj tieši divus laukus tukšs. Iedomājieties, ka jums ir atlaide 25% apmērā, un sākotnējā cena bija 299. Jums ir nepieciešams aizpildīt "pirms" un "atlaides", lai uzzinātu pašreizējo cenu un cik daudz jums ietaupīt.</string>
+<string name="information_4">Pateicoties šo viegli rīku, jūs varat uzzināt, vai iegādāties lielāku produktu ietaupīt naudu un cik daudz. Iedomājieties, ka jums ir dzēriens mazā pudelē (0,5 litri), kas maksā 2,79 un lielu pudeli (1,5 litri), kas maksā 7,49. Kuriem viens ir labāks piedāvājums? Viss, kas Jums nepieciešams, ir aizpildīt 4 ieejas laukus un nospiediet "aprēķināt".</string>
+<string name="information_5">Ja plānojat ņemt kredītu par pirkumiem, jūs varat aprēķināt visi iesaistītie, kā arī efektīvu (reālu) gada procentu likmes izmaksas. Tas darbojas divos režīmos. Jo, pirmkārt, ir jāievada nominālu (gada) procentu likmi, aizdevējam un pieteikuma aprēķinās ikmēneša maksājumos apmēru, kā arī kopējās izmaksas paredzēts. Otrajā režīmā, jums ir nepieciešams ievadīt summu ikmēneša maksājumu (dažreiz iesniegtajā komersanta), un pieteikums tiks aprēķinās ikgadējo procentuālo, kā arī visas izmaksas.</string>
+<string name="initial_value">Sākotnējā vērtība</string>
+<string name="instructions">Instrukcijas</string>
+<string name="leave_one_of_two">Atstāt tukšu vienu: procentus, iemaksa. Skatīt norādījumus tālāk.</string>
+<string name="leave_two_empty">Atstājiet tieši divi lauki tukši</string>
+<string name="LoanCalc">Izmaksas aizdevumu</string>
+<string name="loan_amt">Aizdevuma summa</string>
+<string name="menu_title">Ko jūs vēlaties aprēķināt?</string>
+<string name="msg_from_dev">Ziņa no attīstītāja</string>
+<string name="ok">Labi</string>
+<string name="opinion">Domas</string>
+<string name="other_fees">Citas nodevas</string>
+<string name="payments">Skaits daļām</string>
+<string name="payment_amount">Summu iemaksa</string>
+<string name="percent">Procents</string>
+<!-- as in percentage rate -->
+<string name="percentage">Procenti</string>
+<string name="price_unit">Cena par vienību</string>
+<string name="question">Jautājums</string>
+<!-- imperative -->
+<string name="rate_app">Novērtēt šo pieteikumu!</string>
+<string name="regular_percent">Regulāra procenti</string>
+<string name="results">Rezultāti</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Rezultāts vērtība</string>
+<string name="saved_amount">Saglabāts summa</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Norādījumus ritinātu uz leju</string>
+<string name="send">Sūtīt</string>
+<string name="small_price">Cena</string>
+<string name="small_product">Small produkts</string>
+<string name="small_units">Vienības vai daudzums</string>
+<string name="submit">Aprēķināt</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Paredzētais apjoms</string>
+<string name="thanks">Paldies!</string>
+<string name="tip">Daudzums naudas balvu</string>
+<string name="tip_amount">Daudzums naudas balvu</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Procentu likme</string>
+<string name="total_cost">Kopējās izmaksas</string>
+<string name="total_pay">Summa</string>
+<string name="total_repay">Summa atmaksāt</string>
+<string name="would_cost">Hipotētisks izmaksas</string>
+</resources>

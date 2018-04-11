@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Цена после</string>
+<string name="annual_percent_rate">Годишња Проценат курс</string>
+<string name="app_name">Калкулатор процента</string>
+<string name="app_name2">Проценат и попусти</string>
+<string name="app_name3">Калкулатор попуста</string>
+<string name="app_name4">Калкулатор процента и попусте</string>
+<string name="before_price">Цена пре</string>
+<string name="big_product">Велики производ</string>
+<string name="bill_amount">Износ пријема</string>
+<string name="bug">Грешка</string>
+<string name="cancel">Отказати</string>
+<string name="choose_currency">Изаберите валуту</string>
+<string name="clear">Ведро све</string>
+<string name="commission">Комисија</string>
+<string name="compare_result">Резултати поређења</string>
+<string name="cost_percent">Трошкови као проценат кредита</string>
+<string name="del">Избрисати</string>
+<string name="discount">Попуст</string>
+<string name="discount_rate">Стопа попуста</string>
+<string name="feedback">Пишите нам!</string>
+<string name="feedback_prompt">Здраво, да ли бисте волели да нам дати неке повратне информације, тако да можемо побољшати своје искуство?</string>
+<string name="fill_all_non_framed">Морате попунити сва поља нон-урамљена</string>
+<string name="fill_in">Молимо Вас да попуните сва поља за унос</string>
+<string name="fill_in_bill">Морате попунити: Износ пријема</string>
+<string name="fill_in_compulsory">Молимо вас да попуните сва обавезна поља</string>
+<string name="fill_in_xor">Оставите тачно један поље празно</string>
+<string name="help_translate">Хелп транслате ову апликацију</string>
+<string name="hint_after_price">Цена с скидкој. Другим речима, ово је нижа цена.</string>
+<string name="hint_amount">Износ кредита вашег. Обично једнака цене производа, који желите да купите. Поље је обавезно.</string>
+<string name="hint_apr">Годишња стопа Проценат (АПР) - Ефективна каматна стопа кредита, укључујући и укупних трошкова.</string>
+<string name="hint_before_price">Цена пре попуста. Другим речима, то је виша цена.</string>
+<string name="hint_bill_amount">Укупан износ за плаћање на пријему.</string>
+<string name="hint_commission">Комисија (или кредит такса) као проценат кредита. Ако не зна, оставите празно.</string>
+<string name="hint_cost_percent">Укупни трошкови (као горе) изражена као проценат кредита.</string>
+<string name="hint_discount_rate">Ово је стопа попуста као проценат.</string>
+<string name="hint_initial_amount">Почетни износ од којих ће проценат бити (или је био) израчунати.</string>
+<string name="hint_install">Обично једнак броју месечних уплата. Поље је обавезно.</string>
+<string name="hint_interest">Шта је номинална (годишња) каматна стопа Вашем кредита? Ако ово поље остане празно, мораћете да попуните "Рата"</string>
+<string name="hint_other_fees">Све остале накнаде које не зависе од износа кредита. Ако не зна, оставите празно.</string>
+<string name="hint_payment">Количина сваког од ваших (месечно) ратама. Не треба да попуните у овој области, осим ако сте напустили "проценат" празан. Ако остане празно, она ће се обрачунавати након притиска на дугме.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Цене једне јединице за оба производа. Може бити 1Г, 1мл, 1оз, 1 тачка итд</string>
+<string name="hint_result_amount">Износ који је резултат израчунавања проценат почетне вредности.</string>
+<string name="hint_saved_amount">Износ новца који сте уштедели куповине на сниженој цени од.</string>
+<string name="hint_saved_bigger">Износ новца који ћете спасити куповине веће производ. Позитивна вредност указује, да већи производ је бољи договор. Негативна вредност означава, да мањи производ је бољи договор.</string>
+<string name="hint_simple_percent">Проценат, који желите да израчунате из "почетне вредности"</string>
+<string name="hint_small_price">Цена датог производа.</string>
+<string name="hint_small_units">Број јединица у датом производу, она може да буде или запремина, маса или број ставки у контејнеру.</string>
+<string name="hint_tip_amount">Износ врха сте спремни да платите.</string>
+<string name="hint_tip_percentage">Проценат стопа врха који желите да платите.</string>
+<string name="hint_total_cost">Укупни трошкови кредита, укључујући камате и слошенији свих накнада.</string>
+<string name="hint_total_repay">Укупан износ који ће морати да враћају се у зајмодавца.</string>
+<string name="hint_total_to_pay">Укупан износ који вам треба (или желе) да плате, једнак рачуна плус тип износу.</string>
+<string name="hint_would_cost">Хипотетичко цена од већих производа преузима своју цену по јединици био једнак оном мањем производа.</string>
+<string name="information_1">Кад год видите повраћај или попуст за куповину док, можете да проверите, колико можете да сачувате, или шта оригинални цене производа био. У ствари, можете израчунати било коју од вредности по остављајући своје њиве празне. Морас да одес тачно двије поља празна. Замислите, да имате попуст од 25%, а оригинална цена је 299. Потребно је да испуните "пре" и "попуст" да сазнате тренутну цијену и колико ћете спасити.</string>
+<string name="information_2">Захваљујући овом лако алат, можете сазнати да ли купује већи производ ће вам уштедети време и новац и колико. Замислите, да попијемо пиће у малом боци (0.5 литара) који кошта 2,79 и великом боцом (1,5 литара) који кошта 7,49. Који је боља понуда? Све што је потребно је да попуните 4 поља за унос и притисните "израчунати".</string>
+<string name="information_3">Кад год видите повраћај или попуст за куповину док, можете да проверите, колико можете да сачувате, или шта оригинални цене производа био. У ствари, можете израчунати било коју од вредности по остављајући своје њиве празне. Морас да одес тачно двије поља празна. Замислите, да имате попуст од 25%, а оригинална цена је 299. Потребно је да испуните "пре" и "попуст" да сазнате тренутну цијену и колико ћете спасити.</string>
+<string name="information_4">Захваљујући овом лако алат, можете сазнати да ли купује већи производ ће вам уштедети време и новац и колико. Замислите, да попијемо пиће у малом боци (0.5 литара) који кошта 2,79 и великом боцом (1,5 литара) који кошта 7,49. Који је боља понуда? Све што је потребно је да попуните 4 поља за унос и притисните "израчунати".</string>
+<string name="information_5">Ако планирате да узмете кредит за ваше куповине, можете израчунати све трошкове који су укључени, као и ефикасну (реални) годишња процентуална курс. Она ради у два режима. У прва, морате да унесете номинални (годишња) процентуално стопу дане од зајмодавца и апликација ће израчунати износ месечне рате, као и укупне трошкове. У другом режиму, потребно је да унесете износ месечне рате (понекад представљен од стране трговца), а апликација ће израчунати годишњи проценат као и све трошкове.</string>
+<string name="initial_value">Почетна вредност</string>
+<string name="instructions">Инструкције</string>
+<string name="leave_one_of_two">Оставите празну једну од: проценат, рату. Погледајте упутства доле.</string>
+<string name="leave_two_empty">Оставите тачно два поља празна</string>
+<string name="LoanCalc">Трошкови кредита</string>
+<string name="loan_amt">Износ кредита</string>
+<string name="menu_title">Шта желите да израчунате?</string>
+<string name="msg_from_dev">Порука од програмера</string>
+<string name="ok">У реду</string>
+<string name="opinion">Мишљење</string>
+<string name="other_fees">Остале накнаде</string>
+<string name="payments">Број рата</string>
+<string name="payment_amount">Износ рате</string>
+<string name="percent">Проценат</string>
+<!-- as in percentage rate -->
+<string name="percentage">Проценат</string>
+<string name="price_unit">Цена по јединици</string>
+<string name="question">Питање</string>
+<!-- imperative -->
+<string name="rate_app">Гласај ову апликацију!</string>
+<string name="regular_percent">Редовна одсто</string>
+<string name="results">Резултати</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Вредност резултат</string>
+<string name="saved_amount">Сачувани износ</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">За инструкције сцролл довн</string>
+<string name="send">Послати</string>
+<string name="small_price">Цена</string>
+<string name="small_product">Мали производ</string>
+<string name="small_units">Јединице или количина</string>
+<string name="submit">Израчунати</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Таргет износ</string>
+<string name="thanks">Хвала!</string>
+<string name="tip">Износ отпремнину</string>
+<string name="tip_amount">Износ отпремнину</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Проценат стопа</string>
+<string name="total_cost">Укупни трошкови</string>
+<string name="total_pay">Укупно за плате</string>
+<string name="total_repay">Укупно за отплату</string>
+<string name="would_cost">Хипотетички трошак</string>
+</resources>

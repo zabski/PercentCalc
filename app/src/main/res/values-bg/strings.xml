@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Цена след</string>
+<string name="annual_percent_rate">Годишен процент на разходите</string>
+<string name="app_name">Калкулатор на процент</string>
+<string name="app_name2">Процент и отстъпки</string>
+<string name="app_name3">Калкулатор на отстъпки</string>
+<string name="app_name4">Калкулатор на процент и отстъпки</string>
+<string name="before_price">Цена преди</string>
+<string name="big_product">Голям продукт</string>
+<string name="bill_amount">Размер на получаване</string>
+<string name="bug">Грешка</string>
+<string name="cancel">Отказ</string>
+<string name="choose_currency">Изберете валута</string>
+<string name="clear">Изчистване на всички</string>
+<string name="commission">Комисионна</string>
+<string name="compare_result">Резултати от сравнение</string>
+<string name="cost_percent">Разходите като процент от кредитния</string>
+<string name="del">Изтривам</string>
+<string name="discount">Отстъпка</string>
+<string name="discount_rate">Курсове на отстъпка</string>
+<string name="feedback">Пишете ни!</string>
+<string name="feedback_prompt">Здравейте, бихте искали да ни даде някаква обратна връзка, така че да можем да се подобри вашия опит?</string>
+<string name="fill_all_non_framed">Трябва да попълните всички полета, които не са в рамка</string>
+<string name="fill_in">Моля попълнете всички полета за въвеждане</string>
+<string name="fill_in_bill">Трябва да се попълни: Размер на получаване</string>
+<string name="fill_in_compulsory">Моля, попълнете всички задължителни полета</string>
+<string name="fill_in_xor">Оставете точно едно поле празно</string>
+<string name="help_translate">Помогнете за превода на това приложение</string>
+<string name="hint_after_price">Цена след отстъпка. С други думи, това е най-ниската цена.</string>
+<string name="hint_amount">Размерът на вашия кредит. Обикновено, равна на цената на продукта, който желаете да закупите. Това поле е задължително.</string>
+<string name="hint_apr">Годишен процент на разходите (ГПР) - ефективен годишен лихвен процент по кредита, включително общи разходи.</string>
+<string name="hint_before_price">Цена преди намаление. С други думи, това е по-висока цена.</string>
+<string name="hint_bill_amount">Общата сума, която плащат при получаването си.</string>
+<string name="hint_commission">Комисията (или такса заем) като процент от кредита. Ако не са известни, да се остави празно.</string>
+<string name="hint_cost_percent">Общо разходи (както по-горе), изразен като процент от кредита.</string>
+<string name="hint_discount_rate">Това е норма на дисконтиране процент.</string>
+<string name="hint_initial_amount">Първоначалната сума, от която процент ще бъде (или е) изчислява.</string>
+<string name="hint_install">Обикновено е равен на броя на месечните плащания. Това поле е задължително.</string>
+<string name="hint_interest">Какво е номиналното (годишен) лихвен процент на кредита си? Ако това поле се остави празно, ще трябва да попълните "Вноска"</string>
+<string name="hint_other_fees">Всички други такси, които не са зависими от размера на кредита. Ако не са известни, да се остави празно.</string>
+<string name="hint_payment">Размерът на всеки един от вашите (месечно) вноски. Не е нужно да попълните в тази област, освен ако не сте напуснали "Процент" празно. Ако се остави празно, то ще бъде изчислена след натискане на бутона.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Цени на един дял и за двата продукта. Това може да бъде или 1 g, 1 ml, 1oz, 1 брой т.н.</string>
+<string name="hint_result_amount">Сумата, която е резултат от изчисляването процент от първоначалната стойност.</string>
+<string name="hint_saved_amount">Размерът на парите, които сте спестяване чрез закупуване на намалената цена.</string>
+<string name="hint_saved_bigger">Размер на средствата, които ще спестявате със закупуването на по-голям продукт. Положителна стойност показва, че по-голямата продукт е по-добра сделка. Отрицателна стойност показва, че по-малката продукт е по-добра сделка.</string>
+<string name="hint_simple_percent">Процент, който искате да се изчисли от "Initial стойност"</string>
+<string name="hint_small_price">В цената на даден продукт.</string>
+<string name="hint_small_units">Брой единици в даден продукт, тя може да бъде или обем, тегло или брой единици в опаковка.</string>
+<string name="hint_tip_amount">Размерът на върха, която сте готови да платите.</string>
+<string name="hint_tip_percentage">Процент на върха, която искате да платите.</string>
+<string name="hint_total_cost">Обща стойност на заема, включително усложнява интерес и всички такси.</string>
+<string name="hint_total_repay">Общата сума, която ще трябва да бъдат върнати на заемодателя.</string>
+<string name="hint_total_to_pay">Общата сума, която ще трябва (или искат) да заплати, равни на законопроект плюс върха сума.</string>
+<string name="hint_would_cost">Хипотетична цената на голяма продукта приемайки Неговата цена за единица е равна на тази на по-малкия продукт.</string>
+<string name="information_1">Винаги, когато видите на отстъпка или намаление, докато пазарувате, можете да проверите, колко можете да спестите, или това, което беше първоначалната цена на продукта. Всъщност, можете да изчислите всяка от стойностите, като оставя своите области празна. Трябва да напусне точно две полета празни. Представете си, че имате отстъпка в размер на 25%, а първоначалната цена е 299. Необходимо е да попълните "преди" и "отстъпка", за да разберете текущата цена и колко ще спестите.</string>
+<string name="information_2">Благодарение на този лесен инструмент, можете да разберете дали купувате по-голяма продукт ще ви спести пари и колко. Представете си, че имате едно питие в малка бутилка (0,5 литра), което струва 2.79 и голяма бутилка (1,5 литра), което струва 7.49. Кое е по-добро предложение? Всичко, от което се нуждаете, е да запълни 4 полета за въвеждане и натиснете "изчисли".</string>
+<string name="information_3">Винаги, когато видите на отстъпка или намаление, докато пазарувате, можете да проверите, колко можете да спестите, или това, което беше първоначалната цена на продукта. Всъщност, можете да изчислите всяка от стойностите, като оставя своите области празна. Трябва да напусне точно две полета празни. Представете си, че имате отстъпка в размер на 25%, а първоначалната цена е 299. Необходимо е да попълните "преди" и "отстъпка", за да разберете текущата цена и колко ще спестите.</string>
+<string name="information_4">Благодарение на този лесен инструмент, можете да разберете дали купувате по-голяма продукт ще ви спести пари и колко. Представете си, че имате едно питие в малка бутилка (0,5 литра), което струва 2.79 и голяма бутилка (1,5 литра), което струва 7.49. Кое е по-добро предложение? Всичко, от което се нуждаете, е да запълни 4 полета за въвеждане и натиснете "изчисли".</string>
+<string name="information_5">Ако имате намерение да вземе заем за покупките си, можете да изчислите всички разходи свързани, както и ефективно (реално) Годишен процент на разходите. Тя работи в два режима. В първата, ще трябва да въведете номинална (годишен) лихвен процент, предоставена от кредитора и приложението ще се изчисли сумата на месечните вноски, както и общите разходи. Във втория режим, ще трябва да въведете размера на месечната вноска (понякога се представя като един търговец), и приложението ще се изчисли годишният процент, както и всички разходи.</string>
+<string name="initial_value">Първоначална стойност</string>
+<string name="instructions">Инструкции</string>
+<string name="leave_one_of_two">Оставете празно един от: процент, вноска. Вижте инструкциите по-долу.</string>
+<string name="leave_two_empty">Оставете точно две полета празни</string>
+<string name="LoanCalc">Разходи за заем</string>
+<string name="loan_amt">Размер на кредита</string>
+<string name="menu_title">Какво искаш да се изчисли?</string>
+<string name="msg_from_dev">Съобщение от разработчика</string>
+<string name="ok">Добре</string>
+<string name="opinion">Мнение</string>
+<string name="other_fees">Други такси</string>
+<string name="payments">Брой вноски</string>
+<string name="payment_amount">Размер на вноската</string>
+<string name="percent">На сто</string>
+<!-- as in percentage rate -->
+<string name="percentage">Процент</string>
+<string name="price_unit">Цена за единица</string>
+<string name="question">Въпрос</string>
+<!-- imperative -->
+<string name="rate_app">Оценете тази молба!</string>
+<string name="regular_percent">Редовен процента</string>
+<string name="results">Резултати</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Стойност Резултати</string>
+<string name="saved_amount">Спасен сума</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">За инструкции превъртете надолу</string>
+<string name="send">Изпращам</string>
+<string name="small_price">Цена</string>
+<string name="small_product">Малък продукт</string>
+<string name="small_units">Единици или количество</string>
+<string name="submit">Изчислете</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Целеви размер</string>
+<string name="thanks">Благодаря ви!</string>
+<string name="tip">Размер на бакшиш</string>
+<string name="tip_amount">Размер на бакшиш</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Процент</string>
+<string name="total_cost">Общо разходи</string>
+<string name="total_pay">Всичко за плащане</string>
+<string name="total_repay">Общо за погасяване</string>
+<string name="would_cost">Хипотетична цена</string>
+</resources>

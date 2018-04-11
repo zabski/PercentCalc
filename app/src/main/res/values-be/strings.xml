@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Цана пасля</string>
+<string name="annual_percent_rate">Гадавая працэнтная стаўка</string>
+<string name="app_name">Калькулятар працэнтах</string>
+<string name="app_name2">Працэнт і скідкі</string>
+<string name="app_name3">Калькулятар зніжак</string>
+<string name="app_name4">Калькулятар працэнтах і скідкі</string>
+<string name="before_price">Цана да</string>
+<string name="big_product">Вялікі прадукт</string>
+<string name="bill_amount">Сума паступлення</string>
+<string name="bug">Памылка</string>
+<string name="cancel">Адмяніць</string>
+<string name="choose_currency">Выберыце валюту</string>
+<string name="clear">Ачысціць ўсе</string>
+<string name="commission">Камісія</string>
+<string name="compare_result">Вынікі параўнання</string>
+<string name="cost_percent">Кошт у працэнтах ад пазыкі</string>
+<string name="del">Выдаляць</string>
+<string name="discount">Зніжка</string>
+<string name="discount_rate">Стаўка дысконту</string>
+<string name="feedback">Напішыце нам!</string>
+<string name="feedback_prompt">Прывітанне, хацелі б вы даць нам зваротную сувязь, так што мы можам палепшыць ваш вопыт?</string>
+<string name="fill_all_non_framed">Вы павінны запоўніць усё не аформлена поля</string>
+<string name="fill_in">Калі ласка, запоўніце ўсе палі ўводу</string>
+<string name="fill_in_bill">Вы павінны запоўніць: Сума паступлення</string>
+<string name="fill_in_compulsory">Калі ласка, запоўніце ўсе абавязковыя палі</string>
+<string name="fill_in_xor">Пакінуць роўна адзін поле пустым</string>
+<string name="help_translate">Дапамажыце перавесці гэта дадатак</string>
+<string name="hint_after_price">Цана пасля зніжкі. Іншымі словамі, гэта больш нізкая цана.</string>
+<string name="hint_amount">Сума Вашага крэдыту. Звычайна роўны цане прадукту, які вы жадаеце набыць. Гэта поле абавязкова да запаўнення.</string>
+<string name="hint_apr">Гадавая працэнтная стаўка (APR) - Эфектыўная гадавая працэнтная стаўка па крэдыце, уключаючы поўны кошт.</string>
+<string name="hint_before_price">Цана без зніжкі. Іншымі словамі, гэта высокая цана.</string>
+<string name="hint_bill_amount">Агульная сума плаціць па квітанцыі.</string>
+<string name="hint_commission">Камісія (або плата крэдыту) у працэнтах ад пазыкі. Калі не вядома, пакіньце поле пустым.</string>
+<string name="hint_cost_percent">Агульны кошт (як паказана вышэй), выяўленая ў працэнтах ад пазыкі.</string>
+<string name="hint_discount_rate">Гэта норма дысконту, у працэнтах.</string>
+<string name="hint_initial_amount">Першапачатковая сума, з якой працэнт будзе (ці была) разлічваецца.</string>
+<string name="hint_install">Звычайна роўна ліку штомесячных плацяжоў. Гэта поле абавязкова да запаўнення.</string>
+<string name="hint_interest">Што такое намінальная (гадавы) Працэнтная стаўка вашага крэдыту? Калі пакінуць гэтае поле пустым, вам трэба будзе запоўніць «Растэрміноўка»</string>
+<string name="hint_other_fees">Ўсе іншыя плацяжы, якія не залежаць ад сумы крэдыту. Калі не вядома, пакіньце поле пустым.</string>
+<string name="hint_payment">Колькасць кожнага з вашых (штомесяц) плацяжамі. Вам не трэба запаўняць гэтае поле, калі вы не пакінулі "Працэнт" пустым. Калі пакінуць пустым, то будуць разлічаны пасля націску на кнопку.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Цэны на адну адзінку для абодвух прадуктаў. Гэта можа быць альбо 1 г, 1 мл, 1 унцыя, 1 арт г.д.</string>
+<string name="hint_result_amount">Колькасць, якое ў выніку вылічэнні працэнт пачатковага значэння.</string>
+<string name="hint_saved_amount">Сума грошай, якую вы эканоміце, купляючы па дысконтнай цане.</string>
+<string name="hint_saved_bigger">Сума грошай, якую Вы зэканоміце, купляючы вялікую прадукту. Станоўчае значэнне паказвае, што больш за прадукт лепш мець справу. Адмоўнае значэнне паказвае, што менш прадукт лепш мець справу.</string>
+<string name="hint_simple_percent">Працэнт, які вы хочаце, каб вылічыць з "Пачатковае значэнне"</string>
+<string name="hint_small_price">Кошт дадзенага прадукту.</string>
+<string name="hint_small_units">Колькасць штук у дадзенай прадукцыі, ён можа быць альбо аб\'ём, вага або колькасць элементаў у кантэйнеры.</string>
+<string name="hint_tip_amount">Сума чаявых вы гатовыя плаціць.</string>
+<string name="hint_tip_percentage">Працэнтная стаўка наканечніка вы хочаце заплаціць.</string>
+<string name="hint_total_cost">Агульны кошт крэдыту, у тым ліку налічаных працэнтаў і ўсіх збораў.</string>
+<string name="hint_total_repay">Агульная сума, якую трэба будзе вернута крэдытору.</string>
+<string name="hint_total_to_pay">Агульная сума, што вам трэба (або хочуць) плаціць, роўна законапраекта плюс суму наканечніка.</string>
+<string name="hint_would_cost">Гіпатэтычны кошт большай прадукту ў здагадцы яго цана на адзінку было роўна ліку меншага прадукту.</string>
+<string name="information_1">Кожны раз, калі вы бачыце зніжку ці зніжку пры здзяйсненні пакупак, вы можаце праверыць, колькі вы можаце зэканоміць, або тое, што першапачатковая цана прадукту была. На самай справе, вы можаце вылічыць любое з значэнняў, пакінуўшы свае палі пустымі. Вы павінны пакінуць роўна два палі пустымі. Сабе, што ў вас ёсць зніжка 25%, а першапачатковая цана была 299. Вам неабходна запоўніць "да" і "зніжкі", каб даведацца бягучыя цэны і колькі вы зэканоміце.</string>
+<string name="information_2">Дзякуючы гэтай простай інструмент, вы можаце высветліць, ці з\'яўляецца купля большага прадукт дазволіць вам зэканоміць грошы і колькі. Сабе, што ў вас ёсць напой ў бутэлечцы (0,5 л), якая стаіць 2,79 і вялікую бутэльку (1,5 л), якая стаіць 7,49. Які з іх лепш прапановы? Усё, што вам трэба, гэта запоўніць 4 поля ўводу і націсніце «разлічыць».</string>
+<string name="information_3">Кожны раз, калі вы бачыце зніжку ці зніжку пры здзяйсненні пакупак, вы можаце праверыць, колькі вы можаце зэканоміць, або тое, што першапачатковая цана прадукту была. На самай справе, вы можаце вылічыць любое з значэнняў, пакінуўшы свае палі пустымі. Вы павінны пакінуць роўна два палі пустымі. Сабе, што ў вас ёсць зніжка 25%, а першапачатковая цана была 299. Вам неабходна запоўніць "да" і "зніжкі", каб даведацца бягучыя цэны і колькі вы зэканоміце.</string>
+<string name="information_4">Дзякуючы гэтай простай інструмент, вы можаце высветліць, ці з\'яўляецца купля большага прадукт дазволіць вам зэканоміць грошы і колькі. Сабе, што ў вас ёсць напой ў бутэлечцы (0,5 л), якая стаіць 2,79 і вялікую бутэльку (1,5 л), якая стаіць 7,49. Які з іх лепш прапановы? Усё, што вам трэба, гэта запоўніць 4 поля ўводу і націсніце «разлічыць».</string>
+<string name="information_5">Калі вы плануеце ўзяць крэдыт для пакупак, можна разлічыць ўсе выдаткі, звязаныя, а таксама эфектыўнага (рэальнай) гадавы працэнтнай стаўкі. Ён працуе ў двух рэжымах. Па-першае, вы павінны ўвесці намінальную (гадавы) працэнтную стаўку, прадстаўленую крэдыторам і дадатак будзе разлічыць суму штомесячных узносаў, а таксама агульныя выдаткі. У другім рэжыме, неабходна ўвесці суму штомесячнага ўнёску (часам прадстаўленага купца), і дадатак будзе разлічыць гадавы працэнт, а таксама ўсе выдаткі.</string>
+<string name="initial_value">Пачатковае значэнне</string>
+<string name="instructions">Інструкцыі</string>
+<string name="leave_one_of_two">Пакіньце пустым, адно з наступнага: працэнт, растэрміноўка. Глядзіце інструкцыі ніжэй.</string>
+<string name="leave_two_empty">Пакінуць роўна два палі пустымі</string>
+<string name="LoanCalc">Кошт крэдыту</string>
+<string name="loan_amt">Сума крэдыту</string>
+<string name="menu_title">Што вы хочаце, каб вылічыць?</string>
+<string name="msg_from_dev">Паведамленне ад распрацоўніка</string>
+<string name="ok">ДОБРА</string>
+<string name="opinion">Меркаванне</string>
+<string name="other_fees">Іншыя выдаткі</string>
+<string name="payments">Колькасць плацяжоў</string>
+<string name="payment_amount">Сума ўзносу</string>
+<string name="percent">Працэнтаў</string>
+<!-- as in percentage rate -->
+<string name="percentage">Працэнт</string>
+<string name="price_unit">Кошт за адзінку</string>
+<string name="question">Пытанне</string>
+<!-- imperative -->
+<string name="rate_app">Ацаніць гэта дадатак!</string>
+<string name="regular_percent">Стабільны працэнт</string>
+<string name="results">Вынікі</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Вынік кошт</string>
+<string name="saved_amount">Захаваныя колькасць</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Для атрымання інструкцый па пракруціць ўніз</string>
+<string name="send">Паслаць</string>
+<string name="small_price">Цана</string>
+<string name="small_product">Малы прадукт</string>
+<string name="small_units">Адзінак або колькасць</string>
+<string name="submit">Вылічаць</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Мэтавая сума</string>
+<string name="thanks">Дзякуй!</string>
+<string name="tip">Сума чаявых</string>
+<string name="tip_amount">Сума чаявых</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Працэнтная стаўка</string>
+<string name="total_cost">Агульны кошт</string>
+<string name="total_pay">Агульная сума</string>
+<string name="total_repay">Усяго на пагашэнне</string>
+<string name="would_cost">Гіпатэтычны кошт</string>
+</resources>

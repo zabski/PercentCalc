@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:ads2="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark"
+    android:orientation="vertical" >
+<ScrollView 
+    android:id="@+id/scrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <!--android:layout_above="@+id/loan_adView"
+    android:padding="@dimen/margin_l"
+    android:paddingBottom="@dimen/row_xl"-->
+        
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+
+    android:orientation="vertical" >
+    
+<!-- RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"    
+    android:orientation="vertical" 
+    tools:context=".MainActivity"
+     -->
+
+    <include layout="@layout/ads_incl_admob_banner"/>
+     
+   <TextView
+        android:id="@+id/tvSeeDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"        
+        android:layout_marginTop="@dimen/margin_l"
+        android:textSize="@dimen/text_xl"
+        android:text="@string/see_details"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />      
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" >     
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="@dimen/label_width"
+        android:layout_height="wrap_content"                
+        android:layout_weight="1"   
+        android:text="@string/loan_amt"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text_m"
+        android:textColor="#000000"
+         />
+    
+    <EditText
+        android:id="@+id/editLoanAmount"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"   
+        android:nextFocusDown="@+id/editPercent"
+        android:background="@layout/input"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="number"
+        android:maxLength="15"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+    
+        <requestFocus />
+        
+    </EditText>    
+    
+    <TextView
+        android:id="@+id/tvSymbol1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:textSize="@dimen/text_l"
+        android:text="@string/currency"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    </LinearLayout>
+    
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" >       
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="@dimen/label_width"
+        android:layout_height="wrap_content"        
+        android:layout_weight="1"           
+        android:text="@string/percentage"
+        android:textSize="@dimen/text_m"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />
+    
+    <EditText
+        android:id="@+id/editPercent"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"   
+        android:nextFocusDown="@+id/editCommission"
+        android:background="@layout/input"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="numberDecimal"
+        android:lines="1"
+        android:maxHeight="35dp"
+        android:maxLength="4"
+        android:maxLines="1"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >                
+        
+    </EditText>    
+    
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:text="%"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text_l"
+         />
+    
+    </LinearLayout>        
+            
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" >       
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="@dimen/label_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/commission"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text_m" />
+    
+    <EditText
+        android:id="@+id/editCommission"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"   
+        android:nextFocusDown="@+id/editOtherFees"
+        android:background="@layout/input"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="numberDecimal"
+        android:lines="1"
+        android:maxHeight="35dp"
+        android:maxLength="4"
+        android:maxLines="1"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >       
+         
+        
+    </EditText>    
+    
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:text="%"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text_l"
+         />
+    
+    </LinearLayout>    
+    
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" >     
+
+    <TextView
+        android:id="@+id/textView1a"
+        android:layout_width="@dimen/label_width"
+        android:layout_height="wrap_content"                
+        android:layout_weight="1"   
+        android:text="@string/other_fees"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text_m"
+        android:textColor="#000000"
+         />
+    
+    <EditText
+        android:id="@+id/editOtherFees"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"   
+        android:nextFocusDown="@+id/editNumPayments"
+        android:background="@layout/input"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="number"
+        android:maxLength="11"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >            
+        
+    </EditText>    
+    
+    <TextView
+        android:id="@+id/tvSymbol4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:textSize="@dimen/text_l"
+        android:text="@string/currency"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    </LinearLayout>    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" >             
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="@dimen/label_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"             
+        android:textSize="@dimen/text_m"
+        android:text="@string/payments"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />
+    
+    <EditText
+        android:id="@+id/editNumPayments"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"                   
+        android:nextFocusDown="@+id/editPayAmount"
+        android:layout_marginRight="@dimen/margin_xl"
+        android:background="@layout/input"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="number"
+        android:maxHeight="35dp"
+        android:maxLength="3"
+        android:maxLines="1"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+        
+    </EditText>
+    
+    </LinearLayout>    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" > 
+    
+	<TextView
+        android:id="@+id/textView5"
+        android:layout_width="@dimen/label_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"             
+        android:textSize="@dimen/text_m"
+        android:text="@string/payment_amount"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />
+    
+    <EditText
+        android:id="@+id/editPayAmount"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@layout/input"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="number|numberDecimal"
+        android:maxHeight="35dp"
+        android:maxLength="11"
+        android:maxLines="1"
+        android:nextFocusDown="@+id/editLoanAmount"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/edit_text_size" >
+        
+    </EditText>
+    
+    <TextView
+        android:id="@+id/tvSymbol2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:textSize="@dimen/text_l"
+        android:text="@string/currency"
+        android:textAppearance="?android:attr/textAppearanceLarge" />    
+    
+    </LinearLayout>    
+    	   
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="@dimen/margin_l"
+       android:gravity="center_vertical|center_horizontal"       
+       android:orientation="horizontal" >
+    
+    <Button
+        android:id="@+id/bDel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_weight="1"                 
+        android:paddingLeft="@dimen/padding_l"
+        android:paddingRight="@dimen/padding_l"
+        android:drawableTop="@drawable/del_64"
+        android:scaleType="centerInside"
+        android:textSize="@dimen/text_m"
+        android:textAppearance="?android:attr/textAppearanceMedium"        
+        android:text="@string/del" />        
+
+    <Button
+        android:id="@+id/bClear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_weight="1"                 
+        android:paddingLeft="@dimen/padding_l"
+        android:paddingRight="@dimen/padding_l"
+        android:drawableTop="@drawable/delete_64"
+        android:scaleType="centerInside"
+        android:textSize="@dimen/text_m"
+        android:textAppearance="?android:attr/textAppearanceMedium"        
+        android:text="@string/clear" />    
+    
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"                
+        android:paddingLeft="@dimen/padding_l"
+        android:paddingRight="@dimen/padding_l"
+        android:layout_weight="1"          
+        android:shadowColor="#ffbb00"
+        android:shadowDx="50"
+        android:shadowDy="50"
+        android:shadowRadius="70"
+        android:drawableTop="@drawable/play_64"
+        android:text="@string/submit"
+        android:textSize="@dimen/text_m"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000" /> 
+        
+    </LinearLayout>
+
+    <include layout="@layout/ads_incl_fb_banner"/>
+    
+       <TextView
+        android:id="@+id/tvLoanCostResults"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"        
+        android:layout_marginTop="@dimen/margin_l"
+        android:textSize="@dimen/text_xl"
+        android:text="@string/LoanCalc"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />   
+    
+   
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" > 
+    
+	<TextView
+        android:id="@+id/textView6"
+        android:layout_width="@dimen/label_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"             
+        android:textSize="@dimen/text_m"
+        android:text="@string/total_repay"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />
+    
+    <EditText
+        android:id="@+id/editTotalToRepay"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"           
+        android:nextFocusDown="@+id/editCostPercent"
+        android:background="@layout/edit_result"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="number"
+        android:editable="false"
+        android:clickable="false" 
+	    android:cursorVisible="false" 
+	    android:focusable="false" 
+	    android:focusableInTouchMode="false"
+        android:maxLength="15"
+        android:maxLines="1"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+        
+    </EditText>
+    
+    <TextView
+        android:id="@+id/tvSymbol3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:textSize="@dimen/text_l"
+        android:text="@string/currency"
+        android:textAppearance="?android:attr/textAppearanceLarge" />    
+    
+    </LinearLayout>         
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" > 
+    
+	<TextView
+	    android:id="@+id/textView7"
+	    android:layout_width="@dimen/label_width"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:text="@string/total_cost"
+	    android:textAppearance="?android:attr/textAppearanceLarge"
+	    android:textSize="@dimen/text_m" />
+    
+    <EditText
+        android:id="@+id/editTotalCost"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"           
+        android:nextFocusDown="@+id/editCostPercent"
+        android:background="@layout/edit_result"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="number"
+        android:editable="false"
+        android:clickable="false" 
+        android:cursorVisible="false" 
+        android:focusable="false" 
+        android:focusableInTouchMode="false"
+        android:maxLength="15"
+        android:maxLines="1"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+        
+    </EditText>
+    
+    <TextView
+        android:id="@+id/tvSymbol5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:textSize="@dimen/text_l"
+        android:text="@string/currency"
+        android:textAppearance="?android:attr/textAppearanceLarge" />    
+    
+    </LinearLayout>     
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" >       
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="@dimen/label_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/cost_percent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text_m" />
+    
+    <EditText
+        android:id="@+id/editCostPercent"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"   
+        android:nextFocusDown="@+id/editText3"
+        android:background="@layout/edit_result"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="numberDecimal"
+        android:lines="1"
+        android:editable="false"
+        android:clickable="false" 
+        android:cursorVisible="false" 
+        android:focusable="false" 
+        android:focusableInTouchMode="false"
+        android:maxLength="5"
+        android:maxLines="1"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >       
+                 
+    </EditText>    
+    
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:text="%"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/text_l"
+         />
+    
+    </LinearLayout>         
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:gravity="center_vertical"  
+        android:background="@layout/result" > 
+    
+	<TextView
+	    android:id="@+id/textView7a"
+	    android:layout_width="@dimen/label_width"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:text="@string/annual_percent_rate"
+	    android:textAppearance="?android:attr/textAppearanceLarge"
+	    android:textSize="@dimen/text_m" />
+    
+    <EditText
+        android:id="@+id/editAPR"
+        android:layout_width="@dimen/edit_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"           
+        android:nextFocusDown="@+id/editCostPercent"
+        android:background="@layout/edit_result"
+        android:ems="10"
+        android:gravity="center_vertical|right"
+        android:inputType="number"
+            android:editable="false"
+            android:clickable="false" 
+	        android:cursorVisible="false" 
+	        android:focusable="false" 
+	        android:focusableInTouchMode="false"        
+        android:maxLength="15"
+        android:maxLines="1"
+        android:textSize="@dimen/edit_text_size"
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+        
+    </EditText>
+    
+    <TextView
+        android:id="@+id/tvPercent1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:textSize="@dimen/text_l"
+        android:text="%"
+        android:textAppearance="?android:attr/textAppearanceLarge" />    
+    
+    </LinearLayout>      
+        
+    <!-- android:background="@layout/button_round" -->
+    
+	<LinearLayout
+	    android:id="@+id/layResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:visibility="gone"
+        android:orientation="vertical" >    
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"        
+        android:layout_marginTop="@dimen/margin_l"
+        android:textSize="@dimen/text_l"
+        android:text="@string/payment_amount"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />    
+    
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"        
+        android:textSize="@dimen/text_m"
+        android:text="months"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         />
+    
+    <TextView
+        android:id="@+id/tvPayAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/margin_l"
+        android:background="@layout/result"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/edit_text_size"
+         />        
+
+    <LinearLayout
+        android:id="@+id/LinLayoutCost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_l"
+        android:orientation="horizontal" >
+    
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"        
+        android:textSize="@dimen/text_l"
+        android:text="@string/total_cost"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+         />
+    
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"        
+        android:layout_marginTop="@dimen/margin_l"
+        android:textSize="@dimen/text_l"
+        android:text="@string/cost_percent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+         />
+
+    </LinearLayout>
+    <!--  android:background="@drawable/gold_bar3d" -->
+
+    <!-- TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pre_currency"
+        android:textSize="@dimen/text_l"
+        android:textAppearance="?android:attr/textAppearanceLarge" /-->
+    
+
+    <LinearLayout
+        android:id="@+id/LinLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal" >
+        
+	    <TextView
+	        android:id="@+id/tvTotalCost"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:background="@layout/result"
+	        android:text=""
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        android:textSize="@dimen/edit_text_size"
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvCostPercent"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:layout_marginLeft="@dimen/margin_l"	        
+	        android:background="@layout/result"
+	        android:text=""
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        android:textSize="@dimen/edit_text_size"
+	         />
+        
+    </LinearLayout>
+    
+	    <TextView
+	        android:id="@+id/tvAPR"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:background="@layout/result"
+	        android:text=""
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        android:textSize="@dimen/edit_text_size"
+	         />    
+    
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:padding="@dimen/margin_xl"
+        android:orientation="vertical"
+        android:background="@layout/result"	>
+	    
+	    <TextView
+	        android:id="@+id/tvInfo0"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/instructions"
+	        android:textSize="@dimen/text_xx"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />        
+	    
+	    <TextView
+	        android:id="@+id/tvInfo1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/information_5"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />                
+
+	    <TextView
+	        android:id="@+id/tvInfo2a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/loan_amt"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo2b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/hint_amount"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />
+	    
+		<TextView
+	        android:id="@+id/tvInfo3a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/percentage"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo3b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/hint_interest"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />
+	    
+	   <TextView
+	        android:id="@+id/tvInfo4a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/commission"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo4b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/hint_commission"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />	
+	         
+		<TextView
+	        android:id="@+id/tvInfo5a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/other_fees"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo5b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/hint_other_fees"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />		    
+	         
+		<TextView
+	        android:id="@+id/tvInfo6a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/payments"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo6b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        
+	        android:text="@string/hint_install"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />		    
+	         
+		<TextView
+	        android:id="@+id/tvInfo7a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/payment_amount"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo7b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_payment"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />
+	    
+	</LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/native_ad_container_end"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:paddingTop="@dimen/margin_l">
+    </FrameLayout>
+
+    <include layout="@layout/ads_incl_amazon_banner"/>
+	    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_l"
+        android:padding="@dimen/margin_xl"
+        android:orientation="vertical"
+        android:background="@layout/result"	>
+	    
+	    <TextView
+	        android:id="@+id/tvInfo8"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:text="@string/results"
+	        android:textSize="@dimen/text_xx"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />    
+	         
+		<TextView
+	        android:id="@+id/tvInfo9a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/total_cost"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo9b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_total_cost"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />	    
+	         
+		<TextView
+	        android:id="@+id/tvInfo10a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/cost_percent"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo10b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_cost_percent"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />
+	    
+	   <TextView
+	        android:id="@+id/tvInfo11a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/total_repay"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo11b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_total_repay"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />
+	    
+		<TextView
+	        android:id="@+id/tvInfo12a"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/annual_percent_rate"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:textStyle="bold" 
+	         />
+	    
+	    <TextView
+	        android:id="@+id/tvInfo12b"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        
+	        android:text="@string/hint_apr"
+	        android:textSize="@dimen/text_l"
+	        android:textAppearance="?android:attr/textAppearanceLarge"
+	         />	    
+	         
+		</LinearLayout>
+
+    <!--FrameLayout
+        android:id="@+id/native_ad_container_end"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="visible"
+        android:paddingTop="@dimen/margin_s">
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/fb_banner_ad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:orientation="vertical"
+        >
+    </FrameLayout>
+
+    <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/adViewExpress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+
+        android:visibility="visible"
+        ads:adSize="320x280"
+        ads:adUnitId="@string/admob_express_large_id">
+    </com.google.android.gms.ads.NativeExpressAdView>
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/loan_adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_alignParentBottom="true"
+        android:visibility="visible"
+        ads:adUnitId="ca-app-pub-4402674240600002/4974086172"
+        ads:adSize="SMART_BANNER"/>
+
+    <com.amazon.device.ads.AdLayout
+        android:id="@+id/amazonAdview"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        /-->
+
+    
+   	<!-- com.google.ads.AdView android:id="@+id/adView"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_below="@+id/LinLayout"
+                 android:layout_marginTop="5dp"	                 
+                 ads:adUnitId="ca-app-pub-4402674240600002/9555339371"
+                 ads:adSize="SMART_BANNER"
+                 ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+                 ads:loadAdOnCreate="true"/-->
+
+    <include layout="@layout/ads_incl_fb_native"/>
+
+</LinearLayout>
+
+</ScrollView>
+
+
+    </RelativeLayout>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">মূল্য পর</string>
+<string name="annual_percent_rate">বার্ষিক শতকরা হার</string>
+<string name="app_name">শতাংশ ক্যালকুলেটর</string>
+<string name="app_name2">শতাংশ এবং ডিসকাউন্ট</string>
+<string name="app_name3">ডিসকাউন্ট ক্যালকুলেটর</string>
+<string name="app_name4">শতাংশ এবং ডিসকাউন্ট ক্যালকুলেটর</string>
+<string name="before_price">আগে মূল্য</string>
+<string name="big_product">বড় পণ্য</string>
+<string name="bill_amount">প্রাপ্তি পরিমাণ</string>
+<string name="bug">ভুল</string>
+<string name="cancel">বাতিল</string>
+<string name="choose_currency">মুদ্রা পছন্দ করুন</string>
+<string name="clear">সাফ সব</string>
+<string name="commission">কমিশন</string>
+<string name="compare_result">তুলনা ফলাফল</string>
+<string name="cost_percent">ঋণ শতাংশ খরচ</string>
+<string name="del">মুছে দিন</string>
+<string name="discount">ডিসকাউন্ট</string>
+<string name="discount_rate">ডিসকাউন্ট রেট</string>
+<string name="feedback">আমাদের লিখুন!</string>
+<string name="feedback_prompt">হাই, আপনি আমাদের আমরা আপনার অভিজ্ঞতা উন্নত করতে পারেন, যাতে কিছু মতামত দিতে চান?</string>
+<string name="fill_all_non_framed">আপনি সমস্ত অ প্রণীত ক্ষেত্র অবশ্যই পূরণ করতে হবে</string>
+<string name="fill_in">সব ইনপুট ক্ষেত্র পূরণ করুন</string>
+<string name="fill_in_bill">আপনি অবশ্যই পূরণ করতে হবে: প্রাপ্তি পরিমাণ</string>
+<string name="fill_in_compulsory">সব প্রয়োজনীয় ক্ষেত্রগুলি পূরণ করুন</string>
+<string name="fill_in_xor">খালি ঠিক এক ক্ষেত্র ত্যাগ</string>
+<string name="help_translate">এই অ্যাপ্লিকেশন অনুবাদ সাহায্য</string>
+<string name="hint_after_price">ডিসকাউন্ট পরে দাম. অন্য কথায়, এই নিম্ন দাম.</string>
+<string name="hint_amount">আপনার ঋণের পরিমাণ. আপনি ক্রয় করতে চান, যা পণ্য, দাম সাধারণত সমান. এই ক্ষেত্রটি প্রয়োজন বোধ করা হয়.</string>
+<string name="hint_apr">বার্ষিক শতকরা হার (এপ্রিল) - মোট খরচ সহ ঋণ কার্যকর বার্ষিক সুদের হার,.</string>
+<string name="hint_before_price">ডিসকাউন্ট আগে দাম. অন্য কথায়, এই উচ্চ মূল্য.</string>
+<string name="hint_bill_amount">মোট পরিমাণ আপনার প্রাপ্তি পরিশোধ করতে হবে.</string>
+<string name="hint_commission">কমিশন (বা ঋণ ফি) ঋণ শতকরা হিসাবে. যদি পরিচিত না, ফাঁকা ছেড়ে চলে যান.</string>
+<string name="hint_cost_percent">মোট খরচ (যেমন উপরে) ঋণ শতকরা হিসাবে প্রকাশ করেন.</string>
+<string name="hint_discount_rate">এই শতকরা হার হিসেবে ডিসকাউন্ট হার.</string>
+<string name="hint_initial_amount">শতাংশ হতে (বা ছিল) হবে, যা থেকে প্রাথমিক পরিমাণ হিসাব করা.</string>
+<string name="hint_install">মাসিক পেমেন্ট সংখ্যা সাধারণত সমান. এই ক্ষেত্রটি প্রয়োজন বোধ করা হয়.</string>
+<string name="hint_interest">আপনার ঋণ নামমাত্র (বার্ষিক) সুদের হার কি? এই ক্ষেত্রটি ফাঁকা ছেড়ে দেওয়া হয়, তাহলে আপনি "কিস্তি" পূরণ করতে হবে</string>
+<string name="hint_other_fees">ঋণের পরিমাণ উপর নির্ভরশীল নয় যে সমস্ত অন্যান্য ফি. যদি পরিচিত না, ফাঁকা ছেড়ে চলে যান.</string>
+<string name="hint_payment">আপনার (মাসিক) কিস্তিতে প্রতিটি পরিমাণ. যদি আপনি "শতকরা" খালি রাখা, যদি না আপনি, এই ফিল্ড পূরণ করতে হবে না. খালি, তাহলে এটি বাটন টিপে পরে গণনা করা হবে.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">উভয় পণ্যের জন্য এক ইউনিটের দাম. ইত্যাদি 1G, 1ml, 1oz, 1 আইটেম হতে পারে</string>
+<string name="hint_result_amount">প্রাথমিক মান শতাংশ গণনা ফলে যে পরিমাণ.</string>
+<string name="hint_saved_amount">আপনি ছাড় মূল্যে কেনার দ্বারা সংরক্ষণ করা হয় যে পরিমাণ টাকা.</string>
+<string name="hint_saved_bigger">আপনি বড় পণ্য কেনার দ্বারা সংরক্ষণ করতে হবে যে পরিমাণ টাকা. ইতিবাচক মান বড় পণ্যের একটি ভাল চুক্তি, যে ইঙ্গিত দেয়. নেতিবাচক মান ছোট পণ্যের একটি ভাল চুক্তি, যে ইঙ্গিত দেয়.</string>
+<string name="hint_simple_percent">শতকরা, আপনি "প্রাথমিক মান" আউট গণনা করতে চান</string>
+<string name="hint_small_price">দেওয়া পণ্যের দাম.</string>
+<string name="hint_small_units">দেওয়া পণ্য ইউনিটের সংখ্যা, এটা আয়তন, ওজন বা ধারক আইটেম সংখ্যা হতে পারে.</string>
+<string name="hint_tip_amount">টিপ পরিমাণ আপনি দিতে ইচ্ছুক.</string>
+<string name="hint_tip_percentage">আপনি দিতে চান টিপ শতাংশ হার.</string>
+<string name="hint_total_cost">চক্রবৃদ্ধি সুদ এবং সব ফি সহ ঋণ মোট খরচ.</string>
+<string name="hint_total_repay">প্রয়োজন হবে মোট পরিমাণ ঋণদাতা শোধিত করা.</string>
+<string name="hint_total_to_pay">বিল প্লাস টিপ পরিমাণ সমান আপনি প্রয়োজন (বা চান) দিতে যে মোট পরিমাণ,.</string>
+<string name="hint_would_cost">ইউনিট প্রতি মূল্য অভিমানী বড় পণ্য প্রকল্পিত মূল্য ছোট পণ্য যে সমান ছিল.</string>
+<string name="information_1">কেনাকাটা করার সময় আপনি একটি বাটা বা ডিসকাউন্ট দেখতে যখনই আপনি সংরক্ষণ করতে পারবেন কত, চেক করতে পারেন, বা পণ্য মূল দাম ছিল. আসলে, আপনি খালি তাদের ক্ষেত্র যাব দ্বারা মান কোনো নিরূপণ করতে পারেন. আপনি খালি ঠিক দুটি ক্ষেত্র ছেড়ে চলে যেতে হবে. আপনি 25% পর্যন্ত ডিসকাউন্ট আছে, কল্পনা, এবং আসল মূল্য আপনি বর্তমান মূল্য এবং আপনি কত সংরক্ষণ করতে হবে খুঁজে বের করতে এবং "ছাড়" "আগে" পূরণ করা প্রয়োজন 299. ছিল.</string>
+<string name="information_2">এই সহজ টুল ধন্যবাদ, আপনি একটি বড় পণ্য কেনার আপনি কিছু টাকা এবং কত সংরক্ষণ করতে হবে কি না তা খুঁজে বের করতে পারেন. আপনি 2.79 খরচ, যা একটি ছোট বোতল (0.5 লিটার) এবং 7.49 খরচ, যা একটি বড় বোতল (1.5 লিটার) একটি পানীয় আছে, ভাবুন. একটি ভাল প্রস্তাব, যা এক? আপনার যা দরকার তা 4 ইনপুট ক্ষেত্র পূরণ করুন এবং "গণনা" টিপুন হয়.</string>
+<string name="information_3">কেনাকাটা করার সময় আপনি একটি বাটা বা ডিসকাউন্ট দেখতে যখনই আপনি সংরক্ষণ করতে পারবেন কত, চেক করতে পারেন, বা পণ্য মূল দাম ছিল. আসলে, আপনি খালি তাদের ক্ষেত্র যাব দ্বারা মান কোনো নিরূপণ করতে পারেন. আপনি খালি ঠিক দুটি ক্ষেত্র ছেড়ে চলে যেতে হবে. আপনি 25% পর্যন্ত ডিসকাউন্ট আছে, কল্পনা, এবং আসল মূল্য আপনি বর্তমান মূল্য এবং আপনি কত সংরক্ষণ করতে হবে খুঁজে বের করতে এবং "ছাড়" "আগে" পূরণ করা প্রয়োজন 299. ছিল.</string>
+<string name="information_4">এই সহজ টুল ধন্যবাদ, আপনি একটি বড় পণ্য কেনার আপনি কিছু টাকা এবং কত সংরক্ষণ করতে হবে কি না তা খুঁজে বের করতে পারেন. আপনি 2.79 খরচ, যা একটি ছোট বোতল (0.5 লিটার) এবং 7.49 খরচ, যা একটি বড় বোতল (1.5 লিটার) একটি পানীয় আছে, ভাবুন. একটি ভাল প্রস্তাব, যা এক? আপনার যা দরকার তা 4 ইনপুট ক্ষেত্র পূরণ করুন এবং "গণনা" টিপুন হয়.</string>
+<string name="information_5">আপনি আপনার ক্রয়ের জন্য একটি ঋণ গ্রহণ করতে ইচ্ছুক, আপনি কার্যকর (বাস্তব) বার্ষিক শতকরা হার হিসেবে জড়িত সব খরচ নিরূপণ করতে পারেন. এটি দুটি মোড মধ্যে কাজ করে. প্রথম, আপনি ঋণদাতা এবং মাসিক কিস্তিতে পরিমাণ হিসেবে মোট খরচ নিরূপণ করা হবে অ্যাপ্লিকেশন দ্বারা উপলব্ধ নামমাত্র (বার্ষিক) শতকরা হার প্রবেশ করতে হবে. দ্বিতীয় মোডে, আপনি (কখনও কখনও একটি বণিক দ্বারা উপস্থাপিত) মাসিক কিস্তি পরিমাণ প্রবেশ করতে হবে, এবং আবেদন বার্ষিক শতকরা হিসেবে সব খরচ নিরূপণ করা হবে.</string>
+<string name="initial_value">প্রাথমিক মান</string>
+<string name="instructions">নির্দেশনা</string>
+<string name="leave_one_of_two">শতাংশ, কিস্তি: খালি এক ছেড়ে দিন. নীচের নির্দেশাবলী দেখুন.</string>
+<string name="leave_two_empty">ঠিক দুটি ক্ষেত্র খালি ছেড়ে দিন</string>
+<string name="LoanCalc">ঋণ খরচ</string>
+<string name="loan_amt">ঋণের পরিমাণ</string>
+<string name="menu_title">কি আপনি নিরূপণ করতে চান?</string>
+<string name="msg_from_dev">ডেভেলপার থেকে বার্তা</string>
+<string name="ok">ঠিক আছে</string>
+<string name="opinion">ধারণা</string>
+<string name="other_fees">অন্যান্য ফি</string>
+<string name="payments">কিস্তিতে সংখ্যা</string>
+<string name="payment_amount">কিস্তি পরিমাণ</string>
+<string name="percent">শতাংশ</string>
+<!-- as in percentage rate -->
+<string name="percentage">শতকরা হার</string>
+<string name="price_unit">ইউনিট প্রতি মূল্য</string>
+<string name="question">প্রশ্ন</string>
+<!-- imperative -->
+<string name="rate_app">এই অ্যাপ্লিকেশন হার!</string>
+<string name="regular_percent">নিয়মিত শতাংশ</string>
+<string name="results">ফলাফল</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">ফলাফল মান</string>
+<string name="saved_amount">সংরক্ষিত পরিমাণ</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">নির্দেশাবলীর নিচে স্ক্রল জন্য</string>
+<string name="send">পাঠান</string>
+<string name="small_price">মূল্য</string>
+<string name="small_product">ছোট পণ্য</string>
+<string name="small_units">ইউনিট বা পরিমাণ</string>
+<string name="submit">গণনা করা</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">লক্ষ্য পরিমাণ</string>
+<string name="thanks">আপনাকে ধন্যবাদ!</string>
+<string name="tip">আনুতোষিক পরিমাণ</string>
+<string name="tip_amount">আনুতোষিক পরিমাণ</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">শতকরা হার</string>
+<string name="total_cost">মোট খরচ</string>
+<string name="total_pay">টাকা দিতে মোট</string>
+<string name="total_repay">শোধ করা মোট</string>
+<string name="would_cost">প্রকল্পিত খরচ</string>
+</resources>

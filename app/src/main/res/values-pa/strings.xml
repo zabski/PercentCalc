@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">ਮੁੱਲ ਦੇ ਬਾਅਦ</string>
+<string name="annual_percent_rate">ਸਾਲਾਨਾ ਦਰ ਨਾਲ</string>
+<string name="app_name">ਪ੍ਰਤੀਸ਼ਤਤਾ ਦੇ ਕੈਲਕੁਲੇਟਰ</string>
+<string name="app_name2">ਪ੍ਰਤੀਸ਼ਤਤਾ ਅਤੇ ਛੋਟ</string>
+<string name="app_name3">ਛੂਟ ਦੇ ਕੈਲਕੁਲੇਟਰ</string>
+<string name="app_name4">ਪ੍ਰਤੀਸ਼ਤਤਾ ਅਤੇ ਛੋਟ ਦੇ ਕੈਲਕੁਲੇਟਰ</string>
+<string name="before_price">ਮੁੱਲ ਅੱਗੇ</string>
+<string name="big_product">ਵੱਡੇ ਉਤਪਾਦ</string>
+<string name="bill_amount">ਰਸੀਦ ਦੀ ਮਾਤਰਾ</string>
+<string name="bug">ਗਲਤੀ ਹੈ</string>
+<string name="cancel">ਰੱਦ ਕਰੋ</string>
+<string name="choose_currency">ਮੁਦਰਾ ਚੁਣੋ</string>
+<string name="clear">ਆਸਮਾਨ ਸਾਫ ਸਭ ਨੂੰ</string>
+<string name="commission">ਕਮਿਸ਼ਨ</string>
+<string name="compare_result">ਤੁਲਨਾ ਦਾ ਨਤੀਜਾ</string>
+<string name="cost_percent">ਕਰਜ਼ੇ ਦੀ ਫੀਸਦੀ ਦੇ ਰੂਪ ਵਿੱਚ ਲਾਗਤ</string>
+<string name="del">ਹਟਾਓ</string>
+<string name="discount">ਛੂਟ</string>
+<string name="discount_rate">ਛੂਟ ਦੇ ਦਰ</string>
+<string name="feedback">ਸਾਡੇ ਲਈ ਲਿਖੋ!</string>
+<string name="feedback_prompt">ਅਧਿਕਤਮ, ਤੁਹਾਨੂੰ ਸਾਨੂੰ ਆਪਣੇ ਤਜਰਬੇ ਦਾ ਸੁਧਾਰ ਕਰ ਸਕਦੇ, ਜੋ ਕਿ ਇਸ ਨੂੰ ਕੁਝ ਫੀਡਬੈਕ ਦੇਣ ਲਈ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<string name="fill_all_non_framed">ਤੁਹਾਨੂੰ ਸਭ ਨੂੰ ਗੈਰ-ਆਇਦ ਖੇਤਰ ਨੂੰ ਭਰਨ ਦੀ ਲੋੜ ਹੈ</string>
+<string name="fill_in">ਸਭ ਇੰਪੁੱਟ ਖੇਤਰ ਵਿੱਚ ਭਰੋ ਜੀ</string>
+<string name="fill_in_bill">ਤੁਹਾਨੂੰ ਵਿਚ ਭਰਨਾ ਚਾਹੀਦਾ ਹੈ: ਰਸੀਦ ਦੀ ਮਾਤਰਾ</string>
+<string name="fill_in_compulsory">ਸਾਰੇ ਖੇਤਰ ਭਰੋ ਜੀ</string>
+<string name="fill_in_xor">ਖਾਲੀ ਬਿਲਕੁਲ ਨੂੰ ਇੱਕ ਖੇਤਰ ਛੱਡੋ</string>
+<string name="help_translate">ਇਸ ਕਾਰਜ ਨੂੰ ਅਨੁਵਾਦ ਕਰਨ</string>
+<string name="hint_after_price">ਛੂਟ ਬਾਅਦ ਮੁੱਲ. ਹੋਰ ਸ਼ਬਦ ਵਿੱਚ, ਇਸ ਨੂੰ ਘੱਟ ਮੁੱਲ ਹੈ.</string>
+<string name="hint_amount">ਆਪਣੇ ਕਰਜ਼ੇ ਦੀ ਮਾਤਰਾ ਹੈ. ਤੁਹਾਨੂੰ ਖਰੀਦਣ ਲਈ ਚਾਹੁੰਦੇ ਹੋ, ਜੋ ਕਿ ਉਤਪਾਦ, ਦੀ ਕੀਮਤ ਨੂੰ ਆਮ ਤੌਰ \'ਤੇ ਬਰਾਬਰ. ਇਸ ਫੀਲਡ ਦੀ ਲੋੜ ਹੈ.</string>
+<string name="hint_apr">ਸਾਲਾਨਾ ਦਰ ਨਾਲ (APR) - ਕੁੱਲ ਲਾਗਤ ਵੀ ਸ਼ਾਮਲ ਹਨ ਦਾ ਕਰਜ਼ਾ ਦੇ ਪ੍ਰਭਾਵੀ ਸਾਲਾਨਾ ਵਿਆਜ ਦੀ ਦਰ,.</string>
+<string name="hint_before_price">ਛੂਟ ਅੱਗੇ ਮੁੱਲ. ਹੋਰ ਸ਼ਬਦ ਵਿੱਚ, ਇਸ ਨੂੰ ਉੱਚ ਮੁੱਲ ਹੈ.</string>
+<string name="hint_bill_amount">ਕੁੱਲ ਰਕਮ ਦਾ ਤੁਹਾਡੀ ਰਸੀਦ \'ਤੇ ਭੁਗਤਾਨ ਕਰਨ ਲਈ.</string>
+<string name="hint_commission">ਕਮਿਸ਼ਨ (ਜ ਦਾ ਕਰਜ਼ਾ ਫੀਸ ਦੀ) ਦਾ ਕਰਜ਼ਾ ਦੇ ਪ੍ਰਤੀਸ਼ਤ ਦੇ ਰੂਪ ਵਿੱਚ. ਜਾਣਿਆ ਨਾ, ਜੇ, ਨੂੰ ਖਾਲੀ ਛੱਡ ਦਿੰਦੇ ਹਨ.</string>
+<string name="hint_cost_percent">ਕੁੱਲ ਲਾਗਤ (AS ਉੱਪਰ) ਨੂੰ ਕਰਜ਼ਾ ਦੇ ਪ੍ਰਤੀਸ਼ਤ ਦੇ ਰੂਪ ਵਿੱਚ ਪ੍ਰਗਟ ਕੀਤਾ ਹੈ.</string>
+<string name="hint_discount_rate">ਇਹ ਪ੍ਰਤੀਸ਼ਤਤਾ ਦੇ ਰੂਪ ਛੂਟ ਦੀ ਦਰ ਹੈ.</string>
+<string name="hint_initial_amount">ਪ੍ਰਤੀਸ਼ਤਤਾ ਹੋ (ਜ ਦਾ ਸੀ) ਜਾਵੇਗਾ, ਜੋ ਕਿ ਸ਼ੁਰੂਆਤੀ ਰਕਮ ਨੂੰ ਦਾ ਹਿਸਾਬ.</string>
+<string name="hint_install">ਮਹੀਨਾਵਾਰ ਭੁਗਤਾਨ ਨੂੰ ਦੀ ਗਿਣਤੀ ਕਰਨ ਲਈ ਆਮ ਤੌਰ \'ਤੇ ਬਰਾਬਰ. ਇਸ ਫੀਲਡ ਦੀ ਲੋੜ ਹੈ.</string>
+<string name="hint_interest">ਆਪਣੇ ਕਰਜ਼ੇ ਦੀ ਨਾਮਾਤਰ (ਸਾਲਾਨਾ) ਵਿਆਜ ਦੀ ਦਰ ਕੀ ਹੈ? ਇਹ ਖੇਤਰ ਨੂੰ ਖਾਲੀ ਛੱਡ ਦਿੱਤਾ ਗਿਆ ਹੈ, ਜੇ, ਤੁਹਾਨੂੰ "ਕਿਸ਼ਤ" ਵਿੱਚ ਭਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ</string>
+<string name="hint_other_fees">ਕਰਜ਼ੇ ਦੀ ਰਕਮ \'ਤੇ ਨਿਰਭਰ ਨਹੀ ਹਨ, ਜੋ ਕਿ ਹੋਰ ਸਾਰੇ ਫੀਸ. ਜਾਣਿਆ ਨਾ, ਜੇ, ਨੂੰ ਖਾਲੀ ਛੱਡ ਦਿੰਦੇ ਹਨ.</string>
+<string name="hint_payment">ਆਪਣੇ (ਮਹੀਨਾਵਾਰ) ਿਕਸ਼ਤ ਦੇ ਹਰੇਕ ਦੀ ਮਾਤਰਾ ਹੈ. ਤੁਹਾਨੂੰ "ਪ੍ਰਤੀਸ਼ਤਤਾ |" ਨੂੰ ਖਾਲੀ ਛੱਡ ਦਿੱਤਾ, ਜਦ ਤੱਕ ਤੁਹਾਨੂੰ, ਇਸ ਖੇਤਰ ਵਿੱਚ ਭਰਨ ਦੀ ਲੋੜ ਨਹ ਹੈ. ਖਾਲੀ ਛੱਡ ਦਿੱਤਾ ਹੈ, ਇਸ ਨੂੰ ਬਟਨ ਨੂੰ ਦਬਾਉਣ ਦੇ ਬਾਅਦ ਦੀ ਗਣਨਾ ਕੀਤੀ ਜਾਵੇਗੀ.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">ਦੋਨੋ ਉਤਪਾਦ ਲਈ ਇੱਕ ਯੂਨਿਟ ਦੀ ਕੀਮਤ. ਇਹ ਆਦਿ 1g, 1ml, 1oz, 1 ਇਕਾਈ ਨੂੰ ਹੋ ਸਕਦਾ ਹੈ</string>
+<string name="hint_result_amount">ਸ਼ੁਰੂਆਤੀ ਮੁੱਲ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਦਾ ਹਿਸਾਬ ਤੱਕ ਦੇ ਨਤੀਜੇ ਹੈ, ਜੋ ਕਿ ਰਕਮ ਨੂੰ.</string>
+<string name="hint_saved_amount">ਜੇਕਰ ਤੁਹਾਨੂੰ ਛੂਟ ਕੀਮਤ \'ਤੇ ਖਰੀਦ ਕੇ ਸੰਭਾਲਣ ਜਾ ਰਹੇ ਹੈ, ਜੋ ਕਿ ਪੈਸੇ ਦੀ ਮਾਤਰਾ ਨੂੰ.</string>
+<string name="hint_saved_bigger">ਤੁਹਾਨੂੰ ਵੱਡੀ ਉਤਪਾਦ ਖਰੀਦਣ ਕੇ ਸੰਭਾਲ ਕਰੇਗਾ, ਜੋ ਕਿ ਪੈਸੇ ਦੀ ਮਾਤਰਾ ਹੈ. ਮੁੱਲ ਵੱਡਾ ਉਤਪਾਦ ਇੱਕ ਬਿਹਤਰ ਸੌਦਾ ਹੈ, ਜੋ ਕਿ, ਹੈ. ਰਿਣਾਤਮਕ ਮੁੱਲ ਨੂੰ ਛੋਟੇ ਉਤਪਾਦ ਇੱਕ ਬਿਹਤਰ ਸੌਦਾ ਹੈ, ਜੋ ਕਿ, ਹੈ.</string>
+<string name="hint_simple_percent">ਪ੍ਰਤੀਸ਼ਤ, ਤੁਹਾਨੂੰ "ਸ਼ੁਰੂਆਤੀ ਮੁੱਲ ਹੈ" ਦੇ ਬਾਹਰ ਦੀ ਗਣਨਾ ਕਰਨ ਲਈ ਹੈ, ਜੋ ਕਿ ਚਾਹੁੰਦੇ ਹਨ</string>
+<string name="hint_small_price">ਨੂੰ ਦਿੱਤਾ ਉਤਪਾਦ ਦੀ ਕੀਮਤ.</string>
+<string name="hint_small_units">ਦਿੱਤੇ ਗਏ ਉਤਪਾਦ ਵਿੱਚ ਯੂਨਿਟ ਦੀ ਗਿਣਤੀ, ਇਸ ਨੂੰ ਵਾਲੀਅਮ, ਭਾਰ ਜ ਕੰਟੇਨਰ ਵਿੱਚ ਆਈਟਮ ਦੀ ਗਿਣਤੀ ਵੀ ਹੋ ਸਕਦਾ ਹੈ.</string>
+<string name="hint_tip_amount">ਟਿਪ ਦੀ ਰਕਮ ਦਾ ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਤਿਆਰ ਹੁੰਦੇ ਹਨ.</string>
+<string name="hint_tip_percentage">ਤੁਹਾਨੂੰ ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਚਾਹੁੰਦੇ ਹੋ ਟਿਪ ਦੀ ਦਰ ਨਾਲ.</string>
+<string name="hint_total_cost">ਿਮਸ਼ਰਤ ਵਿਆਜ ਅਤੇ ਸਾਰੇ ਦੀ ਫੀਸ ਵੀ ਸ਼ਾਮਲ ਹਨ ਦਾ ਕਰਜ਼ਾ ਦੇ ਕੁੱਲ ਲਾਗਤ,.</string>
+<string name="hint_total_repay">ਦੀ ਲੋੜ ਹੈ, ਜੋ ਕਿ ਕੁੱਲ ਰਕਮ \'ਤੇ ਉਧਾਰ ਦੇਣ ਅਦਾ ਕਰਨਾ ਹੋਵੇਗਾ.</string>
+<string name="hint_total_to_pay">ਬਿੱਲ ਨੂੰ ਪਲੱਸ ਟਿਪ ਦੀ ਰਕਮ ਦੇ ਬਰਾਬਰ ਦੀ ਤੁਹਾਨੂੰ ਲੋੜ ਹੈ (ਜ ਚਾਹੁੰਦੇ ਹੋ) ਦਾ ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਹੈ, ਜੋ ਕਿ ਕੁੱਲ ਰਕਮ,.</string>
+<string name="hint_would_cost">ਪ੍ਰਤੀ ਯੂਨਿਟ ਇਸ ਦੀ ਕੀਮਤ, ਇਹ ਮੰਨ ਕੇ ਵੱਡਾ ਉਤਪਾਦ ਦੇ ਕਾਲਪਨਿਕ ਕੀਮਤ ਛੋਟੇ ਉਤਪਾਦ ਦੀ ਹੈ, ਜੋ ਕਿ ਬਰਾਬਰ ਸੀ.</string>
+<string name="information_1">ਖਰੀਦਦਾਰੀ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਨੂੰ ਇੱਕ ਛੋਟ ਜ ਛੂਟ ਵੇਖ ਜਦ ਵੀ, ਤੁਹਾਨੂੰ ਬਚਾ ਸਕਦਾ ਹੈ ਤੇ ਕਿੰਨਾ ਕੁ, ਚੈੱਕ ਕਰ ਸਕਦਾ ਹੈ, ਜ ਉਤਪਾਦ ਦੀ ਅਸਲੀ ਕੀਮਤ ਕੀ ਸੀ. ਅਸਲ ਵਿੱਚ, ਤੁਹਾਨੂੰ ਖਾਲੀ ਆਪਣੇ ਖੇਤਰ ਨੂੰ ਛੱਡ ਕੇ ਮੁੱਲ ਦੇ ਕਿਸੇ ਵੀ ਗਣਨਾ ਕਰ ਸਕਦਾ ਹੈ. ਤੁਹਾਨੂੰ ਖਾਲੀ ਬਿਲਕੁਲ ਦੋ ਖੇਤਰ ਨੂੰ ਛੱਡ ਕਰਨ ਲਈ ਹੈ. ਤੁਹਾਡੇ 25% ਦੇ ਇੱਕ ਛੂਟ ਹੈ, ਜੋ ਕਿ, ਕਲਪਨਾ ਕਰੋ, ਅਤੇ ਅਸਲੀ ਕੀਮਤ ਤੁਸੀ ਮੌਜੂਦਾ ਕੀਮਤ ਅਤੇ ਕਿੰਨਾ ਕੁ ਤੁਹਾਨੂੰ ਬਚਾ ਕਰੇਗਾ ਇਹ ਪਤਾ ਕਰਨ ਲਈ ਅਤੇ "ਛੂਟ" "ਅੱਗੇ" ਨੂੰ ਭਰਨ ਦੀ ਲੋੜ ਹੈ 299 ਸੀ.</string>
+<string name="information_2">ਇਹ ਸੌਖਾ ਸੰਦ ਹੈ ਦਾ ਧੰਨਵਾਦ ਹੈ, ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਵੱਡਾ ਉਤਪਾਦ ਖਰੀਦਣ ਤੁਹਾਨੂੰ ਕੁਝ ਪੈਸੇ ਅਤੇ ਕਿੰਨਾ ਕੁ ਨੂੰ ਬਚਾ ਕਰੇਗਾ ਕਿ ਕੀ ਪਤਾ ਕਰ ਸਕਦੇ ਹੋ. ਤੁਹਾਨੂੰ 2.79 ਖ਼ਰਚ ਹੈ, ਜੋ ਕਿ ਇੱਕ ਛੋਟੀ ਜਿਹੀ ਬੋਤਲ (0.5 ਲੀਟਰ) ਅਤੇ 7.49 ਖ਼ਰਚ ਹੈ, ਜੋ ਕਿ ਇੱਕ ਵੱਡੀ ਬੋਤਲ (1.5 ਲੀਟਰ) ਵਿੱਚ ਪੀਣ ਦੀ ਹੈ, ਜੋ ਕਿ, ਕਲਪਨਾ ਕਰੋ. ਇੱਕ ਬਿਹਤਰ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦੇ ਹਨ ਇੱਕ ਹੈ? ਜੇ ਤੁਹਾਨੂੰ ਲੋੜ ਹੈ ਸਭ 4 ਇੰਪੁੱਟ ਖੇਤਰ ਨੂੰ ਭਰਨ ਅਤੇ "ਦੀ ਗਣਨਾ" ਦਬਾਉਣ ਲਈ ਹੈ.</string>
+<string name="information_3">ਖਰੀਦਦਾਰੀ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਨੂੰ ਇੱਕ ਛੋਟ ਜ ਛੂਟ ਵੇਖ ਜਦ ਵੀ, ਤੁਹਾਨੂੰ ਬਚਾ ਸਕਦਾ ਹੈ ਤੇ ਕਿੰਨਾ ਕੁ, ਚੈੱਕ ਕਰ ਸਕਦਾ ਹੈ, ਜ ਉਤਪਾਦ ਦੀ ਅਸਲੀ ਕੀਮਤ ਕੀ ਸੀ. ਅਸਲ ਵਿੱਚ, ਤੁਹਾਨੂੰ ਖਾਲੀ ਆਪਣੇ ਖੇਤਰ ਨੂੰ ਛੱਡ ਕੇ ਮੁੱਲ ਦੇ ਕਿਸੇ ਵੀ ਗਣਨਾ ਕਰ ਸਕਦਾ ਹੈ. ਤੁਹਾਨੂੰ ਖਾਲੀ ਬਿਲਕੁਲ ਦੋ ਖੇਤਰ ਨੂੰ ਛੱਡ ਕਰਨ ਲਈ ਹੈ. ਤੁਹਾਡੇ 25% ਦੇ ਇੱਕ ਛੂਟ ਹੈ, ਜੋ ਕਿ, ਕਲਪਨਾ ਕਰੋ, ਅਤੇ ਅਸਲੀ ਕੀਮਤ ਤੁਸੀ ਮੌਜੂਦਾ ਕੀਮਤ ਅਤੇ ਕਿੰਨਾ ਕੁ ਤੁਹਾਨੂੰ ਬਚਾ ਕਰੇਗਾ ਇਹ ਪਤਾ ਕਰਨ ਲਈ ਅਤੇ "ਛੂਟ" "ਅੱਗੇ" ਨੂੰ ਭਰਨ ਦੀ ਲੋੜ ਹੈ 299 ਸੀ.</string>
+<string name="information_4">ਇਹ ਸੌਖਾ ਸੰਦ ਹੈ ਦਾ ਧੰਨਵਾਦ ਹੈ, ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਵੱਡਾ ਉਤਪਾਦ ਖਰੀਦਣ ਤੁਹਾਨੂੰ ਕੁਝ ਪੈਸੇ ਅਤੇ ਕਿੰਨਾ ਕੁ ਨੂੰ ਬਚਾ ਕਰੇਗਾ ਕਿ ਕੀ ਪਤਾ ਕਰ ਸਕਦੇ ਹੋ. ਤੁਹਾਨੂੰ 2.79 ਖ਼ਰਚ ਹੈ, ਜੋ ਕਿ ਇੱਕ ਛੋਟੀ ਜਿਹੀ ਬੋਤਲ (0.5 ਲੀਟਰ) ਅਤੇ 7.49 ਖ਼ਰਚ ਹੈ, ਜੋ ਕਿ ਇੱਕ ਵੱਡੀ ਬੋਤਲ (1.5 ਲੀਟਰ) ਵਿੱਚ ਪੀਣ ਦੀ ਹੈ, ਜੋ ਕਿ, ਕਲਪਨਾ ਕਰੋ. ਇੱਕ ਬਿਹਤਰ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦੇ ਹਨ ਇੱਕ ਹੈ? ਜੇ ਤੁਹਾਨੂੰ ਲੋੜ ਹੈ ਸਭ 4 ਇੰਪੁੱਟ ਖੇਤਰ ਨੂੰ ਭਰਨ ਅਤੇ "ਦੀ ਗਣਨਾ" ਦਬਾਉਣ ਲਈ ਹੈ.</string>
+<string name="information_5">ਤੁਹਾਨੂੰ ਆਪਣੇ ਖਰੀਦਦਾਰੀ ਲਈ ਕਰਜ਼ਾ ਲੈਣ ਲਈ ਚਾਹੁੰਦੇ ਹੋ, ਤੁਹਾਨੂੰ ਪ੍ਰਭਾਵਸ਼ਾਲੀ (ਅਸਲੀ) ਸਾਲਾਨਾ ਦਰ ਨਾਲ ਦੇ ਰੂਪ ਵਿੱਚ ਦੇ ਰੂਪ ਵਿੱਚ ਚੰਗੀ ਸ਼ਾਮਲ ਸਾਰੇ ਦੇ ਖਰਚੇ ਦਾ ਹਿਸਾਬ ਕਰ ਸਕਦੇ ਹੋ. ਇਹ ਦੋ ਢੰਗ ਵਿੱਚ ਕੰਮ ਕਰਦੀ ਹੈ. ਪਹਿਲੀ ਵਿੱਚ, ਤੁਹਾਨੂੰ ਕਰਜ਼ਾ ਦੇਣ ਵਾਲਾ ਅਤੇ ਮਹੀਨਾਵਾਰ ਕਿਸ਼ਤ ਦੀ ਰਕਮ ਨੂੰ ਦੇ ਨਾਲ ਨਾਲ ਕੁੱਲ ਲਾਗਤ ਦਾ ਦਾ ਹਿਸਾਬ ਹੋਵੇਗਾ ਕਾਰਜ ਦੁਆਰਾ ਮੁਹੱਈਆ ਨਾਮਾਤਰ (ਸਾਲਾਨਾ) ਪ੍ਰਤੀਸ਼ਤਤਾ ਦੀ ਦਰ ਦਰਜ ਕਰਨ ਦੀ ਲੋੜ ਹੈ. ਦੂਜਾ ਢੰਗ ਵਿੱਚ, ਤੁਹਾਨੂੰ (ਕਈ ਵਾਰੀ ਵਪਾਰੀ ਦੁਆਰਾ ਪੇਸ਼) ਮਹੀਨੇਵਾਰ ਕਿਸ਼ਤ ਦੀ ਰਕਮ ਨੂੰ ਦਰਜ ਕਰਨ ਦੀ ਲੋੜ ਹੈ, ਅਤੇ ਕਾਰਜ ਨੂੰ ਸਾਲਾਨਾ ਪ੍ਰਤੀਸ਼ਤ ਦੇ ਦੇ ਨਾਲ ਨਾਲ ਸਭ ਨੂੰ ਦੇ ਖਰਚੇ ਦਾ ਹਿਸਾਬ ਹੋਵੇਗਾ.</string>
+<string name="initial_value">ਸ਼ੁਰੂਆਤੀ ਮੁੱਲ ਨੂੰ</string>
+<string name="instructions">ਨਿਰਦੇਸ਼</string>
+<string name="leave_one_of_two">ਪ੍ਰਤੀਸ਼ਤਤਾ, ਕਿਸ਼ਤ: ਦਾ ਖਾਲੀ ਇੱਕ ਨੂੰ ਛੱਡੋ. ਹੇਠ ਿਹਦਾਇਤ ਦੇਖੋ.</string>
+<string name="leave_two_empty">ਬਿਲਕੁਲ ਦੋ ਖੇਤਰ ਨੂੰ ਖਾਲੀ ਛੱਡੋ</string>
+<string name="LoanCalc">ਕਰਜ਼ੇ ਦੀ ਲਾਗਤ</string>
+<string name="loan_amt">ਕਰਜ਼ੇ ਦੀ ਰਕਮ</string>
+<string name="menu_title">ਕੀ ਤੁਹਾਨੂੰ ਦੀ ਗਣਨਾ ਕਰਨ ਲਈ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<string name="msg_from_dev">ਡਿਵੈਲਪਰ ਤੱਕ ਸੁਨੇਹਾ</string>
+<string name="ok">ਠੀਕ ਹੈ</string>
+<string name="opinion">ਰਾਏ</string>
+<string name="other_fees">ਹੋਰ ਫੀਸ</string>
+<string name="payments">ਿਕਸ਼ਤ ਦੀ ਗਿਣਤੀ</string>
+<string name="payment_amount">ਕਿਸ਼ਤ ਦੀ ਮਾਤਰਾ</string>
+<string name="percent">ਪ੍ਰਤੀਸ਼ਤ</string>
+<!-- as in percentage rate -->
+<string name="percentage">ਫੀਸਦੀ</string>
+<string name="price_unit">ਪ੍ਰਤੀ ਯੂਨਿਟ ਮੁੱਲ</string>
+<string name="question">ਸਵਾਲ</string>
+<!-- imperative -->
+<string name="rate_app">ਇਸ ਕਾਰਜ ਨੂੰ ਦਰਜਾ!</string>
+<string name="regular_percent">ਨਿਯਮਤ ਫੀਸਦੀ</string>
+<string name="results">ਨਤੀਜੇ</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">ਪਰਿਣਾਮ ਮੁੱਲ ਨੂੰ</string>
+<string name="saved_amount">ਸੰਭਾਲੀ ਦੀ ਰਕਮ</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">ਨਿਰਦੇਸ਼ ਕਰੋ ਲਈ</string>
+<string name="send">ਭੇਜੋ</string>
+<string name="small_price">ਮੁੱਲ</string>
+<string name="small_product">ਸਮਾਲ ਉਤਪਾਦ</string>
+<string name="small_units">ਯੂਸਨਟ ਜ ਮਾਤਰਾ</string>
+<string name="submit">ਗਣਨਾ</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Target ਦੀ ਰਕਮ</string>
+<string name="thanks">ਤੁਹਾਡਾ ਧੰਨਵਾਦ!</string>
+<string name="tip">ਗਰੈਚੁਟੀ ਦੀ ਮਾਤਰਾ</string>
+<string name="tip_amount">ਗਰੈਚੁਟੀ ਦੀ ਮਾਤਰਾ</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">ਦਰ</string>
+<string name="total_cost">ਕੁੱਲ ਲਾਗਤ</string>
+<string name="total_pay">ਦਾ ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਕੁੱਲ</string>
+<string name="total_repay">ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਕੁੱਲ</string>
+<string name="would_cost">ਕਾਲਪਨਿਕ ਲਾਗਤ</string>
+</resources>

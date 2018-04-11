@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">Presyo pagkatapos</string>
+<string name="annual_percent_rate">Porsyento ng Rate ng Taunang</string>
+<string name="app_name">Calculator ng porsyento</string>
+<string name="app_name2">Porsyento at mga diskwento</string>
+<string name="app_name3">Calculator ng mga diskwento</string>
+<string name="app_name4">Calculator ng porsyento at mga diskwento</string>
+<string name="before_price">Presyo ng bago</string>
+<string name="big_product">Malaking produkto</string>
+<string name="bill_amount">Halaga ng resibo</string>
+<string name="bug">Pagkakamali</string>
+<string name="cancel">Kanselahin</string>
+<string name="choose_currency">Pumili ng salapi</string>
+<string name="clear">I-clear ang lahat ng</string>
+<string name="commission">Komisyon</string>
+<string name="compare_result">Mga Resulta ng paghahambing</string>
+<string name="cost_percent">Gastos bilang porsyento ng utang</string>
+<string name="del">Alisin</string>
+<string name="discount">Diskuwento</string>
+<string name="discount_rate">Rate ng diskwento</string>
+<string name="feedback">Sumulat sa amin!</string>
+<string name="feedback_prompt">Hi, nais mong bigyan kami ng ilang feedback upang maaari naming mapabuti ang iyong karanasan?</string>
+<string name="fill_all_non_framed">Dapat mong punan ang lahat ng mga non-frame na mga patlang</string>
+<string name="fill_in">Mangyaring punan ang lahat ng field ng input</string>
+<string name="fill_in_bill">Dapat mong punan ang: Halaga ng resibo</string>
+<string name="fill_in_compulsory">Mangyaring punan ang lahat ng mga kinakailangang field</string>
+<string name="fill_in_xor">Mag-iwan ng eksaktong isang patlang na walang laman</string>
+<string name="help_translate">Tulungan isalin ang application na ito</string>
+<string name="hint_after_price">Presyo pagkatapos diskwento. Sa ibang salita, ito ay ang mas mababang presyo.</string>
+<string name="hint_amount">Ang halaga ng iyong utang. Karaniwan katumbas ng presyo ng produkto, kung saan nais mong bumili. Ang patlang na ito ay kinakailangan.</string>
+<string name="hint_apr">Taunang Porsiyento Rate (Abril) - Ang epektibong taunang rate ng loan interes, kabilang ang kabuuang gastos.</string>
+<string name="hint_before_price">Presyo ng bago diskwento. Sa ibang salita, ito ay ang mas mataas na presyo.</string>
+<string name="hint_bill_amount">Ang kabuuang halaga na magbayad sa iyong resibo.</string>
+<string name="hint_commission">Commission (o pautang na bayad) bilang porsyento ng mga pautang. Kung hindi kilala, iwanang blangko.</string>
+<string name="hint_cost_percent">Kabuuang gastos (tulad ng nasa itaas) na ipinahiwatig bilang porsyento ng mga pautang.</string>
+<string name="hint_discount_rate">Ito ay rate ng diskwento bilang porsyento.</string>
+<string name="hint_initial_amount">Ang paunang halaga mula sa kung saan porsyento ay magiging (o ay) kalkulahin.</string>
+<string name="hint_install">Karaniwan katumbas ng bilang ng mga buwanang mga pagbabayad. Ang patlang na ito ay kinakailangan.</string>
+<string name="hint_interest">Ano ang nominal (taunang) interes rate ng iyong utang? Kung ang patlang na ito ay iniwang blangko, kakailanganin mong punan ang "grupo ng paninda"</string>
+<string name="hint_other_fees">Ang lahat ng iba pang mga bayarin na hindi nakadepende sa dami ng utang. Kung hindi kilala, iwanang blangko.</string>
+<string name="hint_payment">Ang halaga ng bawat isa sa iyong (buwanan) installment. Hindi mo na kailangan upang punan ang mga patlang na ito, maliban kung left "Porsiyento" blangko. Kung iwanang blangko, ito ay kalkulado matapos ang pagpindot sa pindutan.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Ang mga presyo ng isang yunit para sa parehong mga produkto. Maaari itong maging alinman sa 1g, 1ml, 1oz, 1 item atbp</string>
+<string name="hint_result_amount">Ang halaga na nagreresulta mula sa pagkalkula ng porsyento ng paunang halaga.</string>
+<string name="hint_saved_amount">Ang halaga ng pera na kayo ay nagse-save sa pamamagitan ng pagbili sa diskwentong presyo.</string>
+<string name="hint_saved_bigger">Halaga ng pera na-save mo sa pamamagitan ng pagbili ng mas malaking produkto. Ang tiyak na halaga ay nagpapahiwatig, na ang mas malaking produkto ay isang mas mahusay na deal. Negatibong halaga ay nagpapahiwatig, na ang mga mas maliliit na produkto ay isang mas mahusay na deal.</string>
+<string name="hint_simple_percent">Porsyento, na gusto mong kalkulahin sa labas ng "Paunang halagang"</string>
+<string name="hint_small_price">Ang presyo ng ibinigay na produkto.</string>
+<string name="hint_small_units">Bilang ng mga unit sa isang partikular na produkto, maaari itong maging alinman sa volume, timbang o bilang ng mga item sa lalagyan.</string>
+<string name="hint_tip_amount">Ang halaga ng mga tip na gusto ninyong bayaran.</string>
+<string name="hint_tip_percentage">Porsyento ng rate ng tip na gusto ninyong bayaran.</string>
+<string name="hint_total_cost">Kabuuang halaga ng pautang, kabilang ang compounded interes at lahat ng mga bayarin.</string>
+<string name="hint_total_repay">Kabuuang halaga na kailangan na babayaran sa tagapagpahiram.</string>
+<string name="hint_total_to_pay">Kabuuang halaga na kailangan mo (o gusto) bayaran, katumbas ng bayarin kasama ang halaga ng tip.</string>
+<string name="hint_would_cost">Hypothetical presyo ng produkto mas malaki sa pag-aakala na presyo nito kada unit ay katumbas na ng mas maliliit na produkto.</string>
+<string name="information_1">Tuwing nakikita mo ang isang rebate o diskuwento habang shopping, maaari mong suriin, kung magkano ang iyong maaaring i-save, o kung ano ang orihinal na presyo ng produkto ay. Sa katunayan, maaari mong kalkulahin ang alinman sa mga halaga sa pamamagitan ng umaalis sa kanilang mga field na walang laman. Kailangan mong hayaang walang laman ang eksaktong dalawang mga patlang. Isipin, na mayroon kang isang discount ng 25%, at sa orihinal na presyo noon ay 299. Kailangan mo upang punan ang "bago" at "discount" upang malaman ang kasalukuyang presyo at kung magkano ang i-save.</string>
+<string name="information_2">Salamat sa madaling tool na ito, maaari mong malaman kung ang pagbili ng mas malaking produkto ay magse-save ka ng pera at kung magkano. Isipin, na ikaw ay may isang inumin sa isang maliit na bote (0.5 liters) na nagkakahalaga ng 2.79 at ng malaking bote (1.5 liters) na nagkakahalaga ng 7.49. Aling isa ay isang mas mahusay na alok na ito? Ang kailangan mo ay upang punan 4 field ng input at pindutin ang "kalkulahin".</string>
+<string name="information_3">Tuwing nakikita mo ang isang rebate o diskuwento habang shopping, maaari mong suriin, kung magkano ang iyong maaaring i-save, o kung ano ang orihinal na presyo ng produkto ay. Sa katunayan, maaari mong kalkulahin ang alinman sa mga halaga sa pamamagitan ng umaalis sa kanilang mga field na walang laman. Kailangan mong hayaang walang laman ang eksaktong dalawang mga patlang. Isipin, na mayroon kang isang discount ng 25%, at sa orihinal na presyo noon ay 299. Kailangan mo upang punan ang "bago" at "discount" upang malaman ang kasalukuyang presyo at kung magkano ang i-save.</string>
+<string name="information_4">Salamat sa madaling tool na ito, maaari mong malaman kung ang pagbili ng mas malaking produkto ay magse-save ka ng pera at kung magkano. Isipin, na ikaw ay may isang inumin sa isang maliit na bote (0.5 liters) na nagkakahalaga ng 2.79 at ng malaking bote (1.5 liters) na nagkakahalaga ng 7.49. Aling isa ay isang mas mahusay na alok na ito? Ang kailangan mo ay upang punan 4 field ng input at pindutin ang "kalkulahin".</string>
+<string name="information_5">Kung plano mong kumuha ng pautang para sa iyong pagbili, maaari kang kalkulahin ang lahat ng mga gastos na kasangkot pati na rin ang epektibong (real) Porsyento Rate ng Taunang. Gumagana ito sa dalawang mga mode. Sa una, kailangan mong ipasok ang nominal (taunang) porsyento rate na ibinigay ng tagapagpahiram at ang application ay kalkulahin ang halaga ng buwanang installment pati na rin ang kabuuang gastos. Sa pangalawang mode, kailangan mong ipasok ang halaga ng buwanang hulugan (minsan na ipinakita sa pamamagitan ng isang mangangalakal), at kakalkulahin ang application taunang porsyento pati na rin sa lahat ng mga gastos.</string>
+<string name="initial_value">Paunang halaga</string>
+<string name="instructions">Tagubilin</string>
+<string name="leave_one_of_two">Iwanang walang laman ang isa sa: porsyento, grupo ng paninda. Tingnan ang mga tagubilin sa ibaba.</string>
+<string name="leave_two_empty">Mag-iwan ng eksaktong dalawang mga patlang na walang laman</string>
+<string name="LoanCalc">Mga Gastos ng utang</string>
+<string name="loan_amt">Halaga ng utang</string>
+<string name="menu_title">Ano ang gusto mong upang kalkulahin?</string>
+<string name="msg_from_dev">Mensahe mula sa nag-develop</string>
+<string name="ok">OK</string>
+<string name="opinion">Palagay</string>
+<string name="other_fees">Iba pang mga bayarin</string>
+<string name="payments">Bilang ng mga installment</string>
+<string name="payment_amount">Hornal</string>
+<string name="percent">Porsiyento</string>
+<!-- as in percentage rate -->
+<string name="percentage">Bahagdan</string>
+<string name="price_unit">Presyo ng bawat unit</string>
+<string name="question">Tanong</string>
+<!-- imperative -->
+<string name="rate_app">I-rate ang application na ito!</string>
+<string name="regular_percent">Regular na porsiyento</string>
+<string name="results">Mga Resulta</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Halaga ng Resulta</string>
+<string name="saved_amount">Nai-save na halaga</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Para sa mga tagubilin mag-scroll pababa</string>
+<string name="send">Magpadala</string>
+<string name="small_price">Presyo</string>
+<string name="small_product">Maliit produkto</string>
+<string name="small_units">Mga Yunit o dami</string>
+<string name="submit">Kalkulahin</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Target na halaga</string>
+<string name="thanks">Salamat sa iyo!</string>
+<string name="tip">Halaga ng bigay-pala</string>
+<string name="tip_amount">Halaga ng bigay-pala</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Porsyento ng rate</string>
+<string name="total_cost">Kabuuang gastos</string>
+<string name="total_pay">Kabuuang magbayad</string>
+<string name="total_repay">Kabuuang magbayad</string>
+<string name="would_cost">Hypothetical gastos</string>
+</resources>

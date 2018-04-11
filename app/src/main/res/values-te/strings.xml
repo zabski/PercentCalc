@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="after_price">ధర తర్వాత</string>
+<string name="annual_percent_rate">వార్షిక రేటు శాతాన్ని</string>
+<string name="app_name">శాతాన్ని కాలిక్యులేటర్</string>
+<string name="app_name2">శాతం మరియు డిస్కౌంట్</string>
+<string name="app_name3">రాయితీల కాలిక్యులేటర్</string>
+<string name="app_name4">శాతం మరియు రాయితీల కాలిక్యులేటర్</string>
+<string name="before_price">ధర ముందు</string>
+<string name="big_product">పెద్ద ఉత్పత్తి</string>
+<string name="bill_amount">అందిన సొమ్ము</string>
+<string name="bug">లోపం</string>
+<string name="cancel">రద్దు</string>
+<string name="choose_currency">కరెన్సీ ఎంచుకోండి</string>
+<string name="clear">అన్ని క్లియర్</string>
+<string name="commission">కమిషన్</string>
+<string name="compare_result">పోలిక ఫలితాలు</string>
+<string name="cost_percent">రుణ శాతం ఖర్చు</string>
+<string name="del">తొలగించు</string>
+<string name="discount">డిస్కౌంట్</string>
+<string name="discount_rate">డిస్కౌంట్ రేటు</string>
+<string name="feedback">మాకు వ్రాయండి!</string>
+<string name="feedback_prompt">హాయ్, మీరు మాకు మీ అనుభవం మెరుగుపరిచేందుకు వీలుగా అభిప్రాయాన్ని ఇవ్వాలని అనుకుంటున్నారు?</string>
+<string name="fill_all_non_framed">మీరు అన్ని కాని ఏర్పడ్డ ఖాళీలను పూరించడానికి ఉండాలి</string>
+<string name="fill_in">అన్ని ఇన్పుట్ ఖాళీలను పూరించండి</string>
+<string name="fill_in_bill">మీరు నింపాలి: అందిన సొమ్ము</string>
+<string name="fill_in_compulsory">అన్ని అవసరమైన ఖాళీలను పూరించండి</string>
+<string name="fill_in_xor">ఖాళీ సరిగ్గా ఒక వదిలేయండి</string>
+<string name="help_translate">ఈ అప్లికేషన్ అనువదించడానికి సహాయం</string>
+<string name="hint_after_price">డిస్కౌంట్ తర్వాత ధర. ఇతర మాటలలో, ఈ తక్కువ ధర ఉంది.</string>
+<string name="hint_amount">మీ రుణ మొత్తం. మీరు కొనుగోలు కోరుకుంటున్న ఉత్పత్తి యొక్క ధర సాధారణంగా సమాన. ఈ ఫీల్డ్ అవసరం.</string>
+<string name="hint_apr">వార్షిక రేటు శాతాన్ని (APR) - మొత్తం ఖర్చు సహా రుణ ఎఫెక్టివ్ వార్షిక వడ్డీ రేటు.</string>
+<string name="hint_before_price">డిస్కౌంట్ ముందు ధర. ఇతర మాటలలో, ఈ అధిక ధర.</string>
+<string name="hint_bill_amount">మొత్తం మొత్తం మీ రసీదులు న చెల్లించడానికి.</string>
+<string name="hint_commission">కమిషన్ (లేదా రుణ ఫీజు) రుణ శాతం. తెలియదు ఉంటే, ఖాళీ వదిలి.</string>
+<string name="hint_cost_percent">మొత్తం ఖర్చు (పైన) రుణ శాతంలో.</string>
+<string name="hint_discount_rate">ఈ శాతంగా డిస్కౌంట్ రేటు.</string>
+<string name="hint_initial_amount">శాతం (లేదా ఉంది) ఇది నుండి ప్రారంభ మొత్తాన్ని లెక్కిస్తారు.</string>
+<string name="hint_install">నెలవారీ చెల్లింపులు సంఖ్య సాధారణంగా సమాన. ఈ ఫీల్డ్ అవసరం.</string>
+<string name="hint_interest">మీ ఋణం యొక్క నామమాత్ర (వార్షిక) వడ్డీ రేటు ఏమిటి? ఈ ఫీల్డ్ ఖాళీగా ఉంది, మీరు "వాయిదా" పూరించడానికి అవసరం</string>
+<string name="hint_other_fees">రుణ పరిమాణం పైన ఆధారపడి లేని అన్ని ఇతర రుసుములు. తెలియదు ఉంటే, ఖాళీ వదిలి.</string>
+<string name="hint_payment">మీ (నెలసరి) వాయిదాలలో యొక్క ప్రతి మొత్తం. మీరు "శాతం" ఖాళీగా తప్ప మీరు, ఈ రంగంలో పూరించడానికి అవసరం లేదు. ఖాళీగా ఉంటే, అది బటన్ నొక్కడం తర్వాత లెక్కించబడతాయి.</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">రెండు ఉత్పత్తుల కోసం ఒక యూనిట్ ధరలు. ఇది మొదలైనవి 1g, 1ml, 1oz, 1 అంశం గాని ఉంటుంది</string>
+<string name="hint_result_amount">ప్రారంభ విలువ శాతం గణన ఫలితంగా అని మొత్తం.</string>
+<string name="hint_saved_amount">మీరు రాయితీ ధర వద్ద కొనుగోలు ద్వారా సేవ్ డబ్బు మొత్తం.</string>
+<string name="hint_saved_bigger">మీరు పెద్ద ఉత్పత్తి కొనుగోలు చేయడం ద్వారా సేవ్ చేసే డబ్బు మొత్తం. సానుకూల విలువ పెద్ద ఉత్పత్తి ఉత్తమ ఒప్పందం అని సూచిస్తుంది. రుణాత్మక విలువ చిన్న ఉత్పత్తి ఉత్తమ ఒప్పందం అని సూచిస్తుంది.</string>
+<string name="hint_simple_percent">శాతం, మీరు "ప్రారంభ విలువ" లెక్కించేందుకు కావలసిన</string>
+<string name="hint_small_price">ఇచ్చిన ఉత్పత్తి యొక్క ధర.</string>
+<string name="hint_small_units">ఇచ్చిన ఉత్పత్తి యూనిట్ల సంఖ్య, వాల్యూమ్, బరువు లేదా కంటైనర్ అంశాల సంఖ్యను గాని ఉంటుంది.</string>
+<string name="hint_tip_amount">చిట్కా మొత్తం చెల్లించడానికి సిద్ధమయ్యాయి.</string>
+<string name="hint_tip_percentage">మీరు చెల్లించడానికి కావలసిన చిట్కా శాతం రేటు.</string>
+<string name="hint_total_cost">కలిసిన ఆసక్తి మరియు అన్ని రుసుములు సహా రుణ ఖర్చు మొత్తం.</string>
+<string name="hint_total_repay">అవసరం ఉంటుంది నగదు మొత్తం రుణదాత తిరిగి చెల్లించాల్సిన.</string>
+<string name="hint_total_to_pay">బిల్లు ప్లస్ చిట్కా పరిమాణం సమానంగా మీరు అవసరం (లేదా కావలసిన) చెల్లించడానికి నగదు మొత్తం.</string>
+<string name="hint_would_cost">యూనిట్కు దాని ధర ఊహిస్తూ పెద్ద ఉత్పత్తి యొక్క ఊహాత్మక ధర చిన్న ఉత్పత్తి యొక్క సమానము.</string>
+<string name="information_1">షాపింగ్ చేస్తున్నప్పుడు మీరు ఒక రిబేటు లేదా డిస్కౌంట్ చూసినప్పుడు, మీరు సేవ్ చేయవచ్చు ఎంత తనిఖీ చేయవచ్చు, లేదా ఉత్పత్తి యొక్క అసలు ధర ఏమిటి. నిజానికి, మీరు ఖాళీ వారి ఖాళీలను వదిలి ద్వారా విలువలు ఏ లెక్కించవచ్చు. మీరు ఖాళీ సరిగ్గా రెండు ఖాళీలను వదిలి. మీరు 25% డిస్కౌంట్ కలిగి ఇమాజిన్, మరియు అసలు ధర మీరు ప్రస్తుత ధర మరియు ఎంత మీరు సేవ్ ఉంటుంది కనుగొనేందుకు మరియు "డిస్కౌంట్" "ముందు" నింపాల్సిన అవసరం 299. ఉంది.</string>
+<string name="information_2">ఈ సులభమైన సాధనం ధన్యవాదాలు, మీరు ఒక పెద్ద ఉత్పత్తి కొనుగోలు మీరు కొన్ని డబ్బు మరియు ఎంత ఆదా అని తెలుసుకోవచ్చు. మీరు 2.79 ఖర్చవుతుంది ఇది ఒక చిన్న సీసాలో (0.5 లీటర్లు) మరియు 7,49 ఖర్చవుతుంది ఇది ఒక పెద్ద బాటిల్ (1.5 లీటర్లు) ఒక పానీయం కలిగి ఇమాజిన్. ఒక మంచి ఆఫర్ ఏది? మీరు అవసరం అన్ని 4 ఇన్పుట్ ఖాళీలను పూరించడానికి మరియు "లెక్కించేందుకు" నొక్కండి ఉంది.</string>
+<string name="information_3">షాపింగ్ చేస్తున్నప్పుడు మీరు ఒక రిబేటు లేదా డిస్కౌంట్ చూసినప్పుడు, మీరు సేవ్ చేయవచ్చు ఎంత తనిఖీ చేయవచ్చు, లేదా ఉత్పత్తి యొక్క అసలు ధర ఏమిటి. నిజానికి, మీరు ఖాళీ వారి ఖాళీలను వదిలి ద్వారా విలువలు ఏ లెక్కించవచ్చు. మీరు ఖాళీ సరిగ్గా రెండు ఖాళీలను వదిలి. మీరు 25% డిస్కౌంట్ కలిగి ఇమాజిన్, మరియు అసలు ధర మీరు ప్రస్తుత ధర మరియు ఎంత మీరు సేవ్ ఉంటుంది కనుగొనేందుకు మరియు "డిస్కౌంట్" "ముందు" నింపాల్సిన అవసరం 299. ఉంది.</string>
+<string name="information_4">ఈ సులభమైన సాధనం ధన్యవాదాలు, మీరు ఒక పెద్ద ఉత్పత్తి కొనుగోలు మీరు కొన్ని డబ్బు మరియు ఎంత ఆదా అని తెలుసుకోవచ్చు. మీరు 2.79 ఖర్చవుతుంది ఇది ఒక చిన్న సీసాలో (0.5 లీటర్లు) మరియు 7,49 ఖర్చవుతుంది ఇది ఒక పెద్ద బాటిల్ (1.5 లీటర్లు) ఒక పానీయం కలిగి ఇమాజిన్. ఒక మంచి ఆఫర్ ఏది? మీరు అవసరం అన్ని 4 ఇన్పుట్ ఖాళీలను పూరించడానికి మరియు "లెక్కించేందుకు" నొక్కండి ఉంది.</string>
+<string name="information_5">మీరు మీ కొనుగోళ్లకు రుణం తీసుకోవాలని ప్లాన్ ఉంటే, మీరు ప్రభావవంతమైన (నిజ) వార్షిక రేటు శాతాన్ని అలాగే చేరి అన్ని ఖర్చులు లెక్కించవచ్చు. ఇది రెండు పద్ధతులలో పనిచేస్తుంది. మొదటి, మీరు రుణదాత మరియు నెలవారీ వాయిదాలలో యొక్క మొత్తం అలాగే మొత్తం ఖర్చులు లెక్కించేందుకు ఉంటుంది అప్లికేషన్ ద్వారా అందించబడిన నామమాత్రపు (వార్షిక) శాతం రేటు నమోదు చేయాలి. రెండవ మోడ్ లో, మీరు (కొన్నిసార్లు ఒక వ్యాపారి అందించారు) నెలసరి వాయిదా మొత్తం ఎంటర్ అవసరం, మరియు అప్లికేషన్ వార్షిక శాతం అలాగే అన్ని ఖర్చులు లెక్కించేందుకు ఉంటుంది.</string>
+<string name="initial_value">ప్రారంభ విలువ</string>
+<string name="instructions">సూచనలు</string>
+<string name="leave_one_of_two">శాతం, వాయిదాల: ఖాళీ వదిలి. క్రింది సూచనలను చూడండి.</string>
+<string name="leave_two_empty">సరిగ్గా రెండు ఖాళీలను ఖాళీగా వదిలివేయండి</string>
+<string name="LoanCalc">రుణ వ్యయాలు</string>
+<string name="loan_amt">రుణ మొత్తం</string>
+<string name="menu_title">ఏం మీరు లెక్కించేందుకు అనుకుంటున్నారు?</string>
+<string name="msg_from_dev">డెవలపర్ నుండి సందేశం</string>
+<string name="ok">సరే</string>
+<string name="opinion">అభిప్రాయం</string>
+<string name="other_fees">ఇతర ఫీజు</string>
+<string name="payments">వాయిదాలలో యొక్క సంఖ్య</string>
+<string name="payment_amount">వాయిదా సొమ్ము</string>
+<string name="percent">శాతం</string>
+<!-- as in percentage rate -->
+<string name="percentage">శాతం</string>
+<string name="price_unit">యూనిట్ ధర</string>
+<string name="question">ప్రశ్నను</string>
+<!-- imperative -->
+<string name="rate_app">ఈ అప్లికేషన్ రేటు!</string>
+<string name="regular_percent">రెగ్యులర్ శాతం</string>
+<string name="results">ఫలితాలు</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">ఫలితం విలువ</string>
+<string name="saved_amount">సేవ్ మొత్తం</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">సూచనలను స్క్రోల్ కోసం</string>
+<string name="send">పంపు</string>
+<string name="small_price">ధర</string>
+<string name="small_product">చిన్న ఉత్పత్తి</string>
+<string name="small_units">యూనిట్లు లేదా పరిమాణం</string>
+<string name="submit">లెక్కించు</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">టార్గెట్ మొత్తం</string>
+<string name="thanks">ధన్యవాదాలు!</string>
+<string name="tip">పారితోషికం సొమ్ము</string>
+<string name="tip_amount">పారితోషికం సొమ్ము</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">శాతం రేటు</string>
+<string name="total_cost">మొత్తం వ్యయం</string>
+<string name="total_pay">చెల్లించవలసి మొత్తం</string>
+<string name="total_repay">తిరిగి చెల్లించవలసిన మొత్తం</string>
+<string name="would_cost">ఊహాత్మక ధర</string>
+</resources>

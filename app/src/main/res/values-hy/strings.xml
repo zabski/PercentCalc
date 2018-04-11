@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="after_price">Գինը, հետո</string>
+<string name="annual_percent_rate">Տարեկան տոկոսադրույք</string>
+<string name="app_name">Հաշվիչ տոկոսային</string>
+<string name="app_name2">Տոկոսային եւ զեղչեր</string>
+<string name="app_name3">Հաշվիչ զեղչերի</string>
+<string name="app_name4">Հաշվիչ տոկոսային եւ զեղչեր</string>
+<string name="before_price">Գինը առաջ</string>
+<string name="big_product">Խոշոր արտադրանքը</string>
+<string name="bill_amount">Գումարը ստանալուց</string>
+<string name="bug">Սխալ</string>
+<string name="cancel">Վերացնել</string>
+<string name="choose_currency">Ընտրեք արժույթը</string>
+<string name="clear">Մաքրել բոլորը</string>
+<string name="commission">Հանձնաժողով</string>
+<string name="compare_result">Արդյունքները Համեմատության համար</string>
+<string name="cost_percent">Արժեքը որպես տոկոս վարկի</string>
+<string name="del">Ջնջել</string>
+<string name="discount">Զեղչել</string>
+<string name="discount_rate">Փոխարժեքը զեղչ</string>
+<string name="feedback">Գրեք մեզ!</string>
+<string name="feedback_prompt">Hi, ցանկանում եք տալ մեզ ինչ - որ հետադարձ այնպես որ մենք կարող ենք բարելավել ձեր փորձը.</string>
+<string name="fill_all_non_framed">Դուք պետք է լրացնեք բոլոր ոչ-շրջանակված ոլորտներում</string>
+<string name="fill_in">Խնդրում ենք լրացնել բոլոր մուտքային ոլորտներում</string>
+<string name="fill_in_bill">Դուք պետք է լրացնել: Գումարը ստանալուց</string>
+<string name="fill_in_compulsory">Խնդրում ենք լրացնել բոլոր պահանջվող դաշտերը</string>
+<string name="fill_in_xor">Թողնել ուղիղ մեկ դաշտ դատարկ</string>
+<string name="help_translate">Օգնել թարգմանել այս ծրագիրը</string>
+<string name="hint_after_price">Գինը, հետո զեղչ. Այլ կերպ ասած, սա այն ավելի ցածր գնով.</string>
+<string name="hint_amount">Գումարը Ձեր վարկի. Սովորաբար հավասար է ապրանքի գինը, որը ցանկանում եք ձեռք բերել. Այս դաշտը պարտադիր է:</string>
+<string name="hint_apr">Տարեկան տոկոսադրույք (APR) - Արդյունավետ տարեկան տոկոսադրույքը վարկի, այդ թվում, ընդհանուր արժեքի.</string>
+<string name="hint_before_price">Գինը մինչ զեղչ. Այլ կերպ ասած, սա այն ավելի բարձր է գինը.</string>
+<string name="hint_bill_amount">Ընդհանուր գումարը վճարել ձեր ստանալուց հետո.</string>
+<string name="hint_commission">Հանձնաժողովը (կամ վարկային վճար) որպես տոկոս վարկի. Եթե ​​հայտնի չէ, թողեք դատարկ.</string>
+<string name="hint_cost_percent">Ընդհանուր արժեքը (ինչպես վերեւում) արտահայտված որպես տոկոսային վարկի.</string>
+<string name="hint_discount_rate">Սա փոխարժեքը զեղչ, ինչպես նաեւ տոկոսային.</string>
+<string name="hint_initial_amount">Սկզբնական գումարը, որը տոկոսային կլինի (կամ էր) հաշվարկվում.</string>
+<string name="hint_install">Սովորաբար հավասար թվով ամսական վճարումների. Այս դաշտը պարտադիր է:</string>
+<string name="hint_interest">Ինչ է անվանական (տարեկան) տոկոսադրույքը Ձեր վարկի. Եթե ​​այս դաշտը մնացել է դատարկ, դուք պետք է լրացնել «ապառիկ»</string>
+<string name="hint_other_fees">Բոլոր այլ վճարները, որոնք չեն կախված է գումարի վարկի. Եթե ​​հայտնի չէ, թողեք դատարկ.</string>
+<string name="hint_payment">Գումարը յուրաքանչյուր ձեր (ամսական) մարումներով. Դուք չունեք հաղորդագրություն փակցնելու համար անհրաժեշտ է լրացնել այս ոլորտում, քանի դեռ դուք թողել «տոկոսային" blank. Եթե ​​ձախ դատարկ, դա կլինի հաշվարկվում է այն բանից հետո, սեղմելով կոճակը:</string>
+<!-- the units are 1g = 1 gram, 1ml = 1 milliliter, 1 oz = 1 ounce  -->
+<string name="hint_price_of_unit">Գները մեկ միավորի համար, այնպես էլ արտադրանքի. Դա կարող է լինել կամ 1g, 1 մլ, 1oz 1 տարրը եւ այլն:</string>
+<string name="hint_result_amount">Գումարը, որ արդյունքում հաշվարկման տոկոս նախնական արժեքի.</string>
+<string name="hint_saved_amount">Այդ գումարը, որ դուք փրկելու է գնել զեղչված գնով:</string>
+<string name="hint_saved_bigger">Գումարը, որ դուք պետք է փրկել գնելով ավելի մեծ արտադրանքը. Դրական արժեքը ցույց է տալիս, որ ավելի մեծ է, արդյունք է մի լավ գործարք. Բացասական արժեքը ցույց է տալիս, որ ավելի փոքր արդյունք է ավելի լավ գործարք.</string>
+<string name="hint_simple_percent">Տոկոսային, որ դուք ուզում եք հաշվարկել են «Նախնական արժեքը"</string>
+<string name="hint_small_price">Գինը տվյալ ապրանքի.</string>
+<string name="hint_small_units">Միավորների քան-միավորների տվյալ ապրանքի, դա կարող է լինել կամ ծավալը, քաշը կամ համարը տարրերի կոնտեյներ.</string>
+<string name="hint_tip_amount">Գումարը հուշում դուք պատրաստ են վճարել.</string>
+<string name="hint_tip_percentage">Տոկոսադրույքը հուշում ուզում եք վճարել.</string>
+<string name="hint_total_cost">Ընդհանուր արժեքը վարկի, այդ թվում, compounded շահերից, եւ բոլոր վճարները:</string>
+<string name="hint_total_repay">Ընդհանուր գումարը, որը պետք է մարվի մինչեւ պարտատեր.</string>
+<string name="hint_total_to_pay">Ընդհանուր գումարը, որ դուք պետք է (կամ ուզում) է վճարել, հավասար է օրինագծի գումարած հուշում չափով.</string>
+<string name="hint_would_cost">Հիպոթետիկ գինը մեծ արտադրանքի ենթադրելով իր գինը մեկ միավորի հավասար է, որ փոքր արտադրանքի.</string>
+<string name="information_1">Ամեն անգամ, երբ տեսնում եք, զիջել կամ զեղչ, իսկ գնումներ, դուք կարող եք ստուգել, ​​թե որքան դուք կարող եք պահպանել, կամ ինչ է, բնօրինակը գինը արտադրանքի էր. Ի դեպ, դուք կարող եք հաշվարկել ցանկացած արժեքների թողնելով իրենց դաշտերը դատարկ է. Դուք պետք է թողնել ուղիղ երկու ոլորտներում դատարկ է. Պատկերացրեք, որ դուք ունեք մի զեղչ 25%, իսկ բնօրինակը գինը 299. Դուք պետք է լրացնել «առաջ» եւ «զեղչով» է պարզել ներկայիս գինը եւ թե որքան դուք կարող եք փրկել.</string>
+<string name="information_2">Thanks Այս հեշտ գործիք, դուք կարող եք պարզել, թե արդյոք գնելու ավելի մեծ արտադրանքը կարող է փրկել ձեզ որոշակի գումար եւ որքան. Պատկերացրեք, որ դուք ունեք մի խմել մի փոքր շիշ (0.5 լիտր), որն արժե 2.79, եւ մի մեծ շիշ (1.5 լիտր), որը արժե 7.49. Որ մեկն է ավելի լավ առաջարկ. Բոլոր դուք պետք է լրացնել 4 մուտքագրման դաշտերը եւ սեղմել "հաշվարկել".</string>
+<string name="information_3">Ամեն անգամ, երբ տեսնում եք, զիջել կամ զեղչ, իսկ գնումներ, դուք կարող եք ստուգել, ​​թե որքան դուք կարող եք պահպանել, կամ ինչ է, բնօրինակը գինը արտադրանքի էր. Ի դեպ, դուք կարող եք հաշվարկել ցանկացած արժեքների թողնելով իրենց դաշտերը դատարկ է. Դուք պետք է թողնել ուղիղ երկու ոլորտներում դատարկ է. Պատկերացրեք, որ դուք ունեք մի զեղչ 25%, իսկ բնօրինակը գինը 299. Դուք պետք է լրացնել «առաջ» եւ «զեղչով» է պարզել ներկայիս գինը եւ թե որքան դուք կարող եք փրկել.</string>
+<string name="information_4">Thanks Այս հեշտ գործիք, դուք կարող եք պարզել, թե արդյոք գնելու ավելի մեծ արտադրանքը կարող է փրկել ձեզ որոշակի գումար եւ որքան. Պատկերացրեք, որ դուք ունեք մի խմել մի փոքր շիշ (0.5 լիտր), որն արժե 2.79, եւ մի մեծ շիշ (1.5 լիտր), որը արժե 7.49. Որ մեկն է ավելի լավ առաջարկ. Բոլոր դուք պետք է լրացնել 4 մուտքագրման դաշտերը եւ սեղմել "հաշվարկել".</string>
+<string name="information_5">Եթե ​​Դուք պլանավորում եք վերցնել վարկ ձեր գնումներ, Դուք կարող եք հաշվել բոլոր ծախսերը ներգրավված, ինչպես նաեւ արդյունավետ (իրական) տարեկան տոկոսադրույքով: Այն աշխատում է երկու եղանակով. Առաջին, դուք պետք է մուտք գործել անվանական (տարեկան) տոկոսադրույքի կողմից տրամադրված փոխատու, եւ դիմումը հաշվարկել չափը ամսական մարումներով, ինչպես նաեւ ընդհանուր ծախսերը. Իսկ երկրորդ ռեժիմում, դուք պետք է մուտքագրեք գումարը ամսական ապառիկ (երբեմն ներկայացվել է մի վաճառականի) եւ կիրառման հաշվարկել տարեկան տոկոսային ինչպես նաեւ բոլոր ծախսերը.</string>
+<string name="initial_value">Սկզբնական արժեքը</string>
+<string name="instructions">Հրահանգներ</string>
+<string name="leave_one_of_two">Թողնել դատարկ մեկը: տոկոսը, ապառիկ. Տես հրահանգներին ստորեւ.</string>
+<string name="leave_two_empty">Թողնել թե երկու ոլորտներում դատարկ է</string>
+<string name="LoanCalc">Ծախսերը վարկի</string>
+<string name="loan_amt">Գումարը վարկի</string>
+<string name="menu_title">Ինչ եք ուզում է հաշվարկել.</string>
+<string name="msg_from_dev">Ուղերձ մշակողի</string>
+<string name="ok">Լավ</string>
+<string name="opinion">Կարծիք</string>
+<string name="other_fees">Այլ վճարներ</string>
+<string name="payments">Միավորների քան-մարումներով</string>
+<string name="payment_amount">Գումարը ապառիկ</string>
+<string name="percent">Տոկոս</string>
+<!-- as in percentage rate -->
+<string name="percentage">Տոկոս</string>
+<string name="price_unit">Գինը մեկ միավորի</string>
+<string name="question">Հարց</string>
+<!-- imperative -->
+<string name="rate_app">Գնահատեք այս ծրագիրը.</string>
+<string name="regular_percent">Հերթական% -ը</string>
+<string name="results">Արդյունքները</string>
+<!-- value being a result of some calculations -->
+<string name="result_value">Արդյունքը արժեքը</string>
+<string name="saved_amount">Պահված գումարը</string>
+<!-- In order to see instructions, please scroll down -->
+<string name="see_details">Համար հրահանգներ ոլորել ներքեւ</string>
+<string name="send">Ուղարկել</string>
+<string name="small_price">Գին</string>
+<string name="small_product">Փոքր արտադրանքը</string>
+<string name="small_units">Units կամ քանակի</string>
+<string name="submit">Հաշվել</string>
+<!-- amount that is expected to be a result -->
+<string name="target_amount">Target գումարը</string>
+<string name="thanks">Շնորհակալություն!</string>
+<string name="tip">Գումարը դրամական</string>
+<string name="tip_amount">Գումարը դրամական</string>
+<!-- percentage rate of a tip -->
+<string name="tip_percentage">Տոկոսադրույքը</string>
+<string name="total_cost">Ընդհանուր արժեքը</string>
+<string name="total_pay">Total է վճարել</string>
+<string name="total_repay">Total մարել</string>
+<string name="would_cost">Հիպոթետիկ ծախսերը</string>
+</resources>

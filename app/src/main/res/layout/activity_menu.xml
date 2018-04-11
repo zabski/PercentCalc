@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:ads2="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0D47A1">
+    <!--
+    android:background="@android:color/holo_blue_dark"
+
+
+    -->
+    <!--
+    android:background="#dddddd"
+    android:background="#c6951c"
+    android:paddingTop="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"-->
+		
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/menu_title"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/text_l"
+        android:textStyle="bold" />
+
+    <ListView
+
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_below="@id/textView1"
+        android:contentDescription="Choose Activity"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:textAppearance="?android:attr/textAppearanceMedium" >
+
+    </ListView>
+
+    <!--
+    android:id="@android:id/list"
+    -->
+
+    <!--
+    android:layout_margin="@dimen/margin_l"
+    android:background="@layout/menu_item"
+    android:background="@android:color/transparent"-->
+
+    <!--LinearLayout
+        android:id="@+id/statusBar"
+        android:layout_height="25dp"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:id="@+id/status"
+            android:padding="2dp"
+            android:textAlignment="center"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="left" />
+    </LinearLayout-->
+
+   	<!--com.google.ads.AdView android:id="@+id/adView"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"	                
+      android:layout_marginTop="0dp"	                 
+      ads:adUnitId="ca-app-pub-4402674240600002/7562388971"
+      ads:adSize="SMART_BANNER"
+      ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+      ads:loadAdOnCreate="true"/-->
+
+    <TextView
+        android:id="@+id/privacyPolicy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal|bottom"
+        android:text="@string/menu_title"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/text_l"
+        android:textStyle="normal"
+        android:visibility="gone"/>
+
+    <!--include layout="@layout/ads_incl_fb_native"/-->
+
+    <include layout="@layout/ads_incl_admob_banner"/>
+
+    <!--com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_l"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/adViewExpress"
+        android:visibility="visible"
+        ads:adUnitId="ca-app-pub-4402674240600002/7562388971"
+        ads:adSize="SMART_BANNER"/>
+
+    <com.amazon.device.ads.AdLayout
+        android:id="@+id/amazonAdview"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <FrameLayout
+        android:id="@+id/native_ad_container_end"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/list"
+        android:orientation="vertical"
+        android:visibility="visible"
+        android:padding="@dimen/margin_s">
+    </FrameLayout>
+
+    <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/adViewExpress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@id/native_ad_container_end"
+        android:visibility="visible"
+        ads:adSize="320x132"
+        ads:adUnitId="@string/admob_express_small_id">
+    </com.google.android.gms.ads.NativeExpressAdView-->
+
+
+
+</LinearLayout>

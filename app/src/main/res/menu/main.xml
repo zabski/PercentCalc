@@ -1,0 +1,74 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/action_regular"
+        android:orderInCategory="103"
+        android:showAsAction="never"
+        android:title="@string/regular_percent"/>    
+
+ 	<item
+        android:id="@+id/action_tip"
+        android:orderInCategory="104"
+        android:showAsAction="never"
+        android:title="@string/tip"/>
+    
+    <item
+        android:id="@+id/action_discount"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/discount"/>  
+        
+    <item
+        android:id="@+id/action_price_unit"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/price_unit"/>      
+    
+    <item
+        android:id="@+id/action_loan"
+        android:orderInCategory="102"
+        android:showAsAction="never"
+        android:title="@string/LoanCalc"/>
+    
+    <item
+        android:id="@+id/action_currency"
+        android:orderInCategory="105"
+        android:icon="@drawable/dollar"
+        android:showAsAction="ifRoom"
+        android:title="@string/choose_currency"/>    
+        
+    <item
+        android:id="@+id/action_rate_app"
+        android:orderInCategory="106"
+        android:icon="@drawable/ic_action_star_0"
+        android:showAsAction="ifRoom"
+        android:title="@string/rate_app"/>     
+        
+    <item
+        android:id="@+id/action_feedback"
+        android:orderInCategory="107"
+        android:icon="@drawable/ic_action_mail"
+        android:showAsAction="ifRoom"
+        android:title="@string/feedback"/>
+
+    <item
+        android:id="@+id/action_remove_ads"
+        android:orderInCategory="108"
+        android:icon="@drawable/ic_action_halt"
+        android:showAsAction="ifRoom"
+        android:title="@string/remove_ads"/>
+
+    <!-- item
+        android:id="@+id/action_translate"
+        android:orderInCategory="108"
+        android:showAsAction="never"
+        android:title="@string/help_translate"/>      
+    
+    <item
+        android:id="@+id/action_info"
+        android:orderInCategory="106"
+        android:showAsAction="never"
+        android:title="@string/help"/-->
+
+
+</menu>

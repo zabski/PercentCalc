@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <integer name="ads">3</integer>
+    <integer name="fb_ads">1</integer>
+    <integer name="log">0</integer>
+    <integer name="ad_destroy">1</integer>
+    <string name="ad_debug">gone</string>
+    <string name="admob_app_id">ca-app-pub-4402674240600002~2088645375</string>
+    <string name="admob_inter_id">ca-app-pub-4402674240600002/7022190976</string>
+    <string name="admob_banner_1">ca-app-pub-4402674240600002/3497352977</string>
+    <string name="admob_express_large_id">ca-app-pub-4402674240600002/1496435774</string>
+    <string name="admob_express_medium_id">ca-app-pub-4402674240600002/7834223771</string>
+    <string name="admob_express_small_id">ca-app-pub-4402674240600002/7042148179</string>
+    <string name="admob_express_small_id2">ca-app-pub-4402674240600002/7435235775</string>
+    <string name="facebook_app_id">303574029812951</string>
+    <string name="facebook_banner_id">303574029812951_315520421951645</string>
+    <string name="facebook_native_id">303574029812951_330406863796334</string>
+    <string name="facebook_inter_id">303574029812951_308626859307668</string>
+    <string name="amazon_app_id">8fa118947f124898a0e6a443222d737d</string>
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+</resources>
